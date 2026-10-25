@@ -66,6 +66,91 @@
       "status": "skipped_no_prompt",
       "at": "2026-10-25T11:53:05+00:00",
       "reason": "AI-generated 3D/video work, but only a high-level code requirement is quoted, not a usable image/video generation prompt."
+    },
+    "2114313375358267405": {
+      "status": "generated",
+      "at": "2026-10-25T12:43:19+00:00"
+    },
+    "2114312384093507665": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:43:19+00:00",
+      "reason": "Poetic caption describing a dance clip; no generation prompt text, only a video link."
+    },
+    "2114139627284242929": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:43:19+00:00",
+      "reason": "Promotional post about wedding-related prompts on a website; no prompt text included."
+    },
+    "2114003295341834270": {
+      "status": "generated",
+      "at": "2026-10-25T12:43:49+00:00"
+    },
+    "2113977293597229289": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:43:49+00:00",
+      "reason": "Commentary about prompt counts and search usability; no prompt content."
+    },
+    "2113943742726168799": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:43:49+00:00",
+      "reason": "Post about Claude account setups and a tutorial link; not an AI art work and no prompt."
+    },
+    "2113817933084545427": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:43:49+00:00",
+      "reason": "Shows generated images but the prompt is only referenced via a t.co link, so no verbatim prompt text is present."
+    },
+    "2113579688388096077": {
+      "status": "generated",
+      "at": "2026-10-25T12:44:23+00:00"
+    },
+    "2113568095839068251": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:44:23+00:00",
+      "reason": "AI art/prompt-set commentary with a link, but no actual generation prompt text in the post."
+    },
+    "2113631535463354443": {
+      "status": "generated",
+      "at": "2026-10-25T12:44:48+00:00"
+    },
+    "2113592520873586859": {
+      "status": "generated",
+      "at": "2026-10-25T12:45:14+00:00"
+    },
+    "2113548228662608124": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Social chatter with mentions and links; no AI artwork prompt."
+    },
+    "2112930627054076270": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Post promotes an AI+Blender 3D animation tutorial and says the prompt is at the end of the article, but no prompt text is present in the post."
+    },
+    "2113153179982643430": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Promotional/social chatter with a link; no AI artwork prompt."
+    },
+    "2112721654216544693": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Post showcases a Wan 3.0 'Larping' AI video demo (video attached), but no generation prompt text is provided."
+    },
+    "2112445606585364903": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Promotes an open-source GitHub project/AI trend tool; no AI-generated artwork or prompt."
+    },
+    "2112131604902772804": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Recommends a speech-to-text AI product with a screenshot; not an AI image/video work and no prompt."
+    },
+    "2112076203830218911": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T12:45:14+00:00",
+      "reason": "Discusses using an open-source tool for reading AI papers; no AI artwork or generation prompt."
     }
   },
   "processed_inbox": {
