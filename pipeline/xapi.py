@@ -154,3 +154,26 @@ def fetch_all(token, config, state, log=print, has_prompt=lambda p: True):
         except Exception as e:
             log(f"[x] 账号 {username} 抓取失败: {e}")
     return posts, newest
+
+
+def posts_from_raw(resp):
+    """Normalize a raw X API v2 response (as pushed by a bot) with the same grouping as build_posts."""
+    inc = resp.get("includes") or {}
+    users = {u["id"]: u["username"] for u in inc.get("users", []) if u.get("id") and u.get("username")}
+    data = resp.get("data") or []
+    data = [data] if isinstance(data, dict) else list(data)
+    have = {t["id"] for t in data}
+    # a self-reply's root may only be delivered under includes.tweets
+    wanted = {t.get("conversation_id") for t in data if _is_reply(t)}
+    data += [t for t in inc.get("tweets", []) if t["id"] in wanted and t["id"] not in have]
+    by_author = {}
+    for t in data:
+        by_author.setdefault(t.get("author_id"), []).append(t)
+    posts = []
+    for author_id, tweets in by_author.items():
+        if author_id not in users:
+            continue  # cannot build a URL / attribute the post without a username
+        for p in build_posts(users[author_id], {"data": tweets, "includes": inc}):
+            p["source"] = "inbox"
+            posts.append(p)
+    return posts

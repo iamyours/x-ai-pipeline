@@ -30,10 +30,25 @@ def score(text):
     return s
 
 
+def raw_candidates(post):
+    """Unmodified candidate texts: index 0 = root post body, 1.. = the author's self-replies."""
+    return [post.get("text", "") or ""] + [r or "" for r in post.get("replies") or []]
+
+
+def valid_prompt_text(post):
+    """A bot-supplied prompt_text is trusted only if it is a verbatim substring of some candidate text."""
+    pt = post.get("prompt_text") or ""
+    if not pt.strip():
+        return None
+    texts = raw_candidates(post)
+    return pt if any(pt in t or pt.strip() in clean(t) for t in texts) else None
+
+
 def extract_prompt(post):
     """Return the raw prompt for a normalized post, or None when nothing looks like a prompt."""
-    if (post.get("prompt_text") or "").strip():
-        return post["prompt_text"]
+    supplied = valid_prompt_text(post)
+    if supplied:
+        return supplied
     candidates = [clean(t) for t in [post.get("text", "")] + list(post.get("replies") or [])]
     candidates = [c for c in candidates if c]
     scores = [score(c) for c in candidates]

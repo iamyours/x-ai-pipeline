@@ -7,7 +7,7 @@ from pathlib import Path
 
 import yaml
 
-from . import gallery, imagegen, inbox, media, prompt, queue, xapi
+from . import analyze, gallery, imagegen, inbox, media, prompt, queue, xapi
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE_FILE = ROOT / "state" / "seen.json"
@@ -29,8 +29,10 @@ def save_state(state):
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def mark_seen(state, tweet_id, status):
+def mark_seen(state, tweet_id, status, reason=None):
     state["seen"][tweet_id] = {"status": status, "at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+    if reason:
+        state["seen"][tweet_id]["reason"] = reason
 
 
 def slug_for(post):
@@ -78,14 +80,17 @@ def main():
     have_key = bool(os.environ.get("BYTECAT_API_KEY")) or dry_run
     if not have_key:
         log("BYTECAT_API_KEY 未设置：跳过生图，帖子留待下次处理")
+    # bot-supplied prompt_text that checks out is used as-is; everything else goes to the LLM (or regex fallback)
+    verdicts = analyze.analyze_posts([p for p in todo if not prompt.valid_prompt_text(p)], log)
     queue_file = ROOT / "pending_videos.json"
     entries = queue.load(queue_file)
     to_publish, deferred_ids = [], set()
     for post in todo:
         tid = post["tweet_id"]
-        text = prompt.extract_prompt(post)
+        verdict = verdicts.get(tid)
+        text = verdict["prompt"] if verdict else prompt.extract_prompt(post)
         if text is None:
-            mark_seen(state, tid, "skipped_no_prompt")
+            mark_seen(state, tid, "skipped_no_prompt", verdict and verdict["reason"])
             stats["skipped_no_prompt"] += 1
             continue
         if not have_key or calls >= cap:

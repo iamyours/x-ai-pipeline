@@ -1,15 +1,52 @@
-{"posts": [
-  {"tweet_id": "9001", "url": "https://x.com/pixelaigc/status/9001", "author": "pixelaigc",
-   "text": "新作 https://t.co/abc", "prompt_text": "暗红旗袍，奇幻肖像\n【人物】成年女性\n--ar 2:3",
-   "media": [{"type": "photo", "url": "https://pbs.twimg.com/media/a.jpg", "width": 1200, "height": 800}],
-   "created_at": "2026-10-25T01:00:00Z"},
-  {"tweet_id": "9002", "url": "https://x.com/pixelaigc/status/9002", "author": "pixelaigc",
-   "text": "video post", "prompt_text": "Master Prompt: a cinematic scene\n人物：红衣女子\nCamera slowly pushes in, wind",
-   "media": [{"type": "video", "url": "https://video.twimg.com/a.mp4"}],
-   "created_at": "2026-10-25T01:05:00Z"},
-  {"tweet_id": "9003", "url": "https://x.com/pixelaigc/status/9003", "author": "pixelaigc",
-   "text": "good morning everyone", "prompt_text": "", "media": [], "created_at": "2026-10-25T01:10:00Z"},
-  {"tweet_id": "1002", "url": "https://x.com/sandmrk/status/1002", "author": "sandmrk",
-   "text": "dup of the API tweet", "prompt_text": "Prompt: duplicate from inbox", "media": [],
-   "created_at": "2026-10-25T01:15:00Z"}
-]}
+{
+ "posts": [
+  {
+   "tweet_id": "9001",
+   "url": "https://x.com/pixelaigc/status/9001",
+   "author": "pixelaigc",
+   "text": "新作 https://t.co/abc\n暗红旗袍，奇幻肖像\n【人物】成年女性\n--ar 2:3",
+   "prompt_text": "暗红旗袍，奇幻肖像\n【人物】成年女性\n--ar 2:3",
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/a.jpg",
+     "width": 1200,
+     "height": 800
+    }
+   ],
+   "created_at": "2026-10-25T01:00:00Z"
+  },
+  {
+   "tweet_id": "9002",
+   "url": "https://x.com/pixelaigc/status/9002",
+   "author": "pixelaigc",
+   "text": "video post\nMaster Prompt: a cinematic scene\n人物：红衣女子\nCamera slowly pushes in, wind",
+   "prompt_text": "Master Prompt: a cinematic scene\n人物：红衣女子\nCamera slowly pushes in, wind",
+   "media": [
+    {
+     "type": "video",
+     "url": "https://video.twimg.com/a.mp4"
+    }
+   ],
+   "created_at": "2026-10-25T01:05:00Z"
+  },
+  {
+   "tweet_id": "9003",
+   "url": "https://x.com/pixelaigc/status/9003",
+   "author": "pixelaigc",
+   "text": "good morning everyone",
+   "prompt_text": "",
+   "media": [],
+   "created_at": "2026-10-25T01:10:00Z"
+  },
+  {
+   "tweet_id": "1002",
+   "url": "https://x.com/sandmrk/status/1002",
+   "author": "sandmrk",
+   "text": "Prompt: duplicate from inbox",
+   "prompt_text": "Prompt: duplicate from inbox",
+   "media": [],
+   "created_at": "2026-10-25T01:15:00Z"
+  }
+ ]
+}
