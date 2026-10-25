@@ -19,8 +19,11 @@ class PipelineTestBase(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = Path(self.tmp.name) / "repo"
-        shutil.copytree(REPO, self.root, ignore=shutil.ignore_patterns(".venv", ".git", "__pycache__", "data", "tests"))
-        (self.root / "data").mkdir()
+        shutil.copytree(REPO, self.root, ignore=shutil.ignore_patterns(
+            ".venv", ".git", "__pycache__", "data", "tests", "state", "inbox", "pending_videos.json"))
+        # real runtime state/inbox/queue must not leak into the test copy
+        for d in ("data", "inbox"):
+            (self.root / d).mkdir()
         (self.root / "inbox" / f"{DATE}.json").write_text((FIX / "inbox.json").read_text(encoding="utf-8"))
         (self.root / "inbox" / f"{DATE}-sandmrk.json").write_text((FIX / "raw_sandmrk.json").read_text(encoding="utf-8"))
         self.gallery = Path(self.tmp.name) / "gallery"
