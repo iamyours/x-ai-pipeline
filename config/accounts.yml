@@ -13,7 +13,7 @@ accounts:
 # - RohoQinAI
 # - liluocheng13
 max_posts_per_account: 10  # 仅为给抓取 bot 的提示：每个账号每次最多抓取的帖子数
-max_images_per_run: 7      # 每次运行最多调用生图接口的次数（含视频参考图）
+max_images_per_run: 5      # 每次运行最多调用生图接口的次数（含视频参考图）
 image_size: "1024x1536"    # 默认尺寸
 gallery_repo: iamyours/ai-image-gallery
 gallery_tag: "X 自动"
