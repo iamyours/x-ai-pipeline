@@ -1,1 +1,74 @@
-{"seen": {}, "processed_inbox": {}}
+{
+  "seen": {
+    "2114316279591141811": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:51:48+00:00",
+      "reason": "Follower milestone/thanks post; no AI generation prompt."
+    },
+    "2114318557945135153": {
+      "status": "generated",
+      "at": "2026-10-25T11:52:15+00:00"
+    },
+    "2114287693064515936": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "Text about Claude accounts and tutorials; no image/video generation prompt."
+    },
+    "2114187291707212008": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "Text about browser/TODO/Claude development workflow; no generation prompt."
+    },
+    "2114152879217090909": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "Mentions AI daily-sign images and aesthetic prompts, but no actual usable prompt text is included."
+    },
+    "2114144746021212224": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "Reflective text about Opus5.5; no image/video generation prompt."
+    },
+    "2108873683494478141": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "Link plus status reply; no AI art prompt."
+    },
+    "2114218005441991058": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:52:15+00:00",
+      "reason": "AI image post states the prompt is in the comments, but no prompt text is present in the candidates."
+    },
+    "2113934776705122743": {
+      "status": "generated",
+      "at": "2026-10-25T11:52:42+00:00"
+    },
+    "2113911120293503081": {
+      "status": "generated",
+      "at": "2026-10-25T11:53:05+00:00"
+    },
+    "2113864140595114155": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:53:05+00:00",
+      "reason": "AI image post, but the prompt is only said to be in the comments and is not included."
+    },
+    "2113868119399944532": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:53:05+00:00",
+      "reason": "AI coding/Three.js scene, not an AI image/video generation prompt."
+    },
+    "2114269137161867383": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:53:05+00:00",
+      "reason": "Promotional text about a video-production tool; no AI image/video work or generation prompt included."
+    },
+    "2113225129862062523": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-25T11:53:05+00:00",
+      "reason": "AI-generated 3D/video work, but only a high-level code requirement is quoted, not a usable image/video generation prompt."
+    }
+  },
+  "processed_inbox": {
+    "2026-10-25.json": "23536575eeccd21a59b8f426f4213dfe36a4852327acf8734417076ca6a83ec6"
+  }
+}
