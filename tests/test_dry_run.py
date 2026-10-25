@@ -22,17 +22,16 @@ class PipelineTestBase(unittest.TestCase):
         shutil.copytree(REPO, self.root, ignore=shutil.ignore_patterns(".venv", ".git", "__pycache__", "data", "tests"))
         (self.root / "data").mkdir()
         (self.root / "inbox" / f"{DATE}.json").write_text((FIX / "inbox.json").read_text(encoding="utf-8"))
+        (self.root / "inbox" / f"{DATE}-sandmrk.json").write_text((FIX / "raw_sandmrk.json").read_text(encoding="utf-8"))
         self.gallery = Path(self.tmp.name) / "gallery"
         (self.gallery / "works").mkdir(parents=True)
 
     def tearDown(self):
         self.tmp.cleanup()
 
-    def run_pipeline(self, with_x=True, **extra):
-        env = {k: v for k, v in os.environ.items() if k not in ("X_BEARER_TOKEN", "BYTECAT_API_KEY", "GALLERY_PUSH_TOKEN")}
+    def run_pipeline(self, **extra):
+        env = {k: v for k, v in os.environ.items() if k not in ("BYTECAT_API_KEY", "GALLERY_PUSH_TOKEN")}
         env.update(DRY_RUN="1", PIPELINE_DATE=DATE, GALLERY_DIR=str(self.gallery), **extra)
-        if with_x:
-            env.update(X_BEARER_TOKEN="fake", FAKE_X_FIXTURE=str(FIX / "x_fixture.json"))
         r = subprocess.run([sys.executable, "-m", "pipeline.run"], cwd=self.root, env=env,
                            capture_output=True, text=True)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
@@ -52,7 +51,6 @@ class DryRunTest(PipelineTestBase):
         self.assertEqual(seen["1001"]["status"], "generated")
         self.assertEqual(seen["1002"]["status"], "generated")  # inbox copy wins the dedupe
         self.assertNotIn("1005", seen)  # reply to someone else is not a root post
-        self.assertEqual(self.state()["last_since_id"]["sandmrk"], "1005")
         self.assertIn("published=3", out)
 
         d = self.root / "data" / DATE
@@ -95,30 +93,30 @@ class DryRunTest(PipelineTestBase):
         self.assertIn("generated=0", out)
         self.assertIn("published=0", out)
 
-    def test_inbox_only_without_token(self):
-        out = self.run_pipeline(with_x=False)
-        self.assertIn("X_BEARER_TOKEN 未设置：跳过 X API 抓取，只处理 inbox/", out)
-        self.assertNotIn("1001", self.state()["seen"])
+    def test_state_has_no_fetch_fields(self):
+        self.run_pipeline()
+        self.assertEqual(sorted(self.state()), ["processed_inbox", "seen"])
 
     def test_cap_defers_posts(self):
         cfg = self.root / "config" / "accounts.yml"
         data = yaml.safe_load(cfg.read_text(encoding="utf-8"))
         data["max_images_per_run"] = 1
+        (self.root / "inbox" / f"{DATE}-sandmrk.json").unlink()
         cfg.write_text(yaml.safe_dump(data), encoding="utf-8")
-        out = self.run_pipeline(with_x=False)
+        out = self.run_pipeline()
         self.assertIn("generated=1", out)
         seen = self.state()["seen"]
         self.assertEqual(seen["9001"]["status"], "generated")
         self.assertNotIn("9002", seen)  # left for the next run
         self.assertNotIn(f"{DATE}.json", self.state()["processed_inbox"])
-        out = self.run_pipeline(with_x=False)  # next run picks up the rest
+        out = self.run_pipeline()  # next run picks up the rest
         self.assertEqual(self.state()["seen"]["9002"]["status"], "queued_video")
 
 
 class RawInboxTest(PipelineTestBase):
     def test_raw_response(self):
         (self.root / "inbox" / f"{DATE}-raw.json").write_text((FIX / "raw_response.json").read_text(encoding="utf-8"))
-        self.run_pipeline(with_x=False)
+        self.run_pipeline()
         seen = self.state()["seen"]
         self.assertEqual(seen["5001"]["status"], "generated")
         self.assertEqual(seen["5003"]["status"], "queued_video")  # note_tweet text, video post
@@ -198,7 +196,6 @@ class LLMAnalyzeTest(unittest.TestCase):
             env = {"DRY_RUN": "1", "PIPELINE_DATE": DATE, "GALLERY_DIR": ""}
             old = {k: os.environ.get(k) for k in env}
             os.environ.update(env)
-            os.environ.pop("X_BEARER_TOKEN", None)
             orig = (run.ROOT, run.STATE_FILE)
             run.ROOT, run.STATE_FILE = root, root / "state" / "seen.json"
             try:
@@ -221,7 +218,7 @@ class QueueCliTest(PipelineTestBase):
         return json.loads(r.stdout)
 
     def test_mark_done(self):
-        self.run_pipeline(with_x=False)
+        self.run_pipeline()
         self.assertEqual(len(self.cli("list", "--status", "pending")), 1)
         slug = "pixelaigc-9002"
         self.assertEqual(self.cli("show", slug)["slug"], slug)

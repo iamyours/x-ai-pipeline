@@ -1,14 +1,19 @@
-# 要抓取的 X 账号（不带 @）
+# 抓取 bot 会抓取这些 X 账号（不带 @），并把原始结果推送到 inbox/；流水线本身不访问 X API。
 accounts:
   - sandmrk
   - nima2qisi2
-  - liluocheng13
-  - beizhi606
-  - RohoQinAI
-  - WildVariable01
-  - PixelAigc
+  - xiaoxiaodong
+  - jackzhang123vip
+  - _littlemandarin
+  - Saccc_c
+# 可选账号（需要时取消注释）：
+# - rewind02
+# - ai2chiuo
+# - beizhi606
+# - RohoQinAI
+# - liluocheng13
+max_posts_per_account: 10  # 仅为给抓取 bot 的提示：每个账号每次最多抓取的帖子数
 max_images_per_run: 5      # 每次运行最多调用生图接口的次数（含视频参考图）
-max_posts_per_account: 10  # 每个账号每次最多拉取的帖子数（5..100）
 image_size: "1024x1536"    # 默认尺寸
 gallery_repo: iamyours/ai-image-gallery
 gallery_tag: "X 自动"

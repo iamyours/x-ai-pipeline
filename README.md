@@ -2,15 +2,14 @@
 
 ## 这是什么
 
-每天从选定的 X 账号拉取 AI 绘画帖子（提示词 + 媒体），用 gpt-image-2（经 bytecat）生成图片，发布到画廊仓库 [`iamyours/ai-image-gallery`](https://github.com/iamyours/ai-image-gallery)，
+由抓取 bot 把选定 X 账号的 AI 绘画帖子（提示词 + 媒体）推送到 `inbox/`，本流水线每天处理这些文件，用 gpt-image-2（经 bytecat）生成图片，发布到画廊仓库 [`iamyours/ai-image-gallery`](https://github.com/iamyours/ai-image-gallery)，
 并把视频任务写入 `pending_videos.json` 队列，由机器人用 Muse 生成视频（本流水线**不**生成视频）。
 
 ## 流程图
 
 ```
- X API (可选) ─┐
-               ├─> 去重(state/seen.json) ─> 提取提示词(原文，不改写) ─> 下载媒体
- inbox/*.json ─┘                                   │
+ 抓取 bot ─> inbox/*.json ─> 去重(state/seen.json) ─> 提取提示词(原文，不改写) ─> 下载媒体
+                                                    │
                                   无提示词 ──> skipped_no_prompt
                                                    │
                       ┌────────────────────────────┴───────────────────┐
@@ -27,7 +26,6 @@
 
 | Secret | 是否必需 | 说明 |
 | --- | --- | --- |
-| `X_BEARER_TOKEN` | 可选 | X API v2，按量付费。未设置时只处理 `inbox/` |
 | `BYTECAT_API_KEY` | **必需** | 生图接口密钥（未设置则跳过生图，帖子留待下次） |
 | `MODELSCOPE_API_KEY` | 可选 | ModelScope（魔搭）DeepSeek 接口密钥，用于 LLM 提取提示词；有免费额度，按调用计费。未设置则用正则规则。可选 repo variable `MODELSCOPE_MODEL`（默认 `deepseek-ai/DeepSeek-V4.1-Flash-1017`） |
 | `GALLERY_PUSH_TOKEN` | 发布需要 | fine-grained PAT，仅授权 `ai-image-gallery` 仓库，权限 Contents: Read and write |
@@ -36,7 +34,7 @@
 
 机器人也可以把 **X API v2 原始响应** 原样推送，无需自己整理。`inbox/YYYY-MM-DD.json` 可以是：
 标准化帖子数组、单个原始响应对象、原始响应数组、`{"responses": [...]}` 或 `{"posts": [...]}`（可混合）。
-原始响应与 X API 模式走同一套规范化代码：作者名取自 `includes.users`（经 `author_id`），媒体来自 `attachments.media_keys` → `includes.media`，
+原始响应由 `pipeline/inbox.py` 中的纯函数规范化（不联网）：作者名取自 `includes.users`（经 `author_id`），媒体来自 `attachments.media_keys` → `includes.media`，
 优先使用 `note_tweet.text`，同一 `conversation_id` 下 `in_reply_to_user_id == author_id` 的自回复归并到根帖作为提示词候选。
 
 ```json
@@ -64,10 +62,19 @@ LLM 判定「非 AI 作品/无提示词」的帖子记为 `skipped_no_prompt`，
 
 编辑 `config/accounts.yml` 的 `accounts`（不带 `@`）。同文件还有 `max_images_per_run`、`max_posts_per_account`、`image_size`、`gallery_repo`、`gallery_tag`。
 
-## 两种输入模式
+## 数据流：抓取 bot → inbox → Actions
 
-1. **X API**：设置 `X_BEARER_TOKEN` 后，每次运行抓取各账号时间线；作者的自回复（同 conversation）会作为提示词候选，续篇（`Part 2`、`（续）`、`分镜`）按顺序拼接。
-2. **inbox**：机器人把 JSON 推送到 `inbox/YYYY-MM-DD.json`，无需付费 X API。push 到 `inbox/**` 会触发工作流。inbox 文件不会被修改，已处理的文件哈希记录在 `state/seen.json` 的 `processed_inbox`；同名文件内容变化会被重新处理（已见过的 tweet_id 仍会跳过）。
+流水线**不访问 X API，也不使用 X 令牌**。输入只来自 `inbox/`：抓取 bot 读取 `config/accounts.yml`，抓取各账号的帖子，把结果推送到 `inbox/YYYY-MM-DD.json`；
+push 到 `inbox/**`、每日 cron、手动 `workflow_dispatch` 都会触发工作流。inbox 文件不会被修改，已处理文件的哈希记录在 `state/seen.json` 的 `processed_inbox`；同名文件内容变化会被重新处理（已见过的 tweet_id 仍会跳过）。
+下载 `pbs.twimg.com` / `video.twimg.com` 的媒体文件不属于 API 调用，仍然允许。
+
+## 给抓取 bot 的约定
+
+1. **账号**：读取仓库 `config/accounts.yml` 的 `accounts`（YAML 列表，不带 `@`；以 `#` 注释的账号不要抓取）。`max_posts_per_account` 是每账号每次抓取数量的建议值。
+2. **文件名**：`inbox/YYYY-MM-DD.json`（UTC 日期）；同一天多次推送请用不同后缀，如 `inbox/2026-10-25-sandmrk.json`。
+3. **允许的格式**：标准化帖子数组、`{"posts": [...]}`、单个 X API v2 原始响应、原始响应数组或 `{"responses": [...]}`（可混合，见上文）。
+4. **提交**：把文件 commit 并 push 到 `main`（push 会触发工作流）。不要修改或删除已推送的文件。
+5. **去重**：由流水线通过 `state/seen.json` 完成，bot 无需关心；重复推送同一帖子是安全的。
 
 文件内容为数组，或 `{"posts": [...]}`，每项：
 
@@ -113,7 +120,6 @@ python scripts/queue.py mark <slug> done --video-url https://... [--note TEXT]
 - gpt-image-2（bytecat）约 **$0.13/张**，偶尔因慢请求被重复计费为 $0.26。
 - `max_images_per_run` 默认 5（视频参考图也计入）⇒ 每天最多约 $0.65–1.3。
 - **永不自动重试**：每个帖子只请求一次，超时也可能已扣费。失败/审核拦截的帖子会记入 seen，不会再次尝试。超出上限的帖子保持未处理，留给下次运行。
-- X API 为按量付费，按抓取量计费。
 
 ## 本地测试
 

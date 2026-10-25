@@ -5,8 +5,16 @@ from urllib.parse import urlparse
 import requests
 from PIL import Image
 
-MAX_BYTES = 200 * 1024 * 1024
+MAX_BYTES = 90 * 1024 * 1024  # GitHub rejects files over 100MB and data/ is committed
 VIDEO_TYPES = ("video", "animated_gif")
+
+
+class TooLarge(Exception):
+    pass
+
+
+def has_video(post):
+    return any(m.get("type") in VIDEO_TYPES for m in post.get("media", []))
 
 
 def pick_url(m):
@@ -36,12 +44,14 @@ def _download(url, path):
             for chunk in r.iter_content(1 << 16):
                 total += len(chunk)
                 if total > MAX_BYTES:
-                    raise ValueError("media exceeds 200MB cap")
+                    raise TooLarge(f"exceeds {MAX_BYTES // (1024 * 1024)}MB cap")
                 f.write(chunk)
 
 
 def download_all(post, folder, dry_run, log=print):
-    """Download media; returns {"photos": [paths], "video": path|None}. Failures are logged, not fatal."""
+    """Download media; returns {"photos": [paths], "video": path|None}. Failures are logged, not fatal.
+    An original over MAX_BYTES is deleted (partial file included) and returned as None; the caller still knows
+    it is a video post via has_video()."""
     folder = Path(folder)
     photos, video, n = [], None, 0
     for m in post.get("media", []):
@@ -58,6 +68,10 @@ def download_all(post, folder, dry_run, log=print):
                 _placeholder(path, is_video)
             else:
                 _download(pick_url(m), path)
+        except TooLarge as e:
+            path.unlink(missing_ok=True)
+            log(f"[media] 警告 {post['tweet_id']}: 原文件{e}，已删除，original 置空")
+            continue
         except Exception as e:
             log(f"[media] 下载失败 {post['tweet_id']}: {e}")
             continue

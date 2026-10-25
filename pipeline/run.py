@@ -7,7 +7,7 @@ from pathlib import Path
 
 import yaml
 
-from . import analyze, gallery, imagegen, inbox, media, prompt, queue, xapi
+from . import analyze, gallery, imagegen, inbox, media, prompt, queue
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE_FILE = ROOT / "state" / "seen.json"
@@ -19,7 +19,7 @@ def log(msg):
 
 def load_state():
     state = json.loads(STATE_FILE.read_text(encoding="utf-8")) if STATE_FILE.exists() else {}
-    for k in ("seen", "last_since_id", "user_ids", "processed_inbox"):
+    for k in ("seen", "processed_inbox"):
         state.setdefault(k, {})
     return state
 
@@ -48,10 +48,10 @@ def main():
     config = yaml.safe_load((ROOT / "config" / "accounts.yml").read_text(encoding="utf-8"))
     state = load_state()
     date = os.environ.get("PIPELINE_DATE") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    stats = dict(fetched=0, inbox=0, skipped_no_prompt=0, generated=0, moderated=0, failed=0,
+    stats = dict(inbox=0, skipped_no_prompt=0, generated=0, moderated=0, failed=0,
                  queued_videos=0, published=0, deferred=0)
 
-    # 1. collect posts (inbox first, then X API), dedupe by tweet_id, skip already-seen ids
+    # 1. collect posts from inbox/ only, dedupe by tweet_id, skip already-seen ids
     posts, order = {}, []
     inbox_files = inbox.load_new(ROOT / "inbox", state["processed_inbox"])
     for _name, _sha, ps in inbox_files:
@@ -60,18 +60,6 @@ def main():
             if p["tweet_id"] not in posts:
                 posts[p["tweet_id"]] = p
                 order.append(p["tweet_id"])
-    newest = {}
-    token = os.environ.get("X_BEARER_TOKEN")
-    if token:
-        x_posts, newest = xapi.fetch_all(token, config, state, log,
-                                         has_prompt=lambda p: prompt.extract_prompt(p) is not None)
-        for p in x_posts:
-            stats["fetched"] += 1
-            if p["tweet_id"] not in posts:
-                posts[p["tweet_id"]] = p
-                order.append(p["tweet_id"])
-    else:
-        log("X_BEARER_TOKEN 未设置：跳过 X API 抓取，只处理 inbox/")
     todo = [posts[i] for i in order if i not in state["seen"]]
 
     # 2-6. per post: prompt, media, generation (capped), video queue
@@ -104,7 +92,7 @@ def main():
         write_json(folder / "post.json", post)
         (folder / "prompt.txt").write_text(text, encoding="utf-8")
         got = media.download_all(post, folder, dry_run, log)
-        is_video = got["video"] is not None
+        is_video = media.has_video(post)  # the video job is queued even if the original was not kept
         size = imagegen.choose_size(media.aspect_of(post, got["photos"]), config.get("image_size", "1024x1536"))
         gen_prompt = prompt.ref_prompt(text) if is_video else text
         out_name = "ref.png" if is_video else "gen.png"
@@ -117,7 +105,7 @@ def main():
             stats["generated"] += 1
             mark_seen(state, tid, "queued_video" if is_video else "generated")
             if is_video:
-                orig = (rel / "orig-video.mp4").as_posix()
+                orig = (rel / "orig-video.mp4").as_posix() if got["video"] else None
                 if queue.add(entries, slug, (rel / "ref.png").as_posix(), text, post["url"],
                              post["author"], orig):
                     stats["queued_videos"] += 1
@@ -135,9 +123,8 @@ def main():
     # 7. publish to gallery
     stats["published"] = gallery.publish(to_publish, date, config, dry_run, log)
 
-    # advance cursors only when nothing was deferred, so no post is lost
+    # mark inbox files processed only when nothing in them was deferred, so no post is lost
     if not deferred_ids:
-        state["last_since_id"].update(newest)
         for name, sha, ps in inbox_files:
             state["processed_inbox"][name] = sha
     else:

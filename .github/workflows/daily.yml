@@ -35,7 +35,6 @@ jobs:
       - name: Run pipeline
         run: python -m pipeline.run
         env:
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           BYTECAT_API_KEY: ${{ secrets.BYTECAT_API_KEY }}
           GALLERY_PUSH_TOKEN: ${{ secrets.GALLERY_PUSH_TOKEN }}
           MODELSCOPE_API_KEY: ${{ secrets.MODELSCOPE_API_KEY }}
