@@ -1,0 +1,14 @@
+# 要抓取的 X 账号（不带 @）
+accounts:
+  - sandmrk
+  - nima2qisi2
+  - liluocheng13
+  - beizhi606
+  - RohoQinAI
+  - WildVariable01
+  - PixelAigc
+max_images_per_run: 5      # 每次运行最多调用生图接口的次数（含视频参考图）
+max_posts_per_account: 10  # 每个账号每次最多拉取的帖子数（5..100）
+image_size: "1024x1536"    # 默认尺寸
+gallery_repo: iamyours/ai-image-gallery
+gallery_tag: "X 自动"
