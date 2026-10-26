@@ -1,0 +1,55 @@
+{
+  "tweet_id": "2112932227202081217",
+  "url": "https://x.com/_littlemandarin/status/2112932227202081217",
+  "author": "_littlemandarin",
+  "text": "用AI把2D变成3D\n感觉AI+Blender是真好用\n你们觉得怎么样?\n#deepseek #claude #3d建模 #Blender https://t.co/Plk8WpC2bX https://t.co/0xWJdeHEU0",
+  "prompt_text": "",
+  "replies": [
+    "提示词要点（完整版很长，这里放核心）：\n\n目标 - 把一张简笔画做成 3D 手办，再做 15 秒动画\n规则 - 比例、五官、配色照画来，画里没有的不许加，风格写死成搪胶玩具\n验收 - 正面渲染图和草图拼在一起对照，像了才往下\n(1/3)",
+    "- Blender 命令行后台跑，模型和材质全用 Python 生成，不下载素材，草图当画纸贴图\n- 开工前先写下从画里看出了什么、看不到的背面打算怎么补\n- 一镜到底：角色从画纸上鼓起来站起来，绕一圈、推近，最后和原画同框\n(2/3)",
+    "- 最关键的一条：先做白模，从和草图一样的角度渲一张，和草图左右拼成对照图，让模型自己找哪里不像，改好再上色\n- 动作只用部件整体转动和缩放（眨眼、摆尾巴），不碰骨骼绑定\n(3/3)"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "width": 2160,
+      "height": 2430,
+      "variants": [
+        {
+          "bit_rate": 25128000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/vid/avc1/2160x2430/xLYCQs3hK5UmWoBf.mp4"
+        },
+        {
+          "bit_rate": 632000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/vid/avc1/320x360/8R1DrGOLn-C8BaD_.mp4"
+        },
+        {
+          "bit_rate": 2176000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/vid/avc1/720x810/fq6OFOtlTDaZFNlF.mp4"
+        },
+        {
+          "content_type": "application/x-mpegURL",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/pl/fvga4QhM_aJJ8i1-.m3u8"
+        },
+        {
+          "bit_rate": 10368000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/vid/avc1/1080x1214/dqf1Eq2qXCD4KBaX.mp4"
+        },
+        {
+          "bit_rate": 950000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2112931768257175552/vid/avc1/480x540/wYYaGq-WmWxoT8QW.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2112931768257175552/img/i99k6bNh9I0R7xY5.jpg"
+    }
+  ],
+  "created_at": "2026-10-21T15:41:14.000Z",
+  "source": "inbox",
+  "conversation_id": "2112932227202081217",
+  "author_id": "2062420195185242112"
+}

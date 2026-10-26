@@ -1,0 +1,32 @@
+A single uncut in-place beat dance by a beautiful adult woman with long dark wavy hair and a light-blue ribbon in it, wearing a grey ribbed high-neck bodysuit top, light-blue drawstring shorts and white over-knee socks, against a bright white wall crossed by diagonal bars of window light. The track runs at about 115 BPM in 4/4 — one beat every 0.52 seconds, bar lines at roughly 0.1, 2.2, 4.3 and 6.4 seconds — and the dance is built on a torso twist that never fully stops: she opens with both arms held straight overhead, bouncing on the beats; drops into a chin-fist pose and twists side to side over it; opens her hands in a presenting gesture; turns three-quarters side-on with her arms extended low; then snaps back to front for a claw-shrug motif that pops on every beat of the closing accent train.
+Camera: locked tripod, camera not moving for the whole clip; framing from the top of her head (about 3 percent from the top edge) to mid-thigh; the diagonal light bars and her shadow stay fixed on the wall — the only motion is hers.
+Magnitude anchors: the overhead arms must stay up for a full second and a half, bouncing — dropping them early kills the opening; the torso twist is the engine and runs on every beat through the middle section, never resetting to stillness; the closing claw-shrugs must pop exactly on the final beat train, the last and strongest accent landing under the third pop. If the arms drop early, the twist pauses, or the claws drift off the accents, the take is wrong.
+Demeanor: bright and cheeky, singing along at the start with an open grin. Her gaze stays on the camera throughout; during the chin-fist section the playfulness turns deliberate — she knows exactly how the pose reads — and the smile softens only in the final second as the energy winds down.
+AUDIO: the dance track at about 115 BPM, no dialogue, no added effects. Avoid: any text, watermark, logo or UI elements, extra people, the light bars moving, her hair ribbon disappearing.
+
+Shot (0-1s, Bar 1 beats 1-2):
+Both arms shoot straight up overhead and stay there; she bounces on the beats beneath them, grinning at the camera. Avoid: the arms bending at the elbow, the bounce starting small.
+
+Shot (1-2s, Bar 1 beats 3-4):
+Arms still overhead, the bounce continuing at full height; only at the very end of the second do the arms blur downward. Avoid: the arms descending early, the grin closing.
+
+Shot (2-3s, Bar 2 beats 1-2):
+Her right fist tucks under her chin, left arm crossing low; the torso twist-sway starts — twist one, twist two. Avoid: both fists coming up, the twist starting from the hips alone.
+
+Shot (3-4s, Bar 2 beats 3-4):
+The chin-fist pose holds while the twists continue — twist three and twist four — her gaze playful on the lens. Avoid: the pose breaking early, twist amplitude decaying.
+
+Shot (4-5s, Bar 3 beats 1-2):
+Her hands open out to her sides in a presenting gesture, palms turning up; the twist-sway carries straight through the gesture change. Avoid: a stillness gap between the pose and the gesture, palms facing down.
+
+Shot (5-6s, Bar 3 beats 3-4):
+She rotates to a three-quarter side angle, arms extending low in front of her as she turns, hair swinging with the rotation. Avoid: completing a full profile, the arms rising during the turn.
+
+Shot (6-7s, Bar 4 beats 1-2):
+Back to front: both hands pop up at shoulder height in the claw-shrug — claw one landing on the strong beat at about 6.8s. Avoid: the claws popping before the beat, the shoulders staying down.
+
+Shot (7-8s, Bar 4 beats 3-4):
+Claw two and claw three pop on the beat train, the track's strongest onset at about 7.9s under the third; her smile begins to soften. Avoid: the pops shrinking across the three, her hands drifting to her chest.
+
+Shot (8-8.2s, Bar 4 tail):
+Her arms begin lowering mid-gesture as the clip cuts. AUDIO: track still playing at the cut. Avoid: a finished ending pose, looking away at the cut.
