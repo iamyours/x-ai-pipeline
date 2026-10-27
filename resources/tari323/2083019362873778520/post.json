@@ -1,0 +1,66 @@
+{
+ "id": "2083019362873778520",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2083019362873778520",
+ "created_at": "2026-07-31T02:38:11.000Z",
+ "text": "A Doll-Like Afternoon https://t.co/9hUvBHvvVC",
+ "self_replies": [],
+ "metrics": {
+  "views": 11188,
+  "bookmark_count": 125,
+  "impression_count": 25019,
+  "like_count": 481,
+  "quote_count": 0,
+  "reply_count": 5,
+  "retweet_count": 20
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2083019264341262336",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083019264341262336/img/NkKNmvqVfQI67-0E.jpg",
+   "public_metrics": {
+    "view_count": 11188
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083019264341262336/vid/avc1/320x580/ka-Oh5N1ZAkNVi75.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083019264341262336/vid/avc1/480x872/6FpfKE4sXJkI2P0K.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083019264341262336/vid/avc1/704x1280/Cd0xokW_xz8hWe8h.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2083019264341262336/pl/FpuQaeaerVG5CeLs.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2083019264341262336",
+  "url": "https://video.twimg.com/amplify_video/2083019264341262336/vid/avc1/704x1280/Cd0xokW_xz8hWe8h.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2083019264341262336/img/NkKNmvqVfQI67-0E.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

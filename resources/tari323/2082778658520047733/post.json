@@ -1,0 +1,66 @@
+{
+ "id": "2082778658520047733",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2082778658520047733",
+ "created_at": "2026-07-30T10:41:43.000Z",
+ "text": "Silent Arsenal https://t.co/2QVdUTSc2S",
+ "self_replies": [],
+ "metrics": {
+  "views": 9132,
+  "bookmark_count": 165,
+  "impression_count": 24347,
+  "like_count": 688,
+  "quote_count": 1,
+  "reply_count": 10,
+  "retweet_count": 35
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2082778559270252544",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082778559270252544/img/bCbL3AkiGmJBZUAl.jpg",
+   "public_metrics": {
+    "view_count": 9132
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082778559270252544/vid/avc1/320x580/NrGStUxlAL-GxA7g.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082778559270252544/vid/avc1/480x872/eV-UeXGNamM9GxK0.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082778559270252544/vid/avc1/704x1280/xU6HT4pUPnF5hDhV.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2082778559270252544/pl/GYRwcrI82vtphKhm.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2082778559270252544",
+  "url": "https://video.twimg.com/amplify_video/2082778559270252544/vid/avc1/704x1280/xU6HT4pUPnF5hDhV.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2082778559270252544/img/bCbL3AkiGmJBZUAl.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

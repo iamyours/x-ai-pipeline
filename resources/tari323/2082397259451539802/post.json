@@ -1,0 +1,66 @@
+{
+ "id": "2082397259451539802",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2082397259451539802",
+ "created_at": "2026-07-29T09:26:10.000Z",
+ "text": "白骸のエデン https://t.co/ximoGBWGVj",
+ "self_replies": [],
+ "metrics": {
+  "views": 32190,
+  "bookmark_count": 240,
+  "impression_count": 66276,
+  "like_count": 787,
+  "quote_count": 0,
+  "reply_count": 4,
+  "retweet_count": 47
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15125,
+   "height": 720,
+   "media_key": "13_2082396948322283520",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082396948322283520/img/bHMOpjentY1CxPRb.jpg",
+   "public_metrics": {
+    "view_count": 32190
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 288000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082396948322283520/vid/avc1/480x270/KS4JzBfhV2gMas4v.mp4?tag=14"
+    },
+    {
+     "bit_rate": 832000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082396948322283520/vid/avc1/640x360/4qT6yjQn05Y_XJJY.mp4?tag=14"
+    },
+    {
+     "bit_rate": 2176000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2082396948322283520/vid/avc1/1280x720/_Pl_mBU3WscS297q.mp4?tag=14"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2082396948322283520/pl/GDns8-7yfZuxfZ4R.m3u8?tag=14"
+    }
+   ],
+   "width": 1280
+  }
+ ],
+ "video": {
+  "media_key": "13_2082396948322283520",
+  "url": "https://video.twimg.com/amplify_video/2082396948322283520/vid/avc1/1280x720/_Pl_mBU3WscS297q.mp4?tag=14",
+  "bit_rate": 2176000,
+  "width": 1280,
+  "height": 720,
+  "duration_ms": 15125,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2082396948322283520/img/bHMOpjentY1CxPRb.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "2080899792717365748",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2080899792717365748",
+ "created_at": "2026-07-25T06:15:46.000Z",
+ "text": "玻璃の角冠 https://t.co/E1egTTm3g3",
+ "self_replies": [],
+ "metrics": {
+  "views": 7982,
+  "bookmark_count": 206,
+  "impression_count": 25194,
+  "like_count": 1044,
+  "quote_count": 3,
+  "reply_count": 10,
+  "retweet_count": 83
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2080899691206914048",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080899691206914048/img/F9FG5uRhQxL6vApe.jpg",
+   "public_metrics": {
+    "view_count": 7982
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2080899691206914048/vid/avc1/320x580/88Wi95VMKnYKgLP9.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2080899691206914048/vid/avc1/480x872/LP64mhwwcd7GBPjG.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2080899691206914048/vid/avc1/704x1280/D9TRoqPdf6HVufUd.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2080899691206914048/pl/ZnPcZamwj2vx0U7X.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2080899691206914048",
+  "url": "https://video.twimg.com/amplify_video/2080899691206914048/vid/avc1/704x1280/D9TRoqPdf6HVufUd.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2080899691206914048/img/F9FG5uRhQxL6vApe.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

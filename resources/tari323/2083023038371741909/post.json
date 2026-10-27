@@ -1,0 +1,66 @@
+{
+ "id": "2083023038371741909",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2083023038371741909",
+ "created_at": "2026-07-31T02:52:47.000Z",
+ "text": "零時のスパンコール https://t.co/dbMOdxbA8D",
+ "self_replies": [],
+ "metrics": {
+  "views": 4956,
+  "bookmark_count": 73,
+  "impression_count": 12520,
+  "like_count": 344,
+  "quote_count": 0,
+  "reply_count": 1,
+  "retweet_count": 13
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2083022898584064000",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083022898584064000/img/D1CWgLUVvmveZP-0.jpg",
+   "public_metrics": {
+    "view_count": 4956
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083022898584064000/vid/avc1/320x580/W6p5jDprUj6-6fpd.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083022898584064000/vid/avc1/480x872/opiLoQjbXfIZoyJv.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2083022898584064000/vid/avc1/704x1280/-5x_aOLXBCD-yG0t.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2083022898584064000/pl/aSVlA5ZuibxV1Uvz.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2083022898584064000",
+  "url": "https://video.twimg.com/amplify_video/2083022898584064000/vid/avc1/704x1280/-5x_aOLXBCD-yG0t.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2083022898584064000/img/D1CWgLUVvmveZP-0.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
