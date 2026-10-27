@@ -1,0 +1,61 @@
+{
+ "id": "1937469163980882264",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/1937469163980882264",
+ "created_at": "2025-06-24T11:13:39.000Z",
+ "text": "Tongue out Tuesday https://t.co/q0U3WqGyef",
+ "self_replies": [],
+ "metrics": {
+  "views": 89,
+  "bookmark_count": 1,
+  "impression_count": 252,
+  "like_count": 5,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 1
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 5208,
+   "height": 356,
+   "media_key": "13_1937469148533284864",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937469148533284864/img/74_6zKlxN8j2tSjL.jpg",
+   "public_metrics": {
+    "view_count": 89
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 256000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1937469148533284864/vid/avc1/484x270/GAPsod1ZuqqtPABf.mp4"
+    },
+    {
+     "bit_rate": 832000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1937469148533284864/vid/avc1/640x356/rjyCX8DVtduypVnk.mp4"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/1937469148533284864/pl/aTHAxTcfN48paHtB.m3u8"
+    }
+   ],
+   "width": 640
+  }
+ ],
+ "video": {
+  "media_key": "13_1937469148533284864",
+  "url": "https://video.twimg.com/amplify_video/1937469148533284864/vid/avc1/640x356/rjyCX8DVtduypVnk.mp4",
+  "bit_rate": 832000,
+  "width": 640,
+  "height": 356,
+  "duration_ms": 5208,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/1937469148533284864/img/74_6zKlxN8j2tSjL.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

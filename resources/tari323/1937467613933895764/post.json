@@ -1,0 +1,61 @@
+{
+ "id": "1937467613933895764",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/1937467613933895764",
+ "created_at": "2025-06-24T11:07:30.000Z",
+ "text": "Smile on a Midsummer Street https://t.co/jv1CZwcUNW",
+ "self_replies": [],
+ "metrics": {
+  "views": 58,
+  "bookmark_count": 0,
+  "impression_count": 200,
+  "like_count": 3,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 5208,
+   "height": 356,
+   "media_key": "13_1937467594220666885",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937467594220666885/img/N_UsOO5m65swqaCg.jpg",
+   "public_metrics": {
+    "view_count": 58
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 256000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1937467594220666885/vid/avc1/484x270/r2gZ3v14YQbm0tYA.mp4"
+    },
+    {
+     "bit_rate": 832000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1937467594220666885/vid/avc1/640x356/RF9BM2r-I6xcd6F5.mp4"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/1937467594220666885/pl/TNHzewDAQWCPYBD_.m3u8"
+    }
+   ],
+   "width": 640
+  }
+ ],
+ "video": {
+  "media_key": "13_1937467594220666885",
+  "url": "https://video.twimg.com/amplify_video/1937467594220666885/vid/avc1/640x356/RF9BM2r-I6xcd6F5.mp4",
+  "bit_rate": 832000,
+  "width": 640,
+  "height": 356,
+  "duration_ms": 5208,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/1937467594220666885/img/N_UsOO5m65swqaCg.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
