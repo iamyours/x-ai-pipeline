@@ -1,0 +1,66 @@
+{
+ "id": "2095638448782893481",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2095638448782893481",
+ "created_at": "2026-09-03T22:21:55.000Z",
+ "text": "Soft Rebellion https://t.co/TInINMIvtt",
+ "self_replies": [],
+ "metrics": {
+  "views": 5612,
+  "bookmark_count": 127,
+  "impression_count": 13672,
+  "like_count": 472,
+  "quote_count": 1,
+  "reply_count": 6,
+  "retweet_count": 23
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2095638408689545217",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095638408689545217/img/4V8OvaWc7-VWqsta.jpg",
+   "public_metrics": {
+    "view_count": 5612
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2095638408689545217/vid/avc1/320x580/AtWd6je65f-BrsA9.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2095638408689545217/vid/avc1/480x872/DHbXnExaYdWSbdcN.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2095638408689545217/vid/avc1/704x1280/J1T5GE4OmqwqHEVg.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2095638408689545217/pl/1FyJ0SPXlO7KfOTb.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2095638408689545217",
+  "url": "https://video.twimg.com/amplify_video/2095638408689545217/vid/avc1/704x1280/J1T5GE4OmqwqHEVg.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2095638408689545217/img/4V8OvaWc7-VWqsta.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "id": "2094961095387803929",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2094961095387803929",
+ "created_at": "2026-09-02T01:30:22.000Z",
+ "text": "Lace Mirage https://t.co/krTKAtDzsS",
+ "self_replies": [],
+ "metrics": {
+  "views": 4994,
+  "bookmark_count": 98,
+  "impression_count": 11895,
+  "like_count": 461,
+  "quote_count": 1,
+  "reply_count": 5,
+  "retweet_count": 24
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2094960991570386944",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094960991570386944/img/g6ju8W6nzwHk2UrT.jpg",
+   "public_metrics": {
+    "view_count": 4994
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2094960991570386944/vid/avc1/320x580/6tJlM49Bn-I3XfOj.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2094960991570386944/vid/avc1/480x872/OnX_yCIRjUbjbXB7.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2094960991570386944/vid/avc1/704x1280/MZ7KDdpATWQigcRg.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2094960991570386944/pl/cywhOHQ_Inci4iis.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2094960991570386944",
+  "url": "https://video.twimg.com/amplify_video/2094960991570386944/vid/avc1/704x1280/MZ7KDdpATWQigcRg.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2094960991570386944/img/g6ju8W6nzwHk2UrT.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

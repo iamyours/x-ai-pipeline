@@ -1,0 +1,71 @@
+{
+ "id": "2087719982239191398",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2087719982239191398",
+ "created_at": "2026-08-13T01:56:46.000Z",
+ "text": "笑い涙何とも言えず最高です✨\nプロンプト引用させていただきます😊 https://t.co/ykPdByOXbw https://t.co/CWg4a399dR",
+ "self_replies": [],
+ "metrics": {
+  "views": 8257,
+  "bookmark_count": 112,
+  "impression_count": 29571,
+  "like_count": 286,
+  "quote_count": 1,
+  "reply_count": 4,
+  "retweet_count": 13
+ },
+ "referenced_tweets": [
+  {
+   "id": "2087395593442504937",
+   "type": "quoted"
+  }
+ ],
+ "media": [
+  {
+   "duration_ms": 40147,
+   "height": 1080,
+   "media_key": "13_2087719786549858304",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087719786549858304/img/ANcZrwd2FnNtx1WB.jpg",
+   "public_metrics": {
+    "view_count": 8257
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 288000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087719786549858304/vid/avc1/480x270/PtVvLjjB4Dg4z6vq.mp4?tag=14"
+    },
+    {
+     "bit_rate": 832000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087719786549858304/vid/avc1/640x360/Rb-RKtJwE3qfhPnL.mp4?tag=14"
+    },
+    {
+     "bit_rate": 2176000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087719786549858304/vid/avc1/1280x720/k9sBOqVa9kVvG8Zl.mp4?tag=14"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2087719786549858304/pl/pIH95escJ5MqJ6te.m3u8?tag=14"
+    }
+   ],
+   "width": 1920
+  }
+ ],
+ "video": {
+  "media_key": "13_2087719786549858304",
+  "url": "https://video.twimg.com/amplify_video/2087719786549858304/vid/avc1/1280x720/k9sBOqVa9kVvG8Zl.mp4?tag=14",
+  "bit_rate": 2176000,
+  "width": 1920,
+  "height": 1080,
+  "duration_ms": 40147,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2087719786549858304/img/ANcZrwd2FnNtx1WB.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

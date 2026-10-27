@@ -1,0 +1,66 @@
+{
+ "id": "2087583034363216250",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2087583034363216250",
+ "created_at": "2026-08-12T16:52:35.000Z",
+ "text": "純白に棲む刃 https://t.co/W7mjo983e8",
+ "self_replies": [],
+ "metrics": {
+  "views": 4209,
+  "bookmark_count": 78,
+  "impression_count": 12270,
+  "like_count": 412,
+  "quote_count": 1,
+  "reply_count": 3,
+  "retweet_count": 20
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2087583002738184192",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087583002738184192/img/fV35AaKRB9gCNslc.jpg",
+   "public_metrics": {
+    "view_count": 4209
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087583002738184192/vid/avc1/320x580/zEe-2tWMWIlBvxn2.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087583002738184192/vid/avc1/480x872/u_XIsMKOH8bJSY3z.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2087583002738184192/vid/avc1/704x1280/xlEow-Uf-KFSZN5z.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2087583002738184192/pl/Wf9pr11L1i5GTF5-.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2087583002738184192",
+  "url": "https://video.twimg.com/amplify_video/2087583002738184192/vid/avc1/704x1280/xlEow-Uf-KFSZN5z.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2087583002738184192/img/fV35AaKRB9gCNslc.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

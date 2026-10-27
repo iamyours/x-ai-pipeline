@@ -1,0 +1,66 @@
+{
+ "id": "2101902792038494634",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2101902792038494634",
+ "created_at": "2026-09-21T05:14:11.000Z",
+ "text": "白にひそむ、反抗。 https://t.co/01NQyw0Hwo",
+ "self_replies": [],
+ "metrics": {
+  "views": 8371,
+  "bookmark_count": 148,
+  "impression_count": 22822,
+  "like_count": 569,
+  "quote_count": 1,
+  "reply_count": 3,
+  "retweet_count": 26
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2101902706671751168",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101902706671751168/img/erStdhAVC2RWVmVU.jpg",
+   "public_metrics": {
+    "view_count": 8371
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2101902706671751168/vid/avc1/320x580/DzCRo59zC_Y2ICoc.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2101902706671751168/vid/avc1/480x872/aT6s4SaV7bCMj5l3.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2101902706671751168/vid/avc1/704x1280/axrGaHl9ho02zN9r.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2101902706671751168/pl/zK6bpHEAv1Fk_qj7.m3u8?tag=25"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2101902706671751168",
+  "url": "https://video.twimg.com/amplify_video/2101902706671751168/vid/avc1/704x1280/axrGaHl9ho02zN9r.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2101902706671751168/img/erStdhAVC2RWVmVU.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

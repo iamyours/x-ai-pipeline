@@ -1,0 +1,66 @@
+{
+ "id": "2093500473210986506",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2093500473210986506",
+ "created_at": "2026-08-29T00:46:22.000Z",
+ "text": "黒と水平線 https://t.co/wj60fRvCRf",
+ "self_replies": [],
+ "metrics": {
+  "views": 18804,
+  "bookmark_count": 266,
+  "impression_count": 41765,
+  "like_count": 899,
+  "quote_count": 0,
+  "reply_count": 3,
+  "retweet_count": 33
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 704,
+   "media_key": "13_2093500442403889152",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093500442403889152/img/_CY7j7Dy4Ec_ZoHx.jpg",
+   "public_metrics": {
+    "view_count": 18804
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2093500442403889152/vid/avc1/490x270/e93DebBDdTLEodC6.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2093500442403889152/vid/avc1/654x360/8oQJPFMjGTvDGIo8.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2093500442403889152/vid/avc1/1280x704/Xbjuz4TpFoor_6p2.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2093500442403889152/pl/81uDLT2ovgTrDCf0.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 1280
+  }
+ ],
+ "video": {
+  "media_key": "13_2093500442403889152",
+  "url": "https://video.twimg.com/amplify_video/2093500442403889152/vid/avc1/1280x704/Xbjuz4TpFoor_6p2.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 1280,
+  "height": 704,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2093500442403889152/img/_CY7j7Dy4Ec_ZoHx.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
