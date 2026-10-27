@@ -1,0 +1,66 @@
+{
+ "id": "2085144162886991879",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2085144162886991879",
+ "created_at": "2026-08-05T23:21:23.000Z",
+ "text": "光源の向こう側 https://t.co/s7VUXUZ9ix",
+ "self_replies": [],
+ "metrics": {
+  "views": 30959,
+  "bookmark_count": 568,
+  "impression_count": 67029,
+  "like_count": 2273,
+  "quote_count": 0,
+  "reply_count": 3,
+  "retweet_count": 55
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2085144073015607296",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085144073015607296/img/L9ufUGF6U-4N_q6k.jpg",
+   "public_metrics": {
+    "view_count": 30959
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085144073015607296/vid/avc1/320x580/1x7WJ99SS8nbqGs5.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085144073015607296/vid/avc1/480x872/d6gBoaJXj6BNAOqi.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085144073015607296/vid/avc1/704x1280/yGi0g9F_uFsruU36.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2085144073015607296/pl/ioUE_dYh-2dq63Ec.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2085144073015607296",
+  "url": "https://video.twimg.com/amplify_video/2085144073015607296/vid/avc1/704x1280/yGi0g9F_uFsruU36.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2085144073015607296/img/L9ufUGF6U-4N_q6k.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

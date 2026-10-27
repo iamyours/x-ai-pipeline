@@ -1,0 +1,66 @@
+{
+ "id": "2085996615148712025",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2085996615148712025",
+ "created_at": "2026-08-08T07:48:43.000Z",
+ "text": "十字架と微熱 https://t.co/HhSqGUIU5G",
+ "self_replies": [],
+ "metrics": {
+  "views": 5662,
+  "bookmark_count": 102,
+  "impression_count": 11423,
+  "like_count": 369,
+  "quote_count": 0,
+  "reply_count": 1,
+  "retweet_count": 11
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2085996377994342400",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085996377994342400/img/2_S7Q7YGkaJhUx3Y.jpg",
+   "public_metrics": {
+    "view_count": 5662
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085996377994342400/vid/avc1/320x580/g653a52LpudQLFeO.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085996377994342400/vid/avc1/480x872/vC4_R6l__v9Vkzkj.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2085996377994342400/vid/avc1/704x1280/DVAUkAzxyxUySYSM.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2085996377994342400/pl/m6YX0p3C45c_RCFW.m3u8?tag=25&v=289"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2085996377994342400",
+  "url": "https://video.twimg.com/amplify_video/2085996377994342400/vid/avc1/704x1280/DVAUkAzxyxUySYSM.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2085996377994342400/img/2_S7Q7YGkaJhUx3Y.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

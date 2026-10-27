@@ -1,0 +1,66 @@
+{
+ "id": "2086321064939032729",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2086321064939032729",
+ "created_at": "2026-08-09T05:17:58.000Z",
+ "text": "街に溶けない午後 https://t.co/7w2usqgPOR",
+ "self_replies": [],
+ "metrics": {
+  "views": 9800,
+  "bookmark_count": 111,
+  "impression_count": 18840,
+  "like_count": 378,
+  "quote_count": 0,
+  "reply_count": 1,
+  "retweet_count": 19
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2086321004687867904",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086321004687867904/img/UDsPMt1uYHuS81rR.jpg",
+   "public_metrics": {
+    "view_count": 9800
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2086321004687867904/vid/avc1/320x580/VcsIwfrHplEpNS7b.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2086321004687867904/vid/avc1/480x872/zP4w6uwt5Yinqe3e.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2086321004687867904/vid/avc1/704x1280/gzxZeDd5Vy9p1AjO.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2086321004687867904/pl/E_PPCzqze5Xhw12A.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2086321004687867904",
+  "url": "https://video.twimg.com/amplify_video/2086321004687867904/vid/avc1/704x1280/gzxZeDd5Vy9p1AjO.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2086321004687867904/img/UDsPMt1uYHuS81rR.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
