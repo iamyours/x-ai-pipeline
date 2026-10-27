@@ -1,0 +1,66 @@
+{
+ "id": "1909180830817419374",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/1909180830817419374",
+ "created_at": "2025-04-07T09:45:55.000Z",
+ "text": "🟠❤️🟠 https://t.co/xqJc3OTd5F",
+ "self_replies": [],
+ "metrics": {
+  "views": 48,
+  "bookmark_count": 1,
+  "impression_count": 174,
+  "like_count": 8,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 10433,
+   "height": 1344,
+   "media_key": "7_1909180380030377984",
+   "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909180380030377984/pu/img/glxRYME4IBJCjNdq.jpg",
+   "public_metrics": {
+    "view_count": 48
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 632000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/ext_tw_video/1909180380030377984/pu/vid/avc1/320x610/XkJylf9OCRc_1mMC.mp4?tag=12"
+    },
+    {
+     "bit_rate": 950000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/ext_tw_video/1909180380030377984/pu/vid/avc1/480x916/HPnV7twFB_Qb1IA5.mp4?tag=12"
+    },
+    {
+     "bit_rate": 2176000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/ext_tw_video/1909180380030377984/pu/vid/avc1/704x1344/lqibivmRHwqHhboG.mp4?tag=12"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/ext_tw_video/1909180380030377984/pu/pl/-RKL45DiQWm1lp-G.m3u8?tag=12"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "7_1909180380030377984",
+  "url": "https://video.twimg.com/ext_tw_video/1909180380030377984/pu/vid/avc1/704x1344/lqibivmRHwqHhboG.mp4?tag=12",
+  "bit_rate": 2176000,
+  "width": 704,
+  "height": 1344,
+  "duration_ms": 10433,
+  "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909180380030377984/pu/img/glxRYME4IBJCjNdq.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

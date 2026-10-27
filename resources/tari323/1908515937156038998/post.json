@@ -1,0 +1,66 @@
+{
+ "id": "1908515937156038998",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/1908515937156038998",
+ "created_at": "2025-04-05T13:43:52.000Z",
+ "text": "Fire Starter\n#Higgsfield_AI https://t.co/L4eK1KY6f8",
+ "self_replies": [],
+ "metrics": {
+  "views": 59,
+  "bookmark_count": 0,
+  "impression_count": 238,
+  "like_count": 5,
+  "quote_count": 0,
+  "reply_count": 1,
+  "retweet_count": 0
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 5366,
+   "height": 1280,
+   "media_key": "13_1908515873905889280",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908515873905889280/img/wCNHDswEtHt3WSyg.jpg",
+   "public_metrics": {
+    "view_count": 59
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 632000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1908515873905889280/vid/avc1/320x580/QUqfaRcFINnnbk2w.mp4?tag=14"
+    },
+    {
+     "bit_rate": 950000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1908515873905889280/vid/avc1/480x872/lY4_cQdWV30jWGdA.mp4?tag=14"
+    },
+    {
+     "bit_rate": 2176000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/1908515873905889280/vid/avc1/704x1280/rfrTFLIOd4hqiNr2.mp4?tag=14"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/1908515873905889280/pl/3aiZLC-xe7Ft-3DJ.m3u8?tag=14"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_1908515873905889280",
+  "url": "https://video.twimg.com/amplify_video/1908515873905889280/vid/avc1/704x1280/rfrTFLIOd4hqiNr2.mp4?tag=14",
+  "bit_rate": 2176000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 5366,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/1908515873905889280/img/wCNHDswEtHt3WSyg.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
