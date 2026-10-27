@@ -15,9 +15,9 @@
    "likes": 110,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 3466914,
-   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2080478590387523945",
@@ -29,9 +29,9 @@
    "likes": 1391,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 23886730,
-   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2080899792717365748",
@@ -57,9 +57,9 @@
    "likes": 648,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 13181917,
-   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2082397259451539802",
@@ -71,9 +71,9 @@
    "likes": 787,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 2148404,
-   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2082778658520047733",
@@ -99,9 +99,9 @@
    "likes": 939,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 12808775,
-   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083019362873778520",
@@ -113,9 +113,9 @@
    "likes": 481,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 14797592,
-   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083023038371741909",
@@ -127,9 +127,9 @@
    "likes": 344,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 13311059,
-   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083547952463908893",
@@ -155,9 +155,9 @@
    "likes": 589,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 16024649,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2083662153282883973",
@@ -169,9 +169,9 @@
    "likes": 562,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 1733748,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2083811540776755577",
@@ -183,9 +183,9 @@
    "likes": 283,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 1865809,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2084213584704438735",
@@ -197,9 +197,9 @@
    "likes": 833,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 10314328,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085144162886991879",
@@ -211,9 +211,9 @@
    "likes": 2273,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 23497829,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085593728513958251",
@@ -225,9 +225,9 @@
    "likes": 184,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 2041773,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085696751483384123",
@@ -239,9 +239,9 @@
    "likes": 337,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 11593212,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085953646924353965",
@@ -253,9 +253,9 @@
    "likes": 507,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 14672331,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085996615148712025",
@@ -267,9 +267,9 @@
    "likes": 369,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 11809119,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2086321064939032729",
@@ -281,9 +281,9 @@
    "likes": 378,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 17054220,
-   "reason": "bytecat gpt-image-2 image generation failed at image step: tunnel connection failed (403 Forbidden), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: tunnel connection failed (403 Forbidden), no retry per MUSE_TASK"
   },
   {
    "id": "2087583034363216250",
@@ -295,9 +295,9 @@
    "likes": 412,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 9162659,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2087719982239191398",
@@ -309,9 +309,9 @@
    "likes": 286,
    "duration_ms": 40147,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 3204812,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2093166170035929112",
@@ -323,9 +323,9 @@
    "likes": 680,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 14134179,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2093233910243332161",
@@ -337,9 +337,9 @@
    "likes": 482,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 23918085,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2093500473210986506",
@@ -351,9 +351,9 @@
    "likes": 899,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 8868641,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2094961095387803929",
@@ -365,9 +365,9 @@
    "likes": 461,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 11109103,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2094975659076661283",
@@ -379,9 +379,9 @@
    "likes": 568,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 9238634,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2095638448782893481",
@@ -393,9 +393,9 @@
    "likes": 472,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 8164642,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2095676187838443549",
@@ -407,9 +407,9 @@
    "likes": 288,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 6645793,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2101902792038494634",
@@ -421,9 +421,9 @@
    "likes": 569,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 8517704,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2102016317582954930",
@@ -435,9 +435,9 @@
    "likes": 920,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 7503322,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2103167846067188134",
@@ -449,9 +449,9 @@
    "likes": 346,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 19303153,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2104013536041304546",
@@ -463,9 +463,9 @@
    "likes": 999,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 9042168,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2104856397087490421",
@@ -477,9 +477,9 @@
    "likes": 1214,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 11243942,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2105201365870105081",
@@ -491,9 +491,9 @@
    "likes": 473,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 11248925,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2105584207137472609",
@@ -505,9 +505,9 @@
    "likes": 272,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 13823793,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2106047013892804834",
@@ -519,9 +519,9 @@
    "likes": 318,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 10369271,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2106590563973923175",
@@ -533,9 +533,9 @@
    "likes": 411,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 15770677,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2106741968982462652",
@@ -547,9 +547,9 @@
    "likes": 347,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 20777810,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2107039544252272972",
@@ -561,9 +561,9 @@
    "likes": 398,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "failed",
+   "status": "pending",
    "video_bytes": 18513565,
-   "reason": "bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
   },
   {
    "id": "2107054305656373753",

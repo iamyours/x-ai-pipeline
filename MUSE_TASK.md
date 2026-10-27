@@ -11,6 +11,7 @@
 
 ## Muse 每小时任务
 1. `git pull` 拉取最新代码。从 `resources/*/index.json` 里按日期取最多 **10 条** `status == "pending"` 的视频。
+   - 重试规则：如果 `works/<post_id>/` 下已经有 `image_prompt.txt` / `image.png` / `video_prompt.txt`，直接复用，不要重新生成，只补缺的步骤（比如只补 `muse.mp4`）。
 2. 对每条视频：
    1. 分析原视频，写出英文首帧图片提示词，存到 `works/<post_id>/image_prompt.txt`。
    2. 用 bytecat（gpt-image-2）生成首帧图，存到 `works/<post_id>/image.png`。key 和接口见 `secrets/README.md`，明文 key 不要提交。
