@@ -17,7 +17,7 @@
    3. 写出英文视频提示词，存到 `works/<post_id>/video_prompt.txt`。
    4. Muse 自己用 `image.png` 作首帧或人物参考，配合 `video_prompt.txt` 生成视频，存到 `works/<post_id>/muse.mp4`。
    5. 每步只做一次，被拒或失败就跳过，不改写、不重试。把 index 里的状态改成 `done`、`refused` 或 `failed`，并写 `reason`。
-3. 提交时 commit 信息带 `[skip ci]`，用 SSH 推送到 `main`。
+3. 提交时 commit 信息**不要**带 `[skip ci]`（GitHub Pages 从 main 的 /docs 发布，带 `[skip ci]` 会跳过站点部署），用 SSH 推送到 `main`。
 4. 重新生成并发布 GitHub Pages 站点（见下）。
 
 ## GitHub Pages 站点
