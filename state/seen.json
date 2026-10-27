@@ -207,11 +207,61 @@
       "status": "skipped_no_prompt",
       "at": "2026-10-26T00:46:24+00:00",
       "reason": "Comment about trying a different angle and adding details; no prompt text included."
+    },
+    "2114729852725256201": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:04+00:00",
+      "reason": "AI image post about GPT-image2.5, but the prompt is only referenced via a t.co link and not included as usable text."
+    },
+    "2114621526435864924": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:04+00:00",
+      "reason": "Post is about Claude accounts and GitHub stats, not an AI image/video work with a generation prompt."
+    },
+    "2114598162308677943": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:04+00:00",
+      "reason": "Post discusses a prompt website and filtering features, not an AI image/video work with included prompt."
+    },
+    "2114548772852441472": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:04+00:00",
+      "reason": "AI image-style promotional post for a prompt library, but no actual generation prompt text is included."
+    },
+    "2114854596178800914": {
+      "status": "generated",
+      "at": "2026-10-27T00:42:30+00:00"
+    },
+    "2114694355609096691": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:30+00:00",
+      "reason": "AI image post says the prompt is in the comments, but no self-reply with the prompt is provided."
+    },
+    "2114685445175132671": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:30+00:00",
+      "reason": "Shared TikTok clip with no evidence of being an AI image/video work and no prompt."
+    },
+    "2114673296168157450": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:30+00:00",
+      "reason": "Link-only post with no AI work or prompt text."
+    },
+    "2114621995409379654": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:30+00:00",
+      "reason": "Post shares an open-source digital human tutorial/repository link; it is not an AI image/video work and contains no generation prompt."
+    },
+    "2114587668768301392": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-27T00:42:30+00:00",
+      "reason": "Author references an AI generation prompt being in the comments, but no prompt text is included in the provided candidates."
     }
   },
   "processed_inbox": {
     "2026-10-25.json": "23536575eeccd21a59b8f426f4213dfe36a4852327acf8734417076ca6a83ec6",
     "2026-10-25-b.json": "11afd0085ebdf10546e887a33cf1d2094908e8bdb0039a437adb7317f2ecaca6",
-    "2026-10-26.json": "fb3ca841a954987bc6de51a47d71efda1b72b8254f63a53cd300f05a951810d7"
+    "2026-10-26.json": "fb3ca841a954987bc6de51a47d71efda1b72b8254f63a53cd300f05a951810d7",
+    "2026-10-27.json": "a89abd2d5a139369201fe3ea38f2d5d9c05fc456f7af5ebc7c43f0759403d6bd"
   }
 }
