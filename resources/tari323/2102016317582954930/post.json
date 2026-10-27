@@ -1,0 +1,66 @@
+{
+ "id": "2102016317582954930",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2102016317582954930",
+ "created_at": "2026-09-21T12:45:18.000Z",
+ "text": "WHITE ON BLUE https://t.co/gK6o0f4t31",
+ "self_replies": [],
+ "metrics": {
+  "views": 15123,
+  "bookmark_count": 286,
+  "impression_count": 32570,
+  "like_count": 920,
+  "quote_count": 0,
+  "reply_count": 2,
+  "retweet_count": 43
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2102016285253214208",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102016285253214208/img/AMF0hhtDkAeZDMpB.jpg",
+   "public_metrics": {
+    "view_count": 15123
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2102016285253214208/vid/avc1/320x580/oF32GX7fMAIS-5Mn.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2102016285253214208/vid/avc1/480x872/vFf_uvYzBDCKL40A.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2102016285253214208/vid/avc1/704x1280/0JnkESooQJ_ZIPzK.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2102016285253214208/pl/o71eqRpPLYTK4-7E.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2102016285253214208",
+  "url": "https://video.twimg.com/amplify_video/2102016285253214208/vid/avc1/704x1280/0JnkESooQJ_ZIPzK.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2102016285253214208/img/AMF0hhtDkAeZDMpB.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

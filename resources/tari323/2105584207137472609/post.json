@@ -1,0 +1,66 @@
+{
+ "id": "2105584207137472609",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2105584207137472609",
+ "created_at": "2026-10-01T09:02:49.000Z",
+ "text": "白龍を纏う https://t.co/SuLWbr3roV",
+ "self_replies": [],
+ "metrics": {
+  "views": 5079,
+  "bookmark_count": 74,
+  "impression_count": 13125,
+  "like_count": 272,
+  "quote_count": 1,
+  "reply_count": 2,
+  "retweet_count": 23
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2105584024861519873",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105584024861519873/img/nAW6JoxQI7yVpFWH.jpg",
+   "public_metrics": {
+    "view_count": 5079
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2105584024861519873/vid/avc1/320x580/HeDkdnh0IYLFYmMO.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2105584024861519873/vid/avc1/480x872/EVsOsD8y6t0lTd_S.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2105584024861519873/vid/avc1/704x1280/2mQDFcrzVEkUlR7S.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2105584024861519873/pl/5c-bfBFUv6DD_vo4.m3u8?tag=25"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2105584024861519873",
+  "url": "https://video.twimg.com/amplify_video/2105584024861519873/vid/avc1/704x1280/2mQDFcrzVEkUlR7S.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2105584024861519873/img/nAW6JoxQI7yVpFWH.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

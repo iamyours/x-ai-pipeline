@@ -1,0 +1,66 @@
+{
+ "id": "2106590563973923175",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2106590563973923175",
+ "created_at": "2026-10-04T03:41:43.000Z",
+ "text": "この微笑みは、仕様外。 https://t.co/k3sJiDozYh",
+ "self_replies": [],
+ "metrics": {
+  "views": 7843,
+  "bookmark_count": 86,
+  "impression_count": 21937,
+  "like_count": 411,
+  "quote_count": 0,
+  "reply_count": 4,
+  "retweet_count": 30
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2106590464388513792",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106590464388513792/img/9VIRxB7pUKkXBARa.jpg",
+   "public_metrics": {
+    "view_count": 7843
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106590464388513792/vid/avc1/320x580/x0ri0i1eD_xrwGXn.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106590464388513792/vid/avc1/480x872/h_of-aMpMMlYTbKa.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106590464388513792/vid/avc1/704x1280/feWNSWKuJqJ1aUSV.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2106590464388513792/pl/Dak5bOtbxUyygxbp.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2106590464388513792",
+  "url": "https://video.twimg.com/amplify_video/2106590464388513792/vid/avc1/704x1280/feWNSWKuJqJ1aUSV.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2106590464388513792/img/9VIRxB7pUKkXBARa.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

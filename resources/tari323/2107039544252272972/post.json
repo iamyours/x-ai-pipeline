@@ -1,0 +1,66 @@
+{
+ "id": "2107039544252272972",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2107039544252272972",
+ "created_at": "2026-10-05T09:25:48.000Z",
+ "text": "黒に、甘える。 https://t.co/mkIfMO0JP2",
+ "self_replies": [],
+ "metrics": {
+  "views": 6648,
+  "bookmark_count": 114,
+  "impression_count": 24742,
+  "like_count": 398,
+  "quote_count": 0,
+  "reply_count": 2,
+  "retweet_count": 12
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2107039451994304512",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107039451994304512/img/biw70Ab0ihuhdtop.jpg",
+   "public_metrics": {
+    "view_count": 6648
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107039451994304512/vid/avc1/320x580/bJcP6rN7DdzMj8LE.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107039451994304512/vid/avc1/480x872/1PW259h8HYiaBMpu.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107039451994304512/vid/avc1/704x1280/qVpBJNbvcZcLC0pA.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2107039451994304512/pl/Ul9u7o7jShC8BPT5.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2107039451994304512",
+  "url": "https://video.twimg.com/amplify_video/2107039451994304512/vid/avc1/704x1280/qVpBJNbvcZcLC0pA.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2107039451994304512/img/biw70Ab0ihuhdtop.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

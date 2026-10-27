@@ -1,0 +1,66 @@
+{
+ "id": "2104013536041304546",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2104013536041304546",
+ "created_at": "2026-09-27T01:01:32.000Z",
+ "text": "まぶしさには、名前がある https://t.co/iH4eFKqZsS",
+ "self_replies": [],
+ "metrics": {
+  "views": 13885,
+  "bookmark_count": 287,
+  "impression_count": 29286,
+  "like_count": 999,
+  "quote_count": 1,
+  "reply_count": 4,
+  "retweet_count": 53
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2104013494035349505",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104013494035349505/img/im6_xwkM2i_fB4Ku.jpg",
+   "public_metrics": {
+    "view_count": 13885
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104013494035349505/vid/avc1/320x580/BrkkNbGC8VdZyG2w.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104013494035349505/vid/avc1/480x872/vQI4icu2_OiecaOG.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104013494035349505/vid/avc1/704x1280/moYyn5lxiYT4OggO.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2104013494035349505/pl/4Es6SoUAKldqFnjR.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2104013494035349505",
+  "url": "https://video.twimg.com/amplify_video/2104013494035349505/vid/avc1/704x1280/moYyn5lxiYT4OggO.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2104013494035349505/img/im6_xwkM2i_fB4Ku.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

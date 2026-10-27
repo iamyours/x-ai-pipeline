@@ -1,0 +1,66 @@
+{
+ "id": "2104856397087490421",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2104856397087490421",
+ "created_at": "2026-09-29T08:50:46.000Z",
+ "text": "White, with a twist. https://t.co/jdqxOlCu5z",
+ "self_replies": [],
+ "metrics": {
+  "views": 26589,
+  "bookmark_count": 421,
+  "impression_count": 59886,
+  "like_count": 1214,
+  "quote_count": 1,
+  "reply_count": 0,
+  "retweet_count": 42
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2104856330737770496",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104856330737770496/img/xLpQp4LXC22eQ7KN.jpg",
+   "public_metrics": {
+    "view_count": 26589
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104856330737770496/vid/avc1/320x580/P5OrN9WDN0n7FTPY.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104856330737770496/vid/avc1/480x872/ZJUKbCfcsJGOwl5Y.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2104856330737770496/vid/avc1/704x1280/rdxGkHpH7RAvuOEL.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2104856330737770496/pl/KXXY0NNcGhG8Csx9.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2104856330737770496",
+  "url": "https://video.twimg.com/amplify_video/2104856330737770496/vid/avc1/704x1280/rdxGkHpH7RAvuOEL.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2104856330737770496/img/xLpQp4LXC22eQ7KN.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

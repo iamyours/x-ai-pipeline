@@ -1,0 +1,66 @@
+{
+ "id": "2103167846067188134",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2103167846067188134",
+ "created_at": "2026-09-24T17:01:04.000Z",
+ "text": "やわらかな鎧 https://t.co/wGtSB140uN",
+ "self_replies": [],
+ "metrics": {
+  "views": 3956,
+  "bookmark_count": 101,
+  "impression_count": 10259,
+  "like_count": 346,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 17
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2103167796297474048",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103167796297474048/img/IhyRRsGRZV5tkOs4.jpg",
+   "public_metrics": {
+    "view_count": 3956
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2103167796297474048/vid/avc1/320x580/ThqkLuCkAZCt3E1C.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2103167796297474048/vid/avc1/480x872/prIhhwnbwA3JHUrW.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2103167796297474048/vid/avc1/704x1280/MY6EMjRz9mCvXeqX.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2103167796297474048/pl/-n81r9x8HQnkICS_.m3u8?tag=25"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2103167796297474048",
+  "url": "https://video.twimg.com/amplify_video/2103167796297474048/vid/avc1/704x1280/MY6EMjRz9mCvXeqX.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2103167796297474048/img/IhyRRsGRZV5tkOs4.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

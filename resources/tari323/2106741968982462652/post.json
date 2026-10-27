@@ -1,0 +1,66 @@
+{
+ "id": "2106741968982462652",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2106741968982462652",
+ "created_at": "2026-10-04T13:43:21.000Z",
+ "text": "街角のミント https://t.co/pNInakEC3H",
+ "self_replies": [],
+ "metrics": {
+  "views": 4371,
+  "bookmark_count": 73,
+  "impression_count": 16412,
+  "like_count": 347,
+  "quote_count": 0,
+  "reply_count": 3,
+  "retweet_count": 21
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2106741898262237184",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106741898262237184/img/neFcGHIQIjXzK3CA.jpg",
+   "public_metrics": {
+    "view_count": 4371
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106741898262237184/vid/avc1/320x580/_MZmMPx5pR91odXE.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106741898262237184/vid/avc1/480x872/lf1Xo4KFg4O8zN2l.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106741898262237184/vid/avc1/704x1280/GYFJ9CMtoXkwInjV.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2106741898262237184/pl/OnSdBE7WUQRUQVge.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2106741898262237184",
+  "url": "https://video.twimg.com/amplify_video/2106741898262237184/vid/avc1/704x1280/GYFJ9CMtoXkwInjV.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2106741898262237184/img/neFcGHIQIjXzK3CA.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

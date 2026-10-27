@@ -1,0 +1,66 @@
+{
+ "id": "2106047013892804834",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2106047013892804834",
+ "created_at": "2026-10-02T15:41:51.000Z",
+ "text": "黒にひとさじの甘さ https://t.co/8bI7VXlB5d",
+ "self_replies": [],
+ "metrics": {
+  "views": 5143,
+  "bookmark_count": 95,
+  "impression_count": 15727,
+  "like_count": 318,
+  "quote_count": 0,
+  "reply_count": 3,
+  "retweet_count": 18
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2106046980271345664",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106046980271345664/img/o4uZE42_ZvloKQOl.jpg",
+   "public_metrics": {
+    "view_count": 5143
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106046980271345664/vid/avc1/320x580/-7ilLrj_7F8z8hwH.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106046980271345664/vid/avc1/480x872/dxUofpAqskpGhovo.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2106046980271345664/vid/avc1/704x1280/PNUq3dqNtA1M5uaZ.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2106046980271345664/pl/Ci5eCBoDy5WDGTKa.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2106046980271345664",
+  "url": "https://video.twimg.com/amplify_video/2106046980271345664/vid/avc1/704x1280/PNUq3dqNtA1M5uaZ.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2106046980271345664/img/o4uZE42_ZvloKQOl.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
