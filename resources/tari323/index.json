@@ -15,8 +15,9 @@
    "likes": 110,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 3466914
+   "status": "failed",
+   "video_bytes": 3466914,
+   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2080478590387523945",
@@ -28,8 +29,9 @@
    "likes": 1391,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 23886730
+   "status": "failed",
+   "video_bytes": 23886730,
+   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2080899792717365748",
@@ -41,8 +43,9 @@
    "likes": 1044,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 10647160
+   "status": "done",
+   "video_bytes": 10647160,
+   "reason": "image (bytecat gpt-image-2) and video (Muse, 10s) generated"
   },
   {
    "id": "2082036367048274239",
@@ -54,8 +57,9 @@
    "likes": 648,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 13181917
+   "status": "failed",
+   "video_bytes": 13181917,
+   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2082397259451539802",
@@ -67,8 +71,9 @@
    "likes": 787,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 2148404
+   "status": "failed",
+   "video_bytes": 2148404,
+   "reason": "Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2082778658520047733",
@@ -80,8 +85,9 @@
    "likes": 688,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 14809651
+   "status": "refused",
+   "video_bytes": 14809651,
+   "reason": "bytecat gpt-image-2 HTTP 400 content_policy_violation at image step, no retry per MUSE_TASK"
   },
   {
    "id": "2082914906937106768",
@@ -93,8 +99,9 @@
    "likes": 939,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 12808775
+   "status": "failed",
+   "video_bytes": 12808775,
+   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083019362873778520",
@@ -106,8 +113,9 @@
    "likes": 481,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 14797592
+   "status": "failed",
+   "video_bytes": 14797592,
+   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083023038371741909",
@@ -119,8 +127,9 @@
    "likes": 344,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 13311059
+   "status": "failed",
+   "video_bytes": 13311059,
+   "reason": "Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
   },
   {
    "id": "2083547952463908893",
@@ -132,8 +141,9 @@
    "likes": 181,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 16982051
+   "status": "refused",
+   "video_bytes": 16982051,
+   "reason": "bytecat gpt-image-2 HTTP 400 content_policy_violation at image step, no retry per MUSE_TASK"
   },
   {
    "id": "2083598294761259438",
