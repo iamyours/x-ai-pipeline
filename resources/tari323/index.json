@@ -155,8 +155,9 @@
    "likes": 589,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 16024649
+   "status": "failed",
+   "video_bytes": 16024649,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2083662153282883973",
@@ -168,8 +169,9 @@
    "likes": 562,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 1733748
+   "status": "failed",
+   "video_bytes": 1733748,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2083811540776755577",
@@ -181,8 +183,9 @@
    "likes": 283,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 1865809
+   "status": "failed",
+   "video_bytes": 1865809,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2084213584704438735",
@@ -194,8 +197,9 @@
    "likes": 833,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 10314328
+   "status": "failed",
+   "video_bytes": 10314328,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085144162886991879",
@@ -207,8 +211,9 @@
    "likes": 2273,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 23497829
+   "status": "failed",
+   "video_bytes": 23497829,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085593728513958251",
@@ -220,8 +225,9 @@
    "likes": 184,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 2041773
+   "status": "failed",
+   "video_bytes": 2041773,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085696751483384123",
@@ -233,8 +239,9 @@
    "likes": 337,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 11593212
+   "status": "failed",
+   "video_bytes": 11593212,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085953646924353965",
@@ -246,8 +253,9 @@
    "likes": 507,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 14672331
+   "status": "failed",
+   "video_bytes": 14672331,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2085996615148712025",
@@ -259,8 +267,9 @@
    "likes": 369,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 11809119
+   "status": "failed",
+   "video_bytes": 11809119,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
   },
   {
    "id": "2086321064939032729",
@@ -272,8 +281,9 @@
    "likes": 378,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 17054220
+   "status": "failed",
+   "video_bytes": 17054220,
+   "reason": "bytecat gpt-image-2 image generation failed at image step: tunnel connection failed (403 Forbidden), no retry per MUSE_TASK"
   },
   {
    "id": "2087583034363216250",
