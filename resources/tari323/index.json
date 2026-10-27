@@ -15,9 +15,10 @@
    "likes": 110,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 3466914,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2080478590387523945",
@@ -29,9 +30,10 @@
    "likes": 1391,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 23886730,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2080899792717365748",
@@ -57,9 +59,10 @@
    "likes": 648,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 13181917,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2082397259451539802",
@@ -71,9 +74,10 @@
    "likes": 787,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 2148404,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502/500), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2082778658520047733",
@@ -99,9 +103,10 @@
    "likes": 939,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 12808775,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2083019362873778520",
@@ -113,9 +118,10 @@
    "likes": 481,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 14797592,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: Muse video generation upstream unavailable (502), image ok, no retry per MUSE_TASK",
+   "reason": "image reused (bytecat gpt-image-2, batch 1) and video (Muse, 10s) generated"
   },
   {
    "id": "2083023038371741909",
@@ -155,9 +161,10 @@
    "likes": 589,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "refused",
    "video_bytes": 16024649,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK",
+   "reason": "bytecat gpt-image-2 HTTP 400 content_policy_violation at image step, no retry per MUSE_TASK"
   },
   {
    "id": "2083662153282883973",
@@ -169,9 +176,10 @@
    "likes": 562,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "failed",
    "video_bytes": 1733748,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK",
+   "reason": "bytecat gpt-image-2 HTTP 200 but empty image data returned at image step, no retry per MUSE_TASK"
   },
   {
    "id": "2083811540776755577",
@@ -183,9 +191,10 @@
    "likes": 283,
    "duration_ms": 15125,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "failed",
    "video_bytes": 1865809,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation failed at image step: upstream connection closed without response (RemoteDisconnected), no retry per MUSE_TASK",
+   "reason": "bytecat gpt-image-2 HTTP 200 but empty image data returned at image step, no retry per MUSE_TASK"
   },
   {
    "id": "2084213584704438735",
