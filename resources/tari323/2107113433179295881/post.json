@@ -1,0 +1,66 @@
+{
+ "id": "2107113433179295881",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2107113433179295881",
+ "created_at": "2026-10-05T14:19:25.000Z",
+ "text": "静けさを、ひるがえす。 https://t.co/wl0IERCghS",
+ "self_replies": [],
+ "metrics": {
+  "views": 4874,
+  "bookmark_count": 88,
+  "impression_count": 17758,
+  "like_count": 298,
+  "quote_count": 0,
+  "reply_count": 2,
+  "retweet_count": 17
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2107113397636718592",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107113397636718592/img/MzaWKSt2xU2OapAj.jpg",
+   "public_metrics": {
+    "view_count": 4874
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107113397636718592/vid/avc1/320x580/uidCcqWW0xPy_Gcr.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107113397636718592/vid/avc1/480x872/I9uF0jIXntkGAsKE.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2107113397636718592/vid/avc1/704x1280/sq8tIRwtLjQef3jT.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2107113397636718592/pl/CPU1qFjdeIbg8nPW.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2107113397636718592",
+  "url": "https://video.twimg.com/amplify_video/2107113397636718592/vid/avc1/704x1280/sq8tIRwtLjQef3jT.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2107113397636718592/img/MzaWKSt2xU2OapAj.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

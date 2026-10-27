@@ -1,0 +1,66 @@
+{
+ "id": "2110849579654824326",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2110849579654824326",
+ "created_at": "2026-10-15T21:45:32.000Z",
+ "text": "Angels Tell Lies with Ribbons https://t.co/bwdGRGNlAE",
+ "self_replies": [],
+ "metrics": {
+  "views": 7021,
+  "bookmark_count": 152,
+  "impression_count": 18434,
+  "like_count": 579,
+  "quote_count": 2,
+  "reply_count": 5,
+  "retweet_count": 27
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2110849542132518912",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110849542132518912/img/t6DBY639DT8RAkf_.jpg",
+   "public_metrics": {
+    "view_count": 7021
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2110849542132518912/vid/avc1/320x580/eqYY9vvQPJ_qFM-T.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2110849542132518912/vid/avc1/480x872/ZolfCT74ZNdU6iiW.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2110849542132518912/vid/avc1/704x1280/YOCXbMUojgv0mbtV.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2110849542132518912/pl/6ex8L4nD7w1Msw5S.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2110849542132518912",
+  "url": "https://video.twimg.com/amplify_video/2110849542132518912/vid/avc1/704x1280/YOCXbMUojgv0mbtV.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2110849542132518912/img/t6DBY639DT8RAkf_.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}

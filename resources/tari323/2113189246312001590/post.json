@@ -1,0 +1,66 @@
+{
+ "id": "2113189246312001590",
+ "author": "tari323",
+ "url": "https://x.com/tari323/status/2113189246312001590",
+ "created_at": "2026-10-22T08:42:32.000Z",
+ "text": "無口な服と、待ち合わせ https://t.co/xkIWpUNfrK",
+ "self_replies": [],
+ "metrics": {
+  "views": 3792,
+  "bookmark_count": 57,
+  "impression_count": 9234,
+  "like_count": 167,
+  "quote_count": 0,
+  "reply_count": 1,
+  "retweet_count": 8
+ },
+ "referenced_tweets": [],
+ "media": [
+  {
+   "duration_ms": 15041,
+   "height": 1280,
+   "media_key": "13_2113188954807922688",
+   "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113188954807922688/img/dVpE7INKTP8RCbcz.jpg",
+   "public_metrics": {
+    "view_count": 3792
+   },
+   "type": "video",
+   "variants": [
+    {
+     "bit_rate": 800000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2113188954807922688/vid/avc1/320x580/HSTSOT7U7JOEYnzp.mp4?tag=25"
+    },
+    {
+     "bit_rate": 5184000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2113188954807922688/vid/avc1/480x872/GmpMe3CSA-GaylqO.mp4?tag=25"
+    },
+    {
+     "bit_rate": 12128000,
+     "content_type": "video/mp4",
+     "url": "https://video.twimg.com/amplify_video/2113188954807922688/vid/avc1/704x1280/Jeo4tkMxKn5lZz3S.mp4?tag=25"
+    },
+    {
+     "content_type": "application/x-mpegURL",
+     "url": "https://video.twimg.com/amplify_video/2113188954807922688/pl/xS_5pKZEi80L7odq.m3u8?tag=25&v=cfc"
+    }
+   ],
+   "width": 704
+  }
+ ],
+ "video": {
+  "media_key": "13_2113188954807922688",
+  "url": "https://video.twimg.com/amplify_video/2113188954807922688/vid/avc1/704x1280/Jeo4tkMxKn5lZz3S.mp4?tag=25",
+  "bit_rate": 12128000,
+  "width": 704,
+  "height": 1280,
+  "duration_ms": 15041,
+  "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2113188954807922688/img/dVpE7INKTP8RCbcz.jpg"
+ },
+ "files": {
+  "video": "video.mp4",
+  "thumb": "thumb.jpg",
+  "text": "text.txt"
+ }
+}
