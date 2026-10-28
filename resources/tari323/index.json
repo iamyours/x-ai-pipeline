@@ -626,8 +626,9 @@
    "likes": 570,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 7623351
+   "status": "done",
+   "video_bytes": 7623351,
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2107113433179295881",
@@ -639,8 +640,9 @@
    "likes": 298,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 7636255
+   "status": "done",
+   "video_bytes": 7636255,
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2108592164972445958",
@@ -652,8 +654,9 @@
    "likes": 931,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 10901913
+   "status": "done",
+   "video_bytes": 10901913,
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2110633706671243445",
@@ -665,8 +668,9 @@
    "likes": 791,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 13452956
+   "status": "failed",
+   "video_bytes": 13452956,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   },
   {
    "id": "2110849579654824326",
@@ -678,8 +682,9 @@
    "likes": 579,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 13603087
+   "status": "failed",
+   "video_bytes": 13603087,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   },
   {
    "id": "2111585851742560557",
@@ -691,8 +696,9 @@
    "likes": 1324,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 20103360
+   "status": "failed",
+   "video_bytes": 20103360,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   },
   {
    "id": "2112518951444082793",
@@ -704,8 +710,9 @@
    "likes": 275,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 16107078
+   "status": "failed",
+   "video_bytes": 16107078,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   },
   {
    "id": "2113189246312001590",
@@ -717,8 +724,9 @@
    "likes": 167,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 12169800
+   "status": "failed",
+   "video_bytes": 12169800,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   },
   {
    "id": "2113906584284021213",
@@ -730,8 +738,9 @@
    "likes": 526,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 16892983
+   "status": "failed",
+   "video_bytes": 16892983,
+   "reason": "bytecat image generation HTTP 200 but asset download HTTP 403, not retried"
   }
  ],
  "selection": "top 50 by views of 523 video posts since 2024-10-27"
