@@ -256,6 +256,186 @@
       "status": "skipped_no_prompt",
       "at": "2026-10-27T00:42:30+00:00",
       "reason": "Author references an AI generation prompt being in the comments, but no prompt text is included in the provided candidates."
+    },
+    "2115220619705115014": {
+      "status": "generated",
+      "at": "2026-10-28T00:45:46+00:00"
+    },
+    "2115220483688042851": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:45:46+00:00",
+      "reason": "Poetic caption for the AI dance video; no generation prompt included."
+    },
+    "2115213025380901062": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:45:46+00:00",
+      "reason": "Says a prompt was used to make a Chinese-style version, but the prompt itself is not included."
+    },
+    "2115212031628640294": {
+      "status": "generated",
+      "at": "2026-10-28T00:46:05+00:00"
+    },
+    "2115112708295328059": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:05+00:00",
+      "reason": "Poetic caption for the AI dance video; no generation prompt included."
+    },
+    "2115107105611162042": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:05+00:00",
+      "reason": "Chit-chat about forgetting the original source; no AI work or prompt identified."
+    },
+    "2115084601983197345": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:05+00:00",
+      "reason": "Mentions a GPT image portrait, but no generation prompt is included."
+    },
+    "2115078202528051382": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:05+00:00",
+      "reason": "Whimsical visual caption; no generation prompt included."
+    },
+    "2115074094928658856": {
+      "status": "generated",
+      "at": "2026-10-28T00:46:24+00:00"
+    },
+    "2115070376418181269": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:24+00:00",
+      "reason": "Likely AI-effect caption with media link; no generation prompt."
+    },
+    "2115058828475850954": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:24+00:00",
+      "reason": "Poetic caption with media link; no generation prompt."
+    },
+    "2115041764872728609": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:24+00:00",
+      "reason": "Caption/commentary describing the grey-wall dance video; not a prompt."
+    },
+    "2114986742319305164": {
+      "status": "generated",
+      "at": "2026-10-28T00:46:47+00:00"
+    },
+    "2114965696224559376": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:47+00:00",
+      "reason": "Selfie-style caption with media link; no generation prompt."
+    },
+    "2115092021639790642": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:47+00:00",
+      "reason": "Link only; no text or prompt."
+    },
+    "2115071362939457842": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:47+00:00",
+      "reason": "Workflow note about AI sample images and prompts; no actual generation prompt."
+    },
+    "2115067487620653253": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:46:47+00:00",
+      "reason": "Talks about making 500k sample images matched to prompts, but no prompt text is included."
+    },
+    "2115036280916451635": {
+      "status": "generated",
+      "at": "2026-10-28T00:47:17+00:00"
+    },
+    "2115005877770182898": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Discussion about Claude account provisioning; no image work or prompt."
+    },
+    "2115000452198940839": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Mentions an event-poster prompt library but no prompt text is provided."
+    },
+    "2115069372163391955": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Just praise of a video; no evidence of AI generation and no prompt."
+    },
+    "2115041270305575174": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Short reaction with a link; no prompt or clear AI work."
+    },
+    "2115023449332855061": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Comments on Muse one-click image generation, but no prompt text shared."
+    },
+    "2114964058096976369": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Promotional post for a Halloween persona template with a link; no actual prompt text included."
+    },
+    "2114948674522644799": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Chinese commentary praising an AI wuxia fight video; no generation prompt given."
+    },
+    "2114932844208533962": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Poetic Chinese description of a dance clip; no prompt text."
+    },
+    "2114926800770138350": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Poetic description of a porcelain-doll image; no generation prompt."
+    },
+    "2114916489002430924": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Hype/thank-you post about a creator's tool, no AI work prompt."
+    },
+    "2114914281137508481": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Short thank-you reply with mentions and links only; no prompt."
+    },
+    "2114910472525021408": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "AI image attempt; only thanks for a prompt, no prompt text present."
+    },
+    "2114889435452232117": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Poetic artwork caption; no generation prompt included."
+    },
+    "2114942260353868116": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "AI paper-cut animation made with a skill; no prompt text provided."
+    },
+    "2114938124921081966": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "AI paper-cut animation made with a skill; no prompt text provided."
+    },
+    "2114931437187338523": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Short caption with media; no explicit or usable prompt text."
+    },
+    "2114884788477681864": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Only says 提示词 with a media link; the prompt itself is not in the candidate text."
+    },
+    "2114923784662646842": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Promotional/tutorial post about AI tricks; no actual generation prompt or AI image/video work text is provided."
+    },
+    "2114916073246237022": {
+      "status": "skipped_no_prompt",
+      "at": "2026-10-28T00:47:17+00:00",
+      "reason": "Mentions GPT2, illustration, and aesthetic prompts, but no usable prompt text is included."
     }
   },
   "processed_inbox": {
