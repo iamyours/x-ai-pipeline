@@ -522,9 +522,10 @@
    "likes": 473,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 11248925,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2105584207137472609",
@@ -536,9 +537,10 @@
    "likes": 272,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 13823793,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2106047013892804834",
@@ -550,9 +552,10 @@
    "likes": 318,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 10369271,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "image reused and video (Muse, 10s) generated"
   },
   {
    "id": "2106590563973923175",
@@ -564,9 +567,10 @@
    "likes": 411,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "failed",
    "video_bytes": 15770677,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "Muse video generation failed at video step, no retry per MUSE_TASK"
   },
   {
    "id": "2106741968982462652",
@@ -578,9 +582,10 @@
    "likes": 347,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 20777810,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "image (bytecat gpt-image-2) and video (Muse, 10s) generated"
   },
   {
    "id": "2107039544252272972",
@@ -592,9 +597,10 @@
    "likes": 398,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
+   "status": "done",
    "video_bytes": 18513565,
-   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK"
+   "retry_note": "requeued 2026-10-27 after bytecat background approval fixed; prev: bytecat gpt-image-2 image generation blocked at image step: HTTP 403 sentinel policy (background action awaiting approval, not performed), no retry per MUSE_TASK",
+   "reason": "image (bytecat gpt-image-2) and video (Muse, 10s) generated"
   },
   {
    "id": "2107054305656373753",
@@ -606,8 +612,9 @@
    "likes": 3444,
    "duration_ms": 15041,
    "has_self_replies": false,
-   "status": "pending",
-   "video_bytes": 12014075
+   "status": "done",
+   "video_bytes": 12014075,
+   "reason": "image (bytecat gpt-image-2) and video (Muse, 10s) generated"
   },
   {
    "id": "2107093032952861096",
