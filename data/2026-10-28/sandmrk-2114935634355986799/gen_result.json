@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "error": null,
+  "usage": {
+    "total_tokens": 5541,
+    "input_tokens": 53,
+    "output_tokens": 5488,
+    "input_tokens_details": {
+      "text_tokens": 53,
+      "image_tokens": 0
+    },
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    }
+  },
+  "size": "1024x1536",
+  "kind": "image"
+}
