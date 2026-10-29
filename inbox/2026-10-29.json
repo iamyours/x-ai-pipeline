@@ -1,0 +1,3098 @@
+{
+ "responses": [
+  {
+   "data": [
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115577558091833534",
+     "created_at": "2026-10-28T22:52:50.000Z",
+     "edit_history_tweet_ids": [
+      "2115577558091833534"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 303,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115576548740964692",
+        "start": 280,
+        "url": "https://t.co/6W4n5Us7ZZ"
+       }
+      ]
+     },
+     "id": "2115577558091833534",
+     "note_tweet": {
+      "text": "Muse Video Prompt — Hai Hao, Qipao Pestle Dance (text-to-video, 2 clips × ~10s, generate in order and stitch)\nFormat lock: Aspect ratio 9:16 (source 2160×3840, 60 fps) — the output MUST use exactly this 9:16 vertical ratio; no cropping, no reframing, no letterbox change.\n\nMaster (include with every clip):\nDANCE DECLARATION: Dance video — one young woman DANCING alone against a plain studio wall, performing an upbeat in-place pestle-pounding dance (the \"rice-cake pounding\" fist motif) to a fast pop track. She dances continuously from the first frame to the last; the dancing never stops, not between phrases, not at the end. This is a pure dance performance, not acting — no miming the lyrics, no narrative gestures.\nIdentity & costume lock: One real young woman in her mid-twenties with a soft oval face, fair skin, natural glamorous makeup and pink lips, very long straight dark-brown hair falling past her chest. She wears a fitted short-sleeve qipao in pale teal-green printed with large orange peonies and dark floral sprigs, black piping, a cross-strap keyhole neckline fastened with small black frog buttons, and a high side slit over her left leg; the hem ends below the knee. Photorealistic live-action look. Maintain exact facial features, hairstyle and costume in every frame; nothing about her appearance changes.\nSetting & composition: A plain light-gray studio wall (one small white power outlet low at frame left) and a pale floor, nothing else. She stands centered, framed from the top of her head (about 2 percent below the top edge) down to her shins — about 97 percent of frame height, her face about 13 percent of frame height. There is nowhere to hide: the full dance reads against the empty wall.\nCAMERA — transcribed from the original: camera not moving for the whole video — one locked three-quarter-body shot at chest height, straight-on; no zoom, no pan, no drift; her scale in frame never changes; the wall and the outlet never shift.\nTHE WEIGHT OF THE DANCE: the groove is a bounce that travels — her hips shift side to side about 13 percent of the frame width across the dance, knees springing on every beat, and the energy runs feet to hips to torso to shoulders to arms with the fists arriving a half-beat after the hips. The signature motif is the pestle pound: both fists drive down-forward in alternation like pounding rice cakes, forearms pistoning, wrists firm. If the fists float without the hips bouncing underneath, or the whole body moves as one stiff block, it is wrong.\nHER FACE — BRIGHT AND SINGING ALONG: her bearing is bright, open and playful, shoulders relaxed, chin easy. Her eyes stay on the lens; on the big accents her lips part as if singing the hook along (the parted lips land WITH the accent, never before it), and between accents she settles into a closed-lip smile. No winking, no pouting, no expression that is not in the dance.\nLighting: flat, bright studio light, frontal and even, soft quality, low contrast; the wall stays a neutral light gray; colors are clean and true — the teal qipao and orange flowers pop against the gray.\nMusic: a fast pop dance track at 132.5 BPM, one beat every 0.45 seconds, bars of 4 beats (bar lines at about 0.1, 1.9, 3.7, 5.5, 7.3, 9.1 and 10.9 seconds); every accent of the dance lands on a beat.\n\nClip 1 (source 0:00–0:09.1):\n0-1s | Phrase A (neckline entrance), Bar 1, beats 1–2: Already dancing — her right hand touches the cross-strap at her neckline, fingers softly curled around the strap, her left arm extended out to the side at hip height with the palm open; hips landing side to side, lips parted on the first accent. Ends with the right hand still at the strap, weight on her right leg. Camera not moving. Avoid: a static opening pose, the left arm hanging dead, entering late.\n1-2s | Phrase A, Bar 1, beats 3–4: The right hand stays at the neckline a moment longer, then both hands drop into small fists; the bounce deepens, shoulders rolling after the hips."
+     },
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 356,
+      "like_count": 4,
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 0
+     },
+     "text": "Muse Video Prompt — Hai Hao, Qipao Pestle Dance (text-to-video, 2 clips × ~10s, generate in order and stitch)\nFormat lock: Aspect ratio 9:16 (source 2160×3840, 60 fps) — the output MUST use exactly this 9:16 vertical ratio; no cropping, no reframing, no letterbox change.\n\nMaster https://t.co/6W4n5Us7ZZ",
+     "url": "https://x.com/sandmrk/status/2115577558091833534"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115576391542685696"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115576548740964692",
+     "created_at": "2026-10-28T22:48:49.000Z",
+     "edit_history_tweet_ids": [
+      "2115576548740964692"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 93,
+        "start": 86,
+        "tag": "审美提升素材"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/9aU5Rz6wNw",
+        "end": 117,
+        "expanded_url": "https://x.com/sandmrk/status/2115576548740964692/video/1",
+        "media_key": "13_2115576391542685696",
+        "start": 94,
+        "url": "https://t.co/9aU5Rz6wNw"
+       }
+      ]
+     },
+     "id": "2115576548740964692",
+     "public_metrics": {
+      "bookmark_count": 3,
+      "impression_count": 820,
+      "like_count": 14,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 0
+     },
+     "text": "早餐还没吃完呢\n就来给你们跳舞啦！\n\n就先把旗袍穿上了。\n青绿底子开橙花，\n陪我把《还好》再捣一遍，\n拳头一起一落，\n跟捣年糕似的。\n你说我这是打糕，\n还是打你的心啊？\n\n#审美提升素材 https://t.co/9aU5Rz6wNw",
+     "url": "https://x.com/sandmrk/status/2115576548740964692"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115469192854147255",
+     "created_at": "2026-10-28T15:42:13.000Z",
+     "edit_history_tweet_ids": [
+      "2115469192854147255"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 303,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115468915321323790",
+        "start": 280,
+        "url": "https://t.co/EVkHWIQWDs"
+       }
+      ]
+     },
+     "id": "2115469192854147255",
+     "note_tweet": {
+      "text": "Muse Video Prompt — Silver-Haired Witch in a Qipao, Pose Showcase (text-to-video, 1 clip × ~10s)\nFormat lock: Aspect ratio 9:16 (source 720×1280, 30 fps) — the output MUST use exactly this 9:16 vertical ratio; no cropping, no reframing, no letterbox change.\n\nMaster (include with every clip):\nIdentity & costume lock: One young woman in her early twenties with a delicate oval face, fair porcelain skin, red lips and soft glamorous eye makeup, long silver-white wavy hair with bangs falling past her shoulders, a small gold hairpin above her left ear. Her gown is a pale lilac-pink glossy satin halter qipao with fine gold floral embroidery: cross-halter neckline with small gold frog ornaments and a chest cutout, side-waist cutouts closed by lace-up straps with a fine chain tassel at the hip, a high slit, a pointed asymmetric front hem, and a long train that pools on the floor. White lace-top thigh-high stockings, gold strappy high heels, a thin gold bracelet. Semi-realistic CG render with fine 3D detail and soft cinematic skin shading, not live-action, not flat anime. Maintain exact facial features, hairstyle and costume in every shot; nothing about her appearance changes.\nWorld & scenes: One dark luxurious Chinese-style interior throughout — a beige sofa, a low dark-wood tea table with a white porcelain tea set, a vase with pink plum blossoms, gold-brown floral painted screen panels, lattice windows and warm hanging lanterns. She is the only person; the room does not change between shots.\nCAMERA — transcribed from the original: the camera is locked inside every shot (camera not moving — no zoom, no pan, no drift); framing is full-body or three-quarter-body depending on the pose; every change of pose is a HARD CUT, never a morph, never a dissolve.\nTHE RHYTHM & FORCE: this is a pose showcase, not a dance. Each pose is struck and HELD almost still for about one bar (roughly 0.5–1.3 seconds) — inside a pose only her breathing, a few strands of hair and the satin sheen move. On each bar accent, a hard cut lands her in the next pose. If she starts dancing, walking, or transitioning smoothly between poses, it is wrong — poses are statues that the editing swaps.\nEMOTION ARC: one continuous bearing — cool, aloof, faintly haughty, a witch inspecting her own parlour. Her gaze meets the lens directly in most shots; the variations are small: pensive with a hand at her chin (Shot 3), hauteur with crossed arms (Shot 8), and a final reclined ease (Shot 9). No smiling broadly, no expression changes inside a pose.\nLighting & grade: warm amber lantern key from the sides, soft quality, moderate contrast; a bright rim traces the silver hair and the satin; shadows stay warm brown; the whole film carries a warm golden grade.\nMusic & sound: an elegant, stylish pop track; the pose cuts land on its bar accents, about one pose every 1.2 seconds; synthesized; no dialogue, no singing.\n\nClip 1 (source 0:00–0:08.9):\n[0.0–1.1s] Shot 1 — Full body, locked: she sits on the beige sofa, legs crossed and extended to her left, both hands resting on the sofa beside her hips, gaze direct at the lens; the pose is held, only her breathing moves. Avoid: leg movement, a slow zoom, the pose melting into the next.\n[1.1–2.2s] Shot 2 — Full body, locked (hard cut from Shot 1): still on the sofa, now with both legs together hanging straight down, hands resting on her knees, chin level, the same direct gaze. Avoid: crossed legs remaining from Shot 1, hands floating.\n[2.2–3.4s] Shot 3 — Full body, locked (hard cut): she sits on the floor beside the tea table, knees drawn up and hugged, one hand raised to her chin in a pensive touch, plum blossoms at frame left; her expression softens a degree, still composed. Avoid: the sofa appearing under her, the tea set moving."
+     },
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 1060,
+      "like_count": 12,
+      "quote_count": 1,
+      "reply_count": 7,
+      "retweet_count": 1
+     },
+     "text": "Muse Video Prompt — Silver-Haired Witch in a Qipao, Pose Showcase (text-to-video, 1 clip × ~10s)\nFormat lock: Aspect ratio 9:16 (source 720×1280, 30 fps) — the output MUST use exactly this 9:16 vertical ratio; no cropping, no reframing, no letterbox change.\n\nMaster (include with https://t.co/EVkHWIQWDs",
+     "url": "https://x.com/sandmrk/status/2115469192854147255"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115468882509168640"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115468915321323790",
+     "created_at": "2026-10-28T15:41:07.000Z",
+     "edit_history_tweet_ids": [
+      "2115468915321323790"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 102,
+        "start": 95,
+        "tag": "审美提升素材"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/9ITY3Jc6E7",
+        "end": 126,
+        "expanded_url": "https://x.com/sandmrk/status/2115468915321323790/video/1",
+        "media_key": "13_2115468882509168640",
+        "start": 103,
+        "url": "https://t.co/9ITY3Jc6E7"
+       }
+      ]
+     },
+     "id": "2115468915321323790",
+     "public_metrics": {
+      "bookmark_count": 10,
+      "impression_count": 1531,
+      "like_count": 20,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 1
+     },
+     "text": "晚上就不跳舞了\n\n拍套旗袍写真吧\n\n银发垂下来的时候，\n整间屋子的光都慢了一拍。\n她不跳舞，只换了个姿势，\n沙发、地板、茶盏边，\n处处都是她的王座。\n魔女的法术从来不用念，\n坐着就够了。\n\n#审美提升素材 https://t.co/9ITY3Jc6E7",
+     "url": "https://x.com/sandmrk/status/2115468915321323790"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115466734631342081"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115466748384461269",
+     "created_at": "2026-10-28T15:32:30.000Z",
+     "edit_history_tweet_ids": [
+      "2115466748384461269"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 20,
+        "id": "2049481608110153729",
+        "start": 8,
+        "username": "Sirilee2026"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/F8T8g3zcPB",
+        "end": 44,
+        "expanded_url": "https://x.com/sandmrk/status/2115466748384461269/photo/1",
+        "media_key": "3_2115466734631342081",
+        "start": 21,
+        "url": "https://t.co/F8T8g3zcPB"
+       },
+       {
+        "display_url": "x.com/Sirilee2026/st…",
+        "end": 68,
+        "expanded_url": "https://twitter.com/Sirilee2026/status/2115458982970368044",
+        "start": 45,
+        "url": "https://t.co/0bnEJ4ZJIu"
+       }
+      ]
+     },
+     "id": "2115466748384461269",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 460,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 0
+     },
+     "text": "你的希望成真了\n@Sirilee2026 https://t.co/F8T8g3zcPB https://t.co/0bnEJ4ZJIu",
+     "url": "https://x.com/sandmrk/status/2115466748384461269"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115442561326403586"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115442570277089484",
+     "created_at": "2026-10-28T13:56:26.000Z",
+     "edit_history_tweet_ids": [
+      "2115442570277089484"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 17,
+        "id": "882438965361393664",
+        "start": 4,
+        "username": "liluocheng13"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/Iek5kI6Qhi",
+        "end": 58,
+        "expanded_url": "https://x.com/sandmrk/status/2115442570277089484/photo/1",
+        "media_key": "3_2115442561326403586",
+        "start": 35,
+        "url": "https://t.co/Iek5kI6Qhi"
+       },
+       {
+        "display_url": "x.com/liluocheng13/s…",
+        "end": 82,
+        "expanded_url": "https://twitter.com/liluocheng13/status/2115421136616063129",
+        "start": 59,
+        "url": "https://t.co/rqCTmNArfE"
+       }
+      ]
+     },
+     "id": "2115442570277089484",
+     "public_metrics": {
+      "bookmark_count": 3,
+      "impression_count": 921,
+      "like_count": 19,
+      "quote_count": 0,
+      "reply_count": 9,
+      "retweet_count": 0
+     },
+     "text": "子丹老师@liluocheng13 的图总是这么的有质感，\n太棒了！ https://t.co/Iek5kI6Qhi https://t.co/rqCTmNArfE",
+     "url": "https://x.com/sandmrk/status/2115442570277089484"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115439982135623737",
+     "created_at": "2026-10-28T13:46:09.000Z",
+     "edit_history_tweet_ids": [
+      "2115439982135623737"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "I want your muse code.",
+        "display_url": "t.me/MuseCodeBoostH…",
+        "end": 84,
+        "expanded_url": "https://t.me/MuseCodeBoostHubBot?start=Ucsbrro",
+        "images": [
+         {
+          "height": 320,
+          "url": "https://pbs.twimg.com/news_img/2115439418568065024/sjrAsJ_c?format=jpg&name=orig",
+          "width": 320
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2115439418568065024/sjrAsJ_c?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 61,
+        "status": 200,
+        "title": "MuseBoostBot",
+        "unwound_url": "https://t.me/MuseCodeBoostHubBot?start=Ucsbrro",
+        "url": "https://t.co/PV7DdYMVI8"
+       }
+      ]
+     },
+     "id": "2115439982135623737",
+     "note_tweet": {
+      "entities": {
+       "urls": [
+        {
+         "display_url": "t.me/MuseCodeBoostH…",
+         "end": 84,
+         "expanded_url": "https://t.me/MuseCodeBoostHubBot?start=Ucsbrro",
+         "start": 61,
+         "url": "https://t.co/qkjDqnD25L"
+        }
+       ]
+      },
+      "text": "Muse 300亿token没满的赶紧来！\n白拿30亿token\n\n入口在这（专属 3B 通道，直接搜机器人只有 1B）：https://t.co/qkjDqnD25L\n\n三步走： \n1. 进机器人点 Start，菜单选⚡MuseAI令牌 \n2. 粘贴你自己 Muse 后台的邀请码（6 位）\n 3. 回后台刷新看余额，几分钟就到了  \n\n前阵子注册的直接冲；\n这两天刚注册的号，稳妥起见先白嫖那 30 亿，别急着充钱。"
+     },
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 1067,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "Muse 300亿token没满的赶紧来！\n白拿30亿token\n\n入口在这（专属 3B 通道，直接搜机器人只有 1B）：https://t.co/PV7DdYMVI8\n\n三步走： \n1. 进机器人点 Start，菜单选⚡MuseAI令牌 \n2. 粘贴你自己 Muse 后台的邀请码（6 位）\n 3. 回后台刷新看余额，几分钟就到了  \n\n前阵子注册的直接冲；",
+     "url": "https://x.com/sandmrk/status/2115439982135623737"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115435152600125440"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115435161659871469",
+     "created_at": "2026-10-28T13:27:00.000Z",
+     "edit_history_tweet_ids": [
+      "2115435161659871469"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 14,
+        "id": "2049481608110153729",
+        "start": 2,
+        "username": "Sirilee2026"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/ujmVKNVZqx",
+        "end": 50,
+        "expanded_url": "https://x.com/sandmrk/status/2115435161659871469/photo/1",
+        "media_key": "3_2115435152600125440",
+        "start": 27,
+        "url": "https://t.co/ujmVKNVZqx"
+       },
+       {
+        "display_url": "x.com/Sirilee2026/st…",
+        "end": 74,
+        "expanded_url": "https://twitter.com/Sirilee2026/status/2115387159389905280",
+        "start": 51,
+        "url": "https://t.co/ZTsGYUNdrp"
+       }
+      ]
+     },
+     "id": "2115435161659871469",
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 507,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+     },
+     "text": "感谢@Sirilee2026 的提示词，\n很还原呢！ https://t.co/ujmVKNVZqx https://t.co/ZTsGYUNdrp",
+     "url": "https://x.com/sandmrk/status/2115435161659871469"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115422426100297835",
+     "created_at": "2026-10-28T12:36:23.000Z",
+     "edit_history_tweet_ids": [
+      "2115422426100297835"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 278,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115084601983197345",
+        "start": 255,
+        "url": "https://t.co/W6IcqRp6lE"
+       }
+      ]
+     },
+     "id": "2115422426100297835",
+     "note_tweet": {
+      "entities": {
+       "hashtags": [
+        {
+         "end": 3784,
+         "start": 3777,
+         "tag": "F6E3D8"
+        },
+        {
+         "end": 3815,
+         "start": 3808,
+         "tag": "2E2A26"
+        },
+        {
+         "end": 3841,
+         "start": 3834,
+         "tag": "9FC8E8"
+        },
+        {
+         "end": 3857,
+         "start": 3850,
+         "tag": "D8DEE6"
+        },
+        {
+         "end": 3879,
+         "start": 3872,
+         "tag": "D94F4F"
+        },
+        {
+         "end": 3907,
+         "start": 3900,
+         "tag": "C9A227"
+        },
+        {
+         "end": 3932,
+         "start": 3925,
+         "tag": "FFF6E8"
+        }
+       ]
+      },
+      "text": "提示词来啦！\n我也是蒸馏出来的\n出了这个效果\n真的很惊艳啊\n\nCreate one horizontal still image, aspect ratio 16:9, a single continuous scene: a photorealistic extreme close-up portrait of a young Chinese woman in Tang-dynasty palace dress, her face turned to the camera while her eyes glance sideways out of the frame, bright spring backlight, a dreamy soft glow. One subject only, no text, no watermark, no logo.\n\nCOMPOSITION AND CAMERA\nExtreme close-up, her face right of center with its center near 62 percent of the width and 47 percent of the height, her face filling about 85 percent of the frame height, the top of her hair bun touching the upper edge and her chin near 85 percent of the height. The left third of the frame is foreground: her own hanging hair ornaments and one large earring, out of focus and close to the lens. The background falls away dark and blurred on the left, bright and blown out on the right. Camera at her eye level, mild telephoto compression, no wide-angle distortion. Do not pull back into a head-and-shoulders shot, do not center her face, do not sharpen the foreground jewelry.\n\nCHARACTER AND FACE\nA young adult woman with an oval face, a soft jaw and a small slightly pointed chin, porcelain fair skin with a luminous satin finish and a faint pink flush on the cheeks. Her eyes are large and brown, with reddish-pink eyeshadow on the lids and along the lower lash line, individually defined lower lashes, and soft straight brows. A silver star-shaped jewel huadian with one tiny red tip sits at the center of her forehead, a fine chain drop hanging from it to between her brows. Iridescent blue-silver crystal decals shaped like a flowering branch sweep from the outer corner of her right eye up onto the cheekbone, with a smaller blue gem cluster at the outer corner of her left eye. Her lips wear a glossy rose-red gradient, fuller and redder at the center, the mouth closed. A few fine flyaway strands cross her forehead, and the loose hair at the right side of her face glows golden where the backlight passes through it. Her expression is one held-back feeling: the face is given to the camera, but both eyes are turned fully toward frame left, pupils at the edge of the iris, head not following them; brows relaxed and unknitted, breath held, lips pressed into the faintest almost-smile — she is looking at someone just out of frame and not saying what she feels.\n\nHAIR AND ORNAMENTS\nBlack hair in an elaborate updo with braided sections, dressed with gold filigree hairpins, one set with a red gem at the upper left, long hanging strands of small pearls ending in pale blue teardrop beads, and beside her jaw one large ornate gold earring with a blue center stone, pearl fringe and blue drops. The ornaments on the left hang between the camera and her face, soft and out of focus, framing her without touching her skin.\n\nCOSTUME\nOnly the barest hint of costume enters the frame at the bottom edge: pale cream fabric of an inner robe and a glimpse of beadwork at her throat. The image is a face portrait; do not invent a full outfit, do not widen the framing to show one.\n\nENVIRONMENT AND BACKGROUND\nNo readable location: behind her on the left, a dark teal-brown blur suggesting a shaded interior or corridor; on the right, open bright air where the daylight floods in. A luminous haze hangs over everything, strongest at the right edge.\n\nLIGHTING AND COLOR GRADING\nStrong backlight from the right rear: loose strands at the right side of her head rim into gold and the highlights bloom and spill. Her face itself is lit by soft frontal fill, even and flattering, skin high-key and glowing with no hard shadow and no dead black anywhere on the face. The left background stays deep and muted so the bright face carries the whole image. Palette: porcelain skin #F6E3D8, deep teal-brown shade #2E2A26, ice blue crystal #9FC8E8, silver #D8DEE6, rose-red lip #D94F4F, warm gold ornament #C9A227, backlight white #FFF6E8."
+     },
+     "public_metrics": {
+      "bookmark_count": 18,
+      "impression_count": 1367,
+      "like_count": 25,
+      "quote_count": 2,
+      "reply_count": 6,
+      "retweet_count": 3
+     },
+     "text": "提示词来啦！\n我也是蒸馏出来的\n出了这个效果\n真的很惊艳啊\n\nCreate one horizontal still image, aspect ratio 16:9, a single continuous scene: a photorealistic extreme close-up portrait of a young Chinese woman in Tang-dynasty palace dress, her face turned to the camera while her eyes https://t.co/W6IcqRp6lE",
+     "url": "https://x.com/sandmrk/status/2115422426100297835"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115417403991691265"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115417545612337192",
+     "created_at": "2026-10-28T12:17:00.000Z",
+     "edit_history_tweet_ids": [
+      "2115417545612337192"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 108,
+        "start": 105,
+        "tag": "武侠"
+       },
+       {
+        "end": 113,
+        "start": 109,
+        "tag": "徐克风"
+       },
+       {
+        "end": 119,
+        "start": 114,
+        "tag": "古风打斗"
+       },
+       {
+        "end": 125,
+        "start": 120,
+        "tag": "墨影女侠"
+       },
+       {
+        "end": 129,
+        "start": 126,
+        "tag": "江湖"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 37,
+        "id": "2106376228202766336",
+        "start": 25,
+        "username": "woshiyiziyu"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/Vn4nfglkI1",
+        "end": 153,
+        "expanded_url": "https://x.com/sandmrk/status/2115417545612337192/video/1",
+        "media_key": "13_2115417403991691265",
+        "start": 130,
+        "url": "https://t.co/Vn4nfglkI1"
+       }
+      ]
+     },
+     "id": "2115417545612337192",
+     "public_metrics": {
+      "bookmark_count": 4,
+      "impression_count": 1628,
+      "like_count": 15,
+      "quote_count": 0,
+      "reply_count": 9,
+      "retweet_count": 3
+     },
+     "text": "墨影·酒肆截杀\n\n也算是做的第一个武打片啦\n\n感谢@woshiyiziyu 的提示词\n\n墨影一剑未拔，横扫六寇\n灯影摇晃，酒泼起战，拳脚落处皆是江湖\n刀未出鞘，风骨先杀\n30秒硬派武侠打戏，拳拳到肉，风随衣动\n#武侠 #徐克风 #古风打斗 #墨影女侠 #江湖 https://t.co/Vn4nfglkI1",
+     "url": "https://x.com/sandmrk/status/2115417545612337192"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115382319293034534",
+     "created_at": "2026-10-28T09:57:01.000Z",
+     "edit_history_tweet_ids": [
+      "2115382319293034534"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 300,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115381410802573610",
+        "start": 277,
+        "url": "https://t.co/VSYGOnqDxu"
+       }
+      ]
+     },
+     "id": "2115382319293034534",
+     "note_tweet": {
+      "text": "Seedance 2.5 Video Prompt:\n\nGlobal lock: Vertical 9:16, one single continuous locked-off shot, 7.5 seconds. Semi-realistic CG render with fine 3D detail and soft cinematic skin shading — not live-action footage, not flat anime. Character: one young woman with a platinum-white wavy bob and bangs, a gold cuff bracelet, fine silver arm chains, and a thin gold chain band on her right thigh. Costume: a pale lilac-pink glossy satin halter qipao gown — cross-halter neckline with small gold ornaments, a fitted bodice, a SHORT front skirt with long sheer train panels falling from both hips, and an open back closed by corset lacing down the spine with one fine beaded chain draped along her back. Setting: a dark luxurious interior, gold floral painted wall panels, one tall arched standing mirror at frame right, black glossy floor reflecting the light. Spatial logic: she stands before the mirror slightly left of center, the mirror occupying the right 35 percent of the frame; the mirror always shows her BACK or three-quarter back while the camera sees whichever side she presents — the two views stay consistent with each other. Framing: full body, about 88 percent of frame height frontal, face about 10 percent. Lighting: warm amber interior glow, soft key on her front, a bright rim tracing the white curls and the satin sheen. Audio: a fast pop dance track at 129.2 BPM, no dialogue. Emotion arc: a poised back-view mystery — a bright hair-flip reveal — playful open groove — a slow composed settle, the mirror keeping her back the whole way.\n\n[00:00-00:01] Pure back view: she stands before the mirror, back to the camera, hands low — a fine beaded chain dangling from her right hand — swaying almost imperceptibly; the mirror catches her profile.\n[00:01-00:02] She turns to face the camera in one motion, white curls flying out with the spin, and lands facing front.\n[00:02-00:04] In-place groove: both palms turn up and wave lightly at shoulder height, hips swaying, small steps in place, expression bright with lips parted.\n[00:04-00:06] Palms push forward and sweep out in alternation, weight shifting side to side on the beat, the sheer trains swinging softly.\n[00:06-00:07] She turns to her left profile, arms lowering behind her back, and slowly rotates back toward the front, settling still as the clip ends — the mirror showing her back throughout.\n\nNegative constraints: no camera movement, no cut, no second real person (the reflection is her own and must stay geometrically consistent), no reflection showing her face while her back is turned, no costume or hairstyle change, no lacing or train morphing, no extra fingers, no text, no watermark, no logo.\nThis is a reverse-engineered prompt; the generated result cannot fully match the original video and needs further optimization."
+     },
+     "public_metrics": {
+      "bookmark_count": 3,
+      "impression_count": 1200,
+      "like_count": 10,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "Seedance 2.5 Video Prompt:\n\nGlobal lock: Vertical 9:16, one single continuous locked-off shot, 7.5 seconds. Semi-realistic CG render with fine 3D detail and soft cinematic skin shading — not live-action footage, not flat anime. Character: one young woman with a platinum-white https://t.co/VSYGOnqDxu",
+     "url": "https://x.com/sandmrk/status/2115382319293034534"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115381317772959744"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115381410802573610",
+     "created_at": "2026-10-28T09:53:24.000Z",
+     "edit_history_tweet_ids": [
+      "2115381410802573610"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 98,
+        "start": 91,
+        "tag": "审美提升素材"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/TlK1Te9Fbd",
+        "end": 122,
+        "expanded_url": "https://x.com/sandmrk/status/2115381410802573610/video/1",
+        "media_key": "13_2115381317772959744",
+        "start": 99,
+        "url": "https://t.co/TlK1Te9Fbd"
+       }
+      ]
+     },
+     "id": "2115381410802573610",
+     "public_metrics": {
+      "bookmark_count": 19,
+      "impression_count": 2750,
+      "like_count": 64,
+      "quote_count": 1,
+      "reply_count": 20,
+      "retweet_count": 1
+     },
+     "text": "令人期待的晚餐伴舞时间到了！\n\n晚饭前对着镜子转了一圈，\n背影先给镜子看，正面留给你们。\n白发配着淡紫缎面，\n转身那一下，头发先飞起来。\n镜里镜外两个我，\n你分得清哪个在跳舞吗？\n\n#审美提升素材 https://t.co/TlK1Te9Fbd",
+     "url": "https://x.com/sandmrk/status/2115381410802573610"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115356089978163315",
+     "created_at": "2026-10-28T08:12:47.000Z",
+     "edit_history_tweet_ids": [
+      "2115356089978163315"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 297,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115350253025239181",
+        "start": 274,
+        "url": "https://t.co/JVHPwMoA2J"
+       }
+      ]
+     },
+     "id": "2115356089978163315",
+     "note_tweet": {
+      "entities": {
+       "hashtags": [
+        {
+         "end": 2176,
+         "start": 2169,
+         "tag": "E07B2A"
+        },
+        {
+         "end": 2198,
+         "start": 2191,
+         "tag": "F2A950"
+        },
+        {
+         "end": 2223,
+         "start": 2216,
+         "tag": "2A2138"
+        },
+        {
+         "end": 2247,
+         "start": 2240,
+         "tag": "9FB4CC"
+        },
+        {
+         "end": 2264,
+         "start": 2257,
+         "tag": "0E5B43"
+        },
+        {
+         "end": 2283,
+         "start": 2276,
+         "tag": "17A673"
+        },
+        {
+         "end": 2303,
+         "start": 2296,
+         "tag": "EDEAE2"
+        }
+       ],
+       "mentions": [
+        {
+         "end": 2898,
+         "id": "141634533",
+         "start": 2890,
+         "username": "sandmrk"
+        }
+       ]
+      },
+      "text": "GPT image Prompt:\nVertical 9:16, semi-realistic fantasy, ancient Chinese noblewoman holding white fox-fairy mask (狐仙傩面) at Halloween masquerade night, emerald hanfu gown, pumpkin candlelight vs cold moonlight. One subject.\n\n【Composition】Three-quarter portrait to mid-thigh, face at 46% width, 24% height, 13% frame height. White fox mask held upper right beside cheek, center near 72% width. Camera eye height, telephoto, shallow DOF. Background behind her, softly blurred.\n\n【Character】Young ancient Chinese woman, oval face, porcelain-pale cool skin, faint blush. Green-grey eyes, dark smoky shadow, russet tint at outer corners, gaze cast down-left, away from viewer, lids heavy. Lips muted rose-brown, slightly parted, no smile. Expression: languid, melancholic, quietly distant — mask smiles, she does not. Fine black strands across forehead and cheeks.\n\n【Hair/Costume】Very long black wavy hair, center-parted, over one shoulder. Deep emerald strapless hanfu gown (抹胸襦裙), sweetheart neckline, diagonal satin sash; ornate dark bronze-gold filigree vine (青铜累丝) corset wraps waist; emerald satin skirt. Black silk choker (丝质项圈) with emerald pendant; long emerald tassel earrings (流苏耳坠).\n\n【Pose】Torso three-quarter turn, head turned left, chin level. Left hand holds white fox mask beside face, fingertips on mask's cheek; right arm rests at frame left. Mask: white fox-fairy (狐仙), silver filigree brow ornament, emerald gem in forehead, narrow eye slits, painted smile.\n\n【Environment】Ancient Chinese palace terrace (宫殿露台) transformed for Halloween night: carved jack-o'-lanterns (南瓜灯) glowing amber along lower edges, black bronze candelabra with dripping candles, tattered dark silk drapes, tall arched window onto full moon, low mist on stone floor, distant bat silhouettes, cobwebs in upper corners. Ancient Chinese palace architecture with pumpkin and bat Halloween decor — East meets West on one haunted night. No other people, no readable text.\n\n【Lighting】Candlelight key: warm amber from jack-o'-lanterns and candles, low side, modeling face and satin; cold silver-blue moonlight rims hair and shoulders. Gown emerald deepens in shadow. Palette: pumpkin orange #E07B2A, candle amber #F2A950, midnight purple #2A2138, moonlight blue #9FB4CC, emerald #0E5B43, gem green #17A673, mask white #EDEAE2, hair black #121013.\n\n【Rendering】Semi-realistic fantasy, painterly soft shading: porcelain skin cool highlights, satin deep glossy folds, bronze filigree fine engraved, candle flames warm blooms. Sharpness on eyes and mask; pumpkins and moon dissolve into night bokeh, mist softening edges.\n\nNegative: costume change, recolored gown, added jewelry, mask removed, mask worn over face, gaze at viewer, smile, daylight, second person, text, watermark, logo, modern, plastic skin, extra fingers, Zhongyuan festival, ghost-fire lanterns, gothic western castle.\n\nSignature: \"AI art gallery | @sandmrk\" small white Arial bottom center."
+     },
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 926,
+      "like_count": 6,
+      "quote_count": 1,
+      "reply_count": 6,
+      "retweet_count": 1
+     },
+     "text": "GPT image Prompt:\nVertical 9:16, semi-realistic fantasy, ancient Chinese noblewoman holding white fox-fairy mask (狐仙傩面) at Halloween masquerade night, emerald hanfu gown, pumpkin candlelight vs cold moonlight. One subject.\n\n【Composition】Three-quarter portrait to mid-thigh, https://t.co/JVHPwMoA2J",
+     "url": "https://x.com/sandmrk/status/2115356089978163315"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115352999140937884",
+     "created_at": "2026-10-28T08:00:31.000Z",
+     "edit_history_tweet_ids": [
+      "2115352999140937884"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 23,
+        "id": "2099856401246158848",
+        "start": 14,
+        "username": "Alexvhyn"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "x.com/Alexvhyn/statu…",
+        "end": 62,
+        "expanded_url": "https://twitter.com/Alexvhyn/status/2115337297017327649",
+        "start": 39,
+        "url": "https://t.co/XdtzG0G8A0"
+       }
+      ]
+     },
+     "id": "2115352999140937884",
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 714,
+      "like_count": 8,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 1
+     },
+     "text": "来大家来认识一下瑟琳老师\n\n@Alexvhyn\n\n作品很棒呢\n\n欢迎关注哦！ https://t.co/XdtzG0G8A0",
+     "url": "https://x.com/sandmrk/status/2115352999140937884"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115350235342069760",
+       "3_2115350245232312321"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115350253025239181",
+     "created_at": "2026-10-28T07:49:36.000Z",
+     "edit_history_tweet_ids": [
+      "2115350253025239181"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/KF3ZVaNgZo",
+        "end": 43,
+        "expanded_url": "https://x.com/sandmrk/status/2115350253025239181/photo/1",
+        "media_key": "3_2115350235342069760",
+        "start": 20,
+        "url": "https://t.co/KF3ZVaNgZo"
+       },
+       {
+        "display_url": "pic.x.com/KF3ZVaNgZo",
+        "end": 43,
+        "expanded_url": "https://x.com/sandmrk/status/2115350253025239181/photo/1",
+        "media_key": "3_2115350245232312321",
+        "start": 20,
+        "url": "https://t.co/KF3ZVaNgZo"
+       }
+      ]
+     },
+     "id": "2115350253025239181",
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 1279,
+      "like_count": 16,
+      "quote_count": 1,
+      "reply_count": 9,
+      "retweet_count": 3
+     },
+     "text": "万圣节要到了呢\n\n你们打算扮成什么鬼？ https://t.co/KF3ZVaNgZo",
+     "url": "https://x.com/sandmrk/status/2115350253025239181"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115347679597543424"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115347717581107334",
+     "created_at": "2026-10-28T07:39:31.000Z",
+     "edit_history_tweet_ids": [
+      "2115347717581107334"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/O25m0LBHih",
+        "end": 89,
+        "expanded_url": "https://x.com/sandmrk/status/2115347717581107334/video/1",
+        "media_key": "13_2115347679597543424",
+        "start": 66,
+        "url": "https://t.co/O25m0LBHih"
+       }
+      ]
+     },
+     "id": "2115347717581107334",
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 787,
+      "like_count": 14,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 2
+     },
+     "text": "古镇晴日悠长，\n巷口漫开清甜麦芽糖香。\n明媚少女执扇闲游，\n携橘猫追风寻甜，\n眼底盛满市井温柔，\n把寻常烟火，\n过成岁岁温柔欢喜。 https://t.co/O25m0LBHih",
+     "url": "https://x.com/sandmrk/status/2115347717581107334"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115317315579613660",
+     "created_at": "2026-10-28T05:38:43.000Z",
+     "edit_history_tweet_ids": [
+      "2115317315579613660"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 299,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115293065418305973",
+        "start": 276,
+        "url": "https://t.co/vmYGrHx1yL"
+       }
+      ]
+     },
+     "id": "2115317315579613660",
+     "note_tweet": {
+      "entities": {
+       "hashtags": [
+        {
+         "end": 2212,
+         "start": 2205,
+         "tag": "E8A04C"
+        },
+        {
+         "end": 2232,
+         "start": 2225,
+         "tag": "33455C"
+        },
+        {
+         "end": 2254,
+         "start": 2247,
+         "tag": "241A14"
+        },
+        {
+         "end": 2274,
+         "start": 2267,
+         "tag": "E9DCC8"
+        },
+        {
+         "end": 2294,
+         "start": 2287,
+         "tag": "14100E"
+        },
+        {
+         "end": 2311,
+         "start": 2304,
+         "tag": "8E4A42"
+        },
+        {
+         "end": 2335,
+         "start": 2328,
+         "tag": "D9A37E"
+        }
+       ],
+       "mentions": [
+        {
+         "end": 2806,
+         "id": "141634533",
+         "start": 2798,
+         "username": "sandmrk"
+        }
+       ]
+      },
+      "text": "GPT image Prompt:\nUltrawide 2.2:1, photorealistic cinematic, young swordswoman turning back over shoulder in lantern-lit night market, warm lantern glow vs cold blue night. One subject.\n\n【Composition】Three-quarter back view, left of center, face at 41% width, 38% height, 30% frame height. Right 55% background: lantern orbs receding into blur. Dark sword hilt at 24% width, low unraised. Camera shoulder height, telephoto, shallow DOF.\n\n【Character】Young woman, oval face, soft jaw, pointed chin, warm night light on skin, satin sheen. Dark brown eyes, smoky eyeshadow, defined lashes, straight strong brows. Lips muted dark red, closed, no smile. Expression: calm, aloof, quietly alert — like a skilled swordswoman assessing her surroundings. Body walking away, head turns back over shoulder, eyes meet viewer directly with clear deep gaze, brows level. Loose black strands naturally fall across forehead and cheek, wind-swept, not damp.\n\n【Hair/Costume】Very long black hair, half tied back half loose, natural flowing texture, strands blowing gently in night breeze, edges rimmed gold by lantern light. Plain white wandering swordsman's robe, wide sleeves, dark teal-black cross-collar inner layer, matte fine-woven cloth, white warmed to pale gold. No jewelry, no embroidery — understated elegance. Sword shows only plain dark hilt, short cord wrap.\n\n【Pose】Torso faces away toward street depth, shoulders three-quarter back, weight shifting forward mid-step. Only head and neck rotate back, chin level, face meets lens across shoulder. Arms unemphasized, sword low behind. Turn continuous through spine and neck.\n\n【Environment】Old-town night market: wooden shopfronts dim left, blurred signboard top center, strings of paper lanterns receding right into warm orange bokeh. Far street and lower right carry cold blue-grey shadow, wet stone sheen. No readable text. No other people.\n\n【Lighting】All light from lanterns. Large lantern group behind right blooms warm orbs, rims hair and shoulder gold. Nearer lantern throws diagonal warm patch across left cheek and jaw, rest of face in cool blue shadow — warm and cold divide face. Background left amber-brown, right blue-grey night. Palette: lantern amber #E8A04C, night blue #33455C, shadow brown #241A14, robe white #E9DCC8, hair black #14100E, lip red #8E4A42, skin highlight #D9A37E.\n\n【Rendering】Photorealistic cinematic, filmic grain-free: skin fine satin, hair natural flowing strands with specular edges, cloth matte weighty. Sharpness on eyes and face strands; lanterns and street dissolve into layered bokeh, air carries faint night haze.\n\nNegative: second person, drawn weapon, readable text, watermark, logo, anime, cartoon, oversaturated, plastic skin, extra limbs, centered, full-body, focused background.\n\nSignature: \"AI art gallery | @sandmrk\" small white Arial bottom center."
+     },
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 531,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+     },
+     "text": "GPT image Prompt:\nUltrawide 2.2:1, photorealistic cinematic, young swordswoman turning back over shoulder in lantern-lit night market, warm lantern glow vs cold blue night. One subject.\n\n【Composition】Three-quarter back view, left of center, face at 41% width, 38% height, 30% https://t.co/vmYGrHx1yL",
+     "url": "https://x.com/sandmrk/status/2115317315579613660"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115312673642705299",
+     "created_at": "2026-10-28T05:20:16.000Z",
+     "edit_history_tweet_ids": [
+      "2115312673642705299"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 303,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115312587483336971",
+        "start": 280,
+        "url": "https://t.co/tv3x7zSFIP"
+       }
+      ]
+     },
+     "id": "2115312673642705299",
+     "note_tweet": {
+      "text": "Seedance 2.5 Video Prompt:\n\nGlobal lock: Vertical 9:16, one single continuous locked-off shot, 18 seconds. Semi-realistic CG game-cosplay render with fine 3D detail and soft cinematic skin shading — not live-action footage, not flat anime. Character: one young woman cosplaying a game heroine, platinum-white wavy shoulder-length hair with straight bangs, grey-green eyes, fine silver chain bracelets on both wrists, small drop earrings, NO headdress. Costume: an ivory satin modified qipao mini dress — black piping, a frog-button mandarin collar, muted grey ink-floral print, short puff sleeves with ruffled cuffs, open side-waist panels joined by black ring-laced cords, a high side slit finished with a bow and a ruffled flounce; the satin sheen is the costume's signature. Setting: a dark interior, one tall black screen painted with gold-brown floral motifs filling the background behind her, warm wall-lamp glows at both edges, a hint of dark carved furniture at frame right. Framing: she fills about 87 percent of the frame height, head about 13 percent below the top edge, the frame cutting at mid-thigh, face about 12 percent of frame height. Spatial logic: she dances in place before the screen; nothing and nobody else moves. Lighting: warm key from front-left, gentle rim on the white hair, background sinking into black-brown shadow, the ivory satin glowing against the dark. Audio: a mid-tempo pop track at 105.5 BPM, no dialogue, no lyrics work from her — her lips only breathe with the poses. Emotion arc: aloof profile poise — a sly upward glance and smile — open bright gestures — one long statuesque overhead stretch — a soft look back over the shoulder to close.\n\n[00:00-00:02] Three-quarter left profile: head tilted slightly back, lips parted, one hand resting on her thigh, the other on her hip, a slow settle-in sway.\n[00:02-00:03] She rotates to face the camera, weight shifting foot to foot, right arm sweeping across and back.\n[00:03-00:04] Right index finger points up with a smile; then her chin dips and her eyes lift to the lens from under the brow line — a sly, teasing upward gaze.\n[00:04-00:05] Both palms push toward the camera in alternation, palms open, fingers relaxed.\n[00:05-00:07] Hands cross low at the waist and settle; her right hand rises behind her head into a pose, body swaying gently, gaze drifting sideways.\n[00:07-00:09] The hand-behind-head pose holds through a soft sway; then both hands come to her chest, palms opening outward.\n[00:09-00:11] Palms-out gestures at chest height, small pushes and waves on the beat, expression bright and open.\n[00:11-00:12] Quick light hand flourishes beside her face and chest, one pointing accent on the beat.\n[00:12-00:13] Both hands drop and reset — a one-beat breath.\n[00:13-00:15] BOTH ARMS RISE fully overhead and her hands clasp together at the top; the clasp holds for over two seconds while her elongated torso sways gently, lips slightly parted, gaze straight into the lens.\n[00:15-00:17] Arms descend to head height; she half-turns, one hand returning behind her head, the other to her hip.\n[00:17-00:18] Three-quarter turn, palm turned up in a small beckoning gesture, looking back at the camera as the motion settles to the end.\n\nNegative constraints: no camera movement, no zoom, no cut, no second person, no headdress appearing, no costume change, no piping or floral print morphing, no extra fingers, no warped hands during the palm pushes, no text, no watermark, no logo.\nThis is a reverse-engineered prompt; the generated result cannot fully match the original video and needs further optimization."
+     },
+     "public_metrics": {
+      "bookmark_count": 7,
+      "impression_count": 1053,
+      "like_count": 9,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 1
+     },
+     "text": "Seedance 2.5 Video Prompt:\n\nGlobal lock: Vertical 9:16, one single continuous locked-off shot, 18 seconds. Semi-realistic CG game-cosplay render with fine 3D detail and soft cinematic skin shading — not live-action footage, not flat anime. Character: one young woman cosplaying a https://t.co/tv3x7zSFIP",
+     "url": "https://x.com/sandmrk/status/2115312673642705299"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115312494520705024"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115312587483336971",
+     "created_at": "2026-10-28T05:19:56.000Z",
+     "edit_history_tweet_ids": [
+      "2115312587483336971"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 107,
+        "start": 100,
+        "tag": "审美提升素材"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/03HiyCoLAw",
+        "end": 131,
+        "expanded_url": "https://x.com/sandmrk/status/2115312587483336971/video/1",
+        "media_key": "13_2115312494520705024",
+        "start": 108,
+        "url": "https://t.co/03HiyCoLAw"
+       }
+      ]
+     },
+     "id": "2115312587483336971",
+     "public_metrics": {
+      "bookmark_count": 23,
+      "impression_count": 2657,
+      "like_count": 47,
+      "quote_count": 2,
+      "reply_count": 11,
+      "retweet_count": 3
+     },
+     "text": "午餐吃完了，换上殷紫萍这一身，\n没戴头饰，倒觉得轻省。\n象牙白缎面配着黑滚边，\n侧腰的环扣系带，是这身衣服的魂。\n抬手过头顶那一下我停了很久，\n让缎面在灯下慢慢发亮。\n转身回望的时候，记得看我呀。\n\n#审美提升素材 https://t.co/03HiyCoLAw",
+     "url": "https://x.com/sandmrk/status/2115312587483336971"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115298892040593408"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115298972965499340",
+     "created_at": "2026-10-28T04:25:50.000Z",
+     "edit_history_tweet_ids": [
+      "2115298972965499340"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/xZcyEOuPTU",
+        "end": 51,
+        "expanded_url": "https://x.com/sandmrk/status/2115298972965499340/video/1",
+        "media_key": "13_2115298892040593408",
+        "start": 28,
+        "url": "https://t.co/xZcyEOuPTU"
+       }
+      ]
+     },
+     "id": "2115298972965499340",
+     "public_metrics": {
+      "bookmark_count": 6,
+      "impression_count": 1098,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 0
+     },
+     "text": "我中文不太好\n大家不要介意哈\n\n陪我偷个闲\n请你喝咖啡 https://t.co/xZcyEOuPTU",
+     "url": "https://x.com/sandmrk/status/2115298972965499340"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115293054068568064"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115293065418305973",
+     "created_at": "2026-10-28T04:02:21.000Z",
+     "edit_history_tweet_ids": [
+      "2115293065418305973"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/LcEjsv2Q21",
+        "end": 52,
+        "expanded_url": "https://x.com/sandmrk/status/2115293065418305973/photo/1",
+        "media_key": "3_2115293054068568064",
+        "start": 29,
+        "url": "https://t.co/LcEjsv2Q21"
+       }
+      ]
+     },
+     "id": "2115293065418305973",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1041,
+      "like_count": 9,
+      "quote_count": 1,
+      "reply_count": 7,
+      "retweet_count": 2
+     },
+     "text": "昨夜偶遇一女侠\n\n她说。。。了什么呢？\n\n我咋不记得了？ https://t.co/LcEjsv2Q21",
+     "url": "https://x.com/sandmrk/status/2115293065418305973"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115274405253365760"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115274498631155813",
+     "created_at": "2026-10-28T02:48:35.000Z",
+     "edit_history_tweet_ids": [
+      "2115274498631155813"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/hIsfTNVmZ0",
+        "end": 38,
+        "expanded_url": "https://x.com/sandmrk/status/2115274498631155813/video/1",
+        "media_key": "13_2115274405253365760",
+        "start": 15,
+        "url": "https://t.co/hIsfTNVmZ0"
+       },
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 62,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115084601983197345",
+        "start": 39,
+        "url": "https://t.co/W6IcqRp6lE"
+       }
+      ]
+     },
+     "id": "2115274498631155813",
+     "public_metrics": {
+      "bookmark_count": 6,
+      "impression_count": 1575,
+      "like_count": 40,
+      "quote_count": 0,
+      "reply_count": 15,
+      "retweet_count": 4
+     },
+     "text": "这颜值\n有没有长到你的心里？ https://t.co/hIsfTNVmZ0 https://t.co/W6IcqRp6lE",
+     "url": "https://x.com/sandmrk/status/2115274498631155813"
+    },
+    {
+     "author_id": "141634533",
+     "conversation_id": "2115268327589433448",
+     "created_at": "2026-10-28T02:24:03.000Z",
+     "edit_history_tweet_ids": [
+      "2115268327589433448"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/sandmrk/status…",
+        "end": 301,
+        "expanded_url": "https://twitter.com/sandmrk/status/2115267425902239906",
+        "start": 278,
+        "url": "https://t.co/Q4UVh1QBnk"
+       }
+      ]
+     },
+     "id": "2115268327589433448",
+     "note_tweet": {
+      "text": "Seedance 2.5 Video Prompt:\nHorizontal 16:9, high-end Chinese CG animation cinematography, a storm-dark battlefield under racing clouds, rendered in rich 3D with volumetric light. Character lock, reused unchanged in every shot: the same female warrior, long dark teal-black hair with silver-white streaks and feather-like silver ornaments, a high-collared blue-and-white battle dress with silver shoulder armor and long flowing teal ribbons; her weapon is violet energy itself — rings, blades, a particle dragon and seas of sparks — and she fights with a calm, almost amused expression, never shouting, never strained. Enemy lock: an army of horned shadow beasts, black silhouettes with faint glowing eyes, never shown in detailed close-up. Spatial logic: she is always the only lit figure; the beasts stay at distance or in silhouette; her violet energy is the brightest element in every shot. Lighting: storm light and golden god-rays through cloud gaps against her saturated violet energy. Audio: an epic orchestral-electronic score with deep impacts on each energy burst, no dialogue, no singing. Emotion arc: teasing calm at the opening face shot, escalating spectacle, and total serene dominance at the closing face shot — the stronger she gets, the quieter her face.\nShot 1 (0.0-0.8s): Medium shot on the dark grassland; she spins once and a colossal ring of violet energy sweeps horizontally around her, grass flattening in its wake. Continuity: the spin completes inside the shot.\nShot 2 (0.8-1.4s): Extreme close-up impact frame; her fist erupts in violet crystalline energy, white flash at the burst's core. Continuity: a single hit, no follow-through shown.\nShot 3 (1.4-2.2s): Extreme wide shot of the black plain; far away, thin violet slash-streaks cross the dark while golden god-rays fall through a gap in the clouds. Continuity: she is a speck in the distance.\nShot 4 (2.2-2.7s): Face close-up; she raises one finger beside her cheek and looks into the camera, calm with a trace of sly amusement, strands of hair across her face. Continuity: the battlefield is blurred behind her.\nShot 5 (2.7-4.1s): Wide shot; a beam of violet starfall strikes the beast army, and above it a dragon made of violet particles coils into a great ring in the sky. Continuity: the beasts recoil as silhouettes only.\nShot 6 (4.1-5.5s): Wide shot; a colossal violet explosion blooms over the plain, then a bright insert of a crystal canyon, clusters of crystal and a lone rock spire under daylight. Continuity: the insert is a clean cut, not a transition.\nShot 7 (5.5-8.5s): The crystal canyon in time-lapse; bright sky darkens as storm clouds swallow the light, and on the plain the shadow-beast army advances in silhouette. Continuity: no human figure in this shot.\nShot 8 (8.5-11.0s): A look-back sequence in three beats: her back with hair and ribbons streaming, a three-quarter turn toward camera, then a letterboxed close-up of her face, petals and embers drifting past. Continuity: her expression stays calm through all three beats.\nShot 9 (11.0-14.5s): Melee montage; she rides a sweeping wave of violet energy across the field, leaps and strikes down at a giant beast, and twin violet arcs cross the frame in an X. Continuity: at most one action per beat, each landing on a flash of light.\nShot 10 (14.5-17.5s): Motif reprise; the spinning energy ring and the fist burst return, with one insert of an orange-red fire vortex spiraling over the field — the only warm-colored effect in the film. Continuity: the orange insert lasts about a second.\nShot 11 (17.5-22.5s): Extreme wide shot, she small at frame right; multiple magenta-violet laser slashes lance across the whole frame in a crisscross lattice, again and again. Continuity: each slash appears as a complete line in a single flash."
+     },
+     "public_metrics": {
+      "bookmark_count": 6,
+      "impression_count": 1473,
+      "like_count": 9,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 0
+     },
+     "text": "Seedance 2.5 Video Prompt:\nHorizontal 16:9, high-end Chinese CG animation cinematography, a storm-dark battlefield under racing clouds, rendered in rich 3D with volumetric light. Character lock, reused unchanged in every shot: the same female warrior, long dark teal-black hair https://t.co/Q4UVh1QBnk",
+     "url": "https://x.com/sandmrk/status/2115268327589433448"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115267291533529088"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115267425902239906",
+     "created_at": "2026-10-28T02:20:28.000Z",
+     "edit_history_tweet_ids": [
+      "2115267425902239906"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 122,
+        "start": 115,
+        "tag": "审美提升素材"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/mjnh6p926n",
+        "end": 146,
+        "expanded_url": "https://x.com/sandmrk/status/2115267425902239906/video/1",
+        "media_key": "13_2115267291533529088",
+        "start": 123,
+        "url": "https://t.co/mjnh6p926n"
+       }
+      ]
+     },
+     "id": "2115267425902239906",
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 2358,
+      "like_count": 17,
+      "quote_count": 1,
+      "reply_count": 6,
+      "retweet_count": 2
+     },
+     "text": "今天又是限流的一天！\n那就杀出去！！！\n\n他们说看清一张脸，要醉上一千年。\n她却只抬了抬手指，紫焰漫过整片荒原。\n天上盘旋的那条龙是她的，\n地上那些兽影，连她衣角都没碰到。\n所谓心醉，原来是强者才有的从容。\n\n作者：想雾里告白.\n#审美提升素材 https://t.co/mjnh6p926n",
+     "url": "https://x.com/sandmrk/status/2115267425902239906"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115249798827913217",
+       "3_2115249810290987008"
+      ]
+     },
+     "author_id": "141634533",
+     "conversation_id": "2115249819468050830",
+     "created_at": "2026-10-28T01:10:31.000Z",
+     "edit_history_tweet_ids": [
+      "2115249819468050830"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/CPGn8slIoV",
+        "end": 146,
+        "expanded_url": "https://x.com/sandmrk/status/2115249819468050830/photo/1",
+        "media_key": "3_2115249798827913217",
+        "start": 123,
+        "url": "https://t.co/CPGn8slIoV"
+       },
+       {
+        "display_url": "pic.x.com/CPGn8slIoV",
+        "end": 146,
+        "expanded_url": "https://x.com/sandmrk/status/2115249819468050830/photo/1",
+        "media_key": "3_2115249810290987008",
+        "start": 123,
+        "url": "https://t.co/CPGn8slIoV"
+       }
+      ]
+     },
+     "id": "2115249819468050830",
+     "note_tweet": {
+      "text": "她斜卧在金色光中，乌黑长发如墨烟飘散，编织着梅花与兰花。\n额间花钿闪烁，金累丝缠绕衣裳，青鸾在左下方仰望她。\n\n她闭着眼，像在春天里沉睡，呼吸缓慢而安宁。\n花瓣飘散在空中，金色阳光洒满整个画面。\n\n那一刻的宁静与梦幻，像从宋代画卷中走出的花神。\n\n试着改一个词：把\"青鸾\"换成\"白鹤\"，画面就从神秘变成清雅——你更喜欢哪个版本？"
+     },
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 803,
+      "like_count": 18,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 2
+     },
+     "text": "她斜卧在金色光中，乌黑长发如墨烟飘散，编织着梅花与兰花。\n额间花钿闪烁，金累丝缠绕衣裳，青鸾在左下方仰望她。\n\n她闭着眼，像在春天里沉睡，呼吸缓慢而安宁。\n花瓣飘散在空中，金色阳光洒满整个画面。\n\n那一刻的宁静与梦幻，像从宋代画卷中走出的花神。 https://t.co/CPGn8slIoV",
+     "url": "https://x.com/sandmrk/status/2115249819468050830"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "duration_ms": 11263,
+      "height": 3840,
+      "media_key": "13_2115576391542685696",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115576391542685696/img/w899a3D64Dcq0Idw.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/vid/avc1/720x1280/iMNPlRz_XlAxthuO.mp4"
+       },
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/vid/avc1/320x568/X8UbXJmHo1lAOt-H.mp4"
+       },
+       {
+        "bit_rate": 25128000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/vid/avc1/2160x3840/mhjezHiwk07DyR7Y.mp4"
+       },
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/vid/avc1/1080x1920/R9jd6Xh3rCKhrSyO.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/vid/avc1/480x852/EwGJnlMbELjqrqAs.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115576391542685696/pl/RtpWYJeOr-jz8HzL.m3u8"
+       }
+      ],
+      "width": 2160
+     },
+     {
+      "duration_ms": 8933,
+      "height": 1280,
+      "media_key": "13_2115468882509168640",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115468882509168640/img/MQC-VZw4_sO-iQdb.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115468882509168640/vid/avc1/320x568/uBeORcqbOVNVx5N7.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115468882509168640/vid/avc1/480x852/W2_h2sKAvnW3pCXC.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115468882509168640/vid/avc1/720x1280/zfpA6X4qENaaTcYN.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115468882509168640/pl/_HB4hILi5_Cy3tMu.m3u8"
+       }
+      ],
+      "width": 720
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115466734631342081",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVulyXPbUAEDusZ.jpg",
+      "width": 941
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115442561326403586",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVuPzSqaUAIStit.jpg",
+      "width": 941
+     },
+     {
+      "height": 941,
+      "media_key": "3_2115435152600125440",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVuJEDAa0AA3KtG.jpg",
+      "width": 1672
+     },
+     {
+      "duration_ms": 30048,
+      "height": 1440,
+      "media_key": "13_2115417403991691265",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115417403991691265/img/LxiF3uaNJ-AMmBKk.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115417403991691265/pl/PLwjTGdd3MY3BzW1.m3u8?v=cfc"
+       },
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115417403991691265/vid/avc1/480x270/dUCjyunYaKbzXxKL.mp4"
+       },
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115417403991691265/vid/avc1/2560x1440/g6Eq4VDMxTy1wmkt.mp4"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115417403991691265/vid/avc1/640x360/GbcZrOn6S0i3FHQS.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115417403991691265/vid/avc1/1280x720/lOkqYU7cguRb8KMH.mp4"
+       }
+      ],
+      "width": 2560
+     },
+     {
+      "duration_ms": 7455,
+      "height": 2560,
+      "media_key": "13_2115381317772959744",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115381317772959744/img/n4MZW29Gudc0n3qu.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115381317772959744/vid/avc1/1440x2560/kNoN74kgRHaxJKZh.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115381317772959744/vid/avc1/480x852/Ogt5-59R59xhYWU1.mp4"
+       },
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115381317772959744/vid/avc1/320x568/hnYe2gvp63CzxB_M.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115381317772959744/vid/avc1/720x1280/m67divBYcAb7DUb0.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115381317772959744/pl/us9jMqg86_EKZ8cq.m3u8"
+       }
+      ],
+      "width": 1440
+     },
+     {
+      "height": 1673,
+      "media_key": "3_2115350235342069760",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVs71NkaYAAkmRY.jpg",
+      "width": 940
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115350245232312321",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVs71yabgAEx_gw.jpg",
+      "width": 940
+     },
+     {
+      "duration_ms": 15092,
+      "height": 720,
+      "media_key": "13_2115347679597543424",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115347679597543424/img/oPPYME_fjBzb1fEq.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115347679597543424/vid/avc1/360x270/wYvvz9e7xoZbqBiH.mp4"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115347679597543424/vid/avc1/480x360/Niwxn4QVod_bl16r.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115347679597543424/vid/avc1/960x720/MbyFfdI3kknB8B8m.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115347679597543424/pl/ta8dunxhWIQiGnis.m3u8"
+       }
+      ],
+      "width": 960
+     },
+     {
+      "duration_ms": 18043,
+      "height": 1920,
+      "media_key": "13_2115312494520705024",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115312494520705024/img/yeRXDbNNqFl-h_q3.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115312494520705024/pl/ljsZHQZ3-3n9-41o.m3u8?v=cfc"
+       },
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115312494520705024/vid/avc1/320x568/09h8ghZFkgIny8h_.mp4"
+       },
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115312494520705024/vid/avc1/1080x1920/ze9QuKOuIF9u5l06.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115312494520705024/vid/avc1/480x852/gtO_mkUiuT2KZEAQ.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115312494520705024/vid/avc1/720x1280/uzZEM8yYM_mcr1bh.mp4"
+       }
+      ],
+      "width": 1080
+     },
+     {
+      "duration_ms": 8000,
+      "height": 2560,
+      "media_key": "13_2115298892040593408",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115298892040593408/img/gctHazSBOQ2dnGqt.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115298892040593408/vid/avc1/1440x2560/PkOx7jmaSee3cfKm.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115298892040593408/vid/avc1/480x852/xdBPEnZ9S_lALBdE.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115298892040593408/pl/nb9PZUOjpYh-2DO8.m3u8"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115298892040593408/vid/avc1/720x1280/V7k0oCZVR4jZNuia.mp4"
+       },
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115298892040593408/vid/avc1/320x568/6hu31S9KZLIxBp38.mp4"
+       }
+      ],
+      "width": 1440
+     },
+     {
+      "height": 845,
+      "media_key": "3_2115293054068568064",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVsH00ubsAACrtk.jpg",
+      "width": 1862
+     },
+     {
+      "duration_ms": 8041,
+      "height": 1440,
+      "media_key": "13_2115274405253365760",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115274405253365760/img/KKR6120IyfG5qe4P.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115274405253365760/vid/avc1/1280x720/f7nseGFIXHH1xUpn.mp4"
+       },
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115274405253365760/vid/avc1/2560x1440/GRWyMxuQWgyiG7Wo.mp4"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115274405253365760/vid/avc1/640x360/Ks_G_R_WFftJp0XX.mp4"
+       },
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115274405253365760/vid/avc1/480x270/nYtFWJxuKmUULNM0.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115274405253365760/pl/E59GvkYtGaNgeb8J.m3u8"
+       }
+      ],
+      "width": 2560
+     },
+     {
+      "duration_ms": 39343,
+      "height": 1080,
+      "media_key": "13_2115267291533529088",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115267291533529088/img/xCTQux0yfSZtH9cA.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115267291533529088/vid/avc1/2238x1080/Mxd3hRfcPD9HL56O.mp4"
+       },
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115267291533529088/vid/avc1/558x270/8nJwDDhGhxqbkH6i.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115267291533529088/pl/ZGiD13ADkerNH-3D.m3u8?v=cfc"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115267291533529088/vid/avc1/746x360/-VPlCE-2EEJLyn1w.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115267291533529088/vid/avc1/1492x720/l744KQOoq3zh4SRb.mp4"
+       }
+      ],
+      "width": 2238
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115249798827913217",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVrgfCZasAEQe8t.jpg",
+      "width": 941
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115249810290987008",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVrgftGbUAAmo_r.jpg",
+      "width": 941
+     }
+    ],
+    "users": [
+     {
+      "id": "141634533",
+      "name": "AI art gallery",
+      "username": "sandmrk"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115577558091833534",
+    "next_token": "b26v89c19zqg8o3juzlxny4jinucizuzbhkj7cj2odkl9",
+    "oldest_id": "2115249819468050830",
+    "result_count": 25
+   }
+  },
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115332882768310272",
+       "3_2115332883690962944",
+       "3_2115332883707822080",
+       "3_2115331309874860032"
+      ]
+     },
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-28T11:40:00.000Z",
+     "edit_history_tweet_ids": [
+      "2115408234937000145"
+     ],
+     "id": "2115408234937000145",
+     "public_metrics": {
+      "bookmark_count": 38,
+      "impression_count": 4332,
+      "like_count": 115,
+      "quote_count": 2,
+      "reply_count": 22,
+      "retweet_count": 11
+     },
+     "text": "☀晨光+蕾丝细肩带纱裙+发胶圈\n\n晨光居家写真 + 白色纱帘花纹地毯 + 近距离全身构图，坐在编织坐垫上+ 黑棕色短发搭轻薄碎刘海，奶油白蕾丝细肩带薄纱睡裙 + 强烈窗边逆光穿透纱帘，发丝、肩颈与腿部形成柔和金色轮廓光 + 真实皮肤纹理、轻微皮肤绒毛、柔焦浅景深与通透空气感。 https://t.co/wh3L1DDEjW",
+     "url": "https://x.com/nima2qisi2/status/2115408234937000145"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115275687238217728",
+       "3_2115276459619299328",
+       "3_2115276971911614464",
+       "3_2115277125985112064"
+      ]
+     },
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-28T04:00:01.000Z",
+     "edit_history_tweet_ids": [
+      "2115292478966292521"
+     ],
+     "id": "2115292478966292521",
+     "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 1697,
+      "like_count": 29,
+      "quote_count": 1,
+      "reply_count": 17,
+      "retweet_count": 4
+     },
+     "referenced_tweets": [
+      {
+       "id": "2114923784662646842",
+       "type": "quoted"
+      }
+     ],
+     "text": "幽灵奇遇 Tiny Fantasy｜幽灵可爱童话奇遇\n\n完整玩法见引用文章👇\n将上传照片中的主要人物或宠物，改编成一张 3:4 竖版的可爱万圣节童话作品。风格为真实主体摄影 × 微缩手工童话布景，温暖、精巧、有一点古怪。 https://t.co/tltRNsER8i https://t.co/vjfREUDiGt",
+     "url": "https://x.com/nima2qisi2/status/2115292478966292521"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115259003962089472",
+       "3_2115259003957878785",
+       "3_2115259003962028033",
+       "3_2115259003857199106"
+      ]
+     },
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-28T01:47:03.000Z",
+     "edit_history_tweet_ids": [
+      "2115259015680934332"
+     ],
+     "id": "2115259015680934332",
+     "public_metrics": {
+      "bookmark_count": 74,
+      "impression_count": 4927,
+      "like_count": 128,
+      "quote_count": 2,
+      "reply_count": 18,
+      "retweet_count": 12
+     },
+     "referenced_tweets": [
+      {
+       "id": "2114564173069709618",
+       "type": "quoted"
+      }
+     ],
+     "text": "🦋盗梦空间\nVERTICAL WORLD ｜垂直折叠世界\n主体识别/主体 → 工作流 → 玩法get\n\n工作流评论区👇\nhttps://t.co/HJassbpIjs https://t.co/oTgTe47QhW",
+     "url": "https://x.com/nima2qisi2/status/2115259015680934332"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 1199,
+      "media_key": "3_2115332882768310272",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVssDKMbsAAjRrk.jpg",
+      "width": 675
+     },
+     {
+      "height": 1199,
+      "media_key": "3_2115332883690962944",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVssDNoaQAAbCCF.jpg",
+      "width": 677
+     },
+     {
+      "height": 1199,
+      "media_key": "3_2115332883707822080",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVssDNsbgAAQYmr.jpg",
+      "width": 677
+     },
+     {
+      "height": 3223,
+      "media_key": "3_2115331309874860032",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVsqnmtaUAAIQZW.jpg",
+      "width": 2417
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115275687238217728",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVr4B8PasAA46hh.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115276459619299328",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVr4u5lasAA_YSR.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115276971911614464",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVr5MuBbEAARW6F.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115277125985112064",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVr5Vr_aEAALboO.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1200,
+      "media_key": "3_2115259003962089472",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVro22MbYAAYkZh.jpg",
+      "width": 675
+     },
+     {
+      "height": 1200,
+      "media_key": "3_2115259003957878785",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVro22LbIAEm323.jpg",
+      "width": 675
+     },
+     {
+      "height": 1199,
+      "media_key": "3_2115259003962028033",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVro22MacAEypVu.jpg",
+      "width": 675
+     },
+     {
+      "height": 1200,
+      "media_key": "3_2115259003857199106",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVro21za4AIQHJg.jpg",
+      "width": 675
+     }
+    ],
+    "users": [
+     {
+      "id": "2021424181796274176",
+      "name": "Dmiao豆苗啊",
+      "username": "nima2qisi2"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115408234937000145",
+    "next_token": "b26v89c19zqg8o3juzlxny4ub1ie3kwe9l3brnoaycuwt",
+    "oldest_id": "2115259015680934332",
+    "result_count": 3
+   }
+  },
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115410049749426176"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T11:54:25.000Z",
+     "edit_history_tweet_ids": [
+      "2115411862523392202"
+     ],
+     "id": "2115411862523392202",
+     "public_metrics": {
+      "bookmark_count": 16,
+      "impression_count": 3552,
+      "like_count": 14,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 3
+     },
+     "text": "开源第18天 \n所有12个 max+Pro Claude 账号 全健在！\n\n好想给那种x上，死号经验丰富的朋友\n絮叨一句：要不，你看看我的这款思路\n\n很多朋友用我方案爽用max了\n特别来告诉我\n真呀真高兴。 \n\n啰嗦下 kyc技巧，中国人护照轻松过的：\n先手机上用同款方案 网络 \nkyc一来，你掏出护照，选择中国 https://t.co/iYLekA2Fav",
+     "url": "https://x.com/xiaoxiaodong/status/2115411862523392202"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115386361587142656",
+       "3_2115386361524133889",
+       "3_2115386361532522496",
+       "3_2115386361641570304"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T10:26:10.000Z",
+     "edit_history_tweet_ids": [
+      "2115389407650062597",
+      "2115389655826993179"
+     ],
+     "id": "2115389655826993179",
+     "public_metrics": {
+      "bookmark_count": 11,
+      "impression_count": 1881,
+      "like_count": 18,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 2
+     },
+     "text": "我确定我是跟不上Opus5.5的节奏了\n\n尤其如果是打字的话，我完全跟不上，多个项目的各种反馈和跟进。 \n\n打字out\n我选择碎碎念\n\n真碎碎念，我就有感情朗读自己的动机，目的，当前情况，想法，欲念，能给到的资源... \n\n一股脑给Opus5.5\n然后就开始了魔法一样的一次次体验\n\n问：我用什么碎碎念工具 https://t.co/9DFjq3yWH2",
+     "url": "https://x.com/xiaoxiaodong/status/2115389655826993179"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115386361587142656",
+       "3_2115386361524133889",
+       "3_2115386361532522496",
+       "3_2115386361641570304"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T10:25:11.000Z",
+     "edit_history_tweet_ids": [
+      "2115389407650062597",
+      "2115389655826993179"
+     ],
+     "id": "2115389407650062597",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 99,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "我确定我是跟不上Opus5.5的节奏了\n\n尤其如果是打字的话，我完全跟不上，多个项目的各种反馈和跟进。 \n\n打字out\n我选择碎碎念\n\n真碎碎念，我就有感情朗读自己的动机，目的，当前情况，想法，欲念，能给到的资源... \n\n一股脑给Opus5.5\n然后就开始了魔法一样的一次次体验\n\n问：我用什么碎碎念工具 https://t.co/7EvM8wBrvO",
+     "url": "https://x.com/xiaoxiaodong/status/2115389407650062597"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115384151423770624",
+       "3_2115384162496741376",
+       "3_2115384171720003584",
+       "3_2115384182012825600"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T10:08:34.000Z",
+     "edit_history_tweet_ids": [
+      "2115385224158978397"
+     ],
+     "id": "2115385224158978397",
+     "public_metrics": {
+      "bookmark_count": 22,
+      "impression_count": 3793,
+      "like_count": 40,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 3
+     },
+     "text": "Opus5.5 让我找回了当人的快乐\n\n我可以安排长线任务\n然后在阳台花园中，折腾一两个小时\n\n有消息，有需要我配合的，它会用bark消息提醒到我手机。\n\n我六个项目一起跑。\n全部联动GitHub +loop +Opus5.5 自动逐个issue 处理\n\n这种快乐：纯粹、简单、像古代老子般的洒脱... https://t.co/ZGZDYrbm5l",
+     "url": "https://x.com/xiaoxiaodong/status/2115385224158978397"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115383473305493504",
+       "3_2115383477571141633",
+       "3_2115383483925434368",
+       "3_2115383493970800640"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T10:02:21.000Z",
+     "edit_history_tweet_ids": [
+      "2115383660149199321"
+     ],
+     "id": "2115383660149199321",
+     "public_metrics": {
+      "bookmark_count": 80,
+      "impression_count": 10716,
+      "like_count": 113,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 10
+     },
+     "text": "用了Opus5.5之后\n为什么\n我的提示词样张，都好看不少了呢？\n\n答：美术、审美，还是Opus5.5，一点就通。 https://t.co/9sQgr5Lg2O",
+     "url": "https://x.com/xiaoxiaodong/status/2115383660149199321"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115382491385364480",
+       "3_2115382499132207104",
+       "3_2115382508112265216",
+       "3_2115382515741696000"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T10:00:04.000Z",
+     "edit_history_tweet_ids": [
+      "2115383087546949891"
+     ],
+     "id": "2115383087546949891",
+     "public_metrics": {
+      "bookmark_count": 38,
+      "impression_count": 4325,
+      "like_count": 75,
+      "quote_count": 1,
+      "reply_count": 5,
+      "retweet_count": 3
+     },
+     "text": "我真的很快乐\n\n有了Opus5.5我做美学探索\n做提示词， 做各种工作流，都比从前任何模型\n任何类似openclaw , hermes 这种玩意 (已丢化粪池)\n\n轻便、精准、愉快！\n\n这种体验是：它居然这么懂\n潦潦几句话，它的热情和理解程度，真让我觉得，推背感十足。 \n\n这些图片提示词探索，也是有Opus5.5协助的功劳 https://t.co/gg4HcKZoi3",
+     "url": "https://x.com/xiaoxiaodong/status/2115383087546949891"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115243712678895616"
+      ]
+     },
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-28T00:50:23.000Z",
+     "edit_history_tweet_ids": [
+      "2115244754183262500"
+     ],
+     "id": "2115244754183262500",
+     "public_metrics": {
+      "bookmark_count": 12,
+      "impression_count": 2242,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1
+     },
+     "referenced_tweets": [
+      {
+       "id": "2114548772852441472",
+       "type": "quoted"
+      }
+     ],
+     "text": "GPT2 x 早安 x Opus5.5 x 2026-10-28\n\n越来越喜欢让Opus5.5连夜工作了...\n哪怕我睡觉了...\n尤其是它按着chatGPT去做苦力活\n\n现在有很多24小时连续的任务让它做\n它也承载的很好\n\n并无：什么时间点，不能用Claude之说\n\n本次提示词：\n```\nhttps://t.co/RVZqWPpFRo\n``` https://t.co/2PDqUMSgdl https://t.co/A8p7RzIOlA",
+     "url": "https://x.com/xiaoxiaodong/status/2115244754183262500"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 1536,
+      "media_key": "3_2115410049749426176",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtyO3mbIAAQglr.jpg",
+      "width": 1024
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115386361587142656",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtcsCUbkAAAllt.jpg",
+      "width": 941
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115386361524133889",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtcsCFaIAE70iB.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115386361532522496",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtcsCHaIAAdMWv.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115386361641570304",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtcsChaEAAfuQP.jpg",
+      "width": 941
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115384151423770624",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtarY0a4AAMXdm.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115384162496741376",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtasCEbAAADSOH.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115384171720003584",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtaskba0AARBDj.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115384182012825600",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtatKxa0AAtHcT.jpg",
+      "width": 941
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115383473305493504",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtaD6obIAA0fqf.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115383477571141633",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtaEKhbwAEDsOo.jpg",
+      "width": 941
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115383483925434368",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtaEiMakAAJ2L-.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115383493970800640",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtaFHnasAAZfg1.jpg",
+      "width": 1086
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115382491385364480",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtZKwsbAAA14F2.jpg",
+      "width": 941
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115382499132207104",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtZLNjacAAld2z.jpg",
+      "width": 941
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115382508112265216",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtZLvAbQAAEEa8.jpg",
+      "width": 941
+     },
+     {
+      "height": 1672,
+      "media_key": "3_2115382515741696000",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVtZMLbbIAAvThH.jpg",
+      "width": 941
+     },
+     {
+      "height": 1448,
+      "media_key": "3_2115243712678895616",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVra8xuaoAATUre.jpg",
+      "width": 1086
+     }
+    ],
+    "users": [
+     {
+      "id": "1986087438721449984",
+      "name": "小小东",
+      "username": "xiaoxiaodong"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115411862523392202",
+    "next_token": "b26v89c19zqg8o3juzlxny4jb2iq4hnc11qbtcra89z0d",
+    "oldest_id": "2115244754183262500",
+    "result_count": 7
+   }
+  },
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115259970530971648"
+      ]
+     },
+     "author_id": "1903736704764350465",
+     "conversation_id": "2115260087338156520",
+     "created_at": "2026-10-28T01:51:19.000Z",
+     "edit_history_tweet_ids": [
+      "2115260087338156520"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/EliFKlQ9mp",
+        "end": 40,
+        "expanded_url": "https://x.com/jackzhang123vip/status/2115260087338156520/video/1",
+        "media_key": "13_2115259970530971648",
+        "start": 17,
+        "url": "https://t.co/EliFKlQ9mp"
+       }
+      ]
+     },
+     "id": "2115260087338156520",
+     "public_metrics": {
+      "bookmark_count": 73,
+      "impression_count": 15723,
+      "like_count": 126,
+      "quote_count": 1,
+      "reply_count": 36,
+      "retweet_count": 6
+     },
+     "text": "Muse 一键直出，品味直逼真人 https://t.co/EliFKlQ9mp",
+     "url": "https://x.com/jackzhang123vip/status/2115260087338156520"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "duration_ms": 10000,
+      "height": 1248,
+      "media_key": "13_2115259970530971648",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115259970530971648/img/-SqS5uIcWRnWfszY.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115259970530971648/vid/avc1/320x566/Z35dpn3g9icdQNF_.mp4"
+       },
+       {
+        "bit_rate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115259970530971648/vid/avc1/480x850/hQobNQv1mHbaKQJC.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115259970530971648/vid/avc1/704x1248/CbeXA7m3tyE2auvx.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115259970530971648/pl/t7TrjbeDK84Awyze.m3u8"
+       }
+      ],
+      "width": 704
+     }
+    ],
+    "users": [
+     {
+      "id": "1903736704764350465",
+      "name": "梦老湿 Dream AI",
+      "username": "jackzhang123vip"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115260087338156520",
+    "next_token": "b26v89c19zqg8o3juzlxny54ptadydimbezc2fdgj69od",
+    "oldest_id": "2115260087338156520",
+    "result_count": 1
+   }
+  },
+  {
+   "meta": {
+    "result_count": 0
+   }
+  },
+  {
+   "data": [
+    {
+     "author_id": "1869683226178146304",
+     "created_at": "2026-10-28T15:41:25.000Z",
+     "edit_history_tweet_ids": [
+      "2115468991091347834"
+     ],
+     "id": "2115468991091347834",
+     "public_metrics": {
+      "bookmark_count": 51,
+      "impression_count": 5555,
+      "like_count": 44,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 4
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115465888594117063",
+       "type": "quoted"
+      }
+     ],
+     "text": "神佬知识大赏 skill 开源了，大家快用去起号呀\n\ngithub 传送门：https://t.co/6eR6IJYjhu https://t.co/jfi7d8vO3I",
+     "url": "https://x.com/Saccc_c/status/2115468991091347834"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115392156718542848"
+      ]
+     },
+     "author_id": "1869683226178146304",
+     "created_at": "2026-10-28T10:47:12.000Z",
+     "edit_history_tweet_ids": [
+      "2115394950066229329"
+     ],
+     "id": "2115394950066229329",
+     "public_metrics": {
+      "bookmark_count": 332,
+      "impression_count": 20197,
+      "like_count": 294,
+      "quote_count": 5,
+      "reply_count": 38,
+      "retweet_count": 30
+     },
+     "text": "终于找到了让任意Agent都能一键做出Opus 5.5一样视频效果的方法！！一站式搞定视频从生成到剪辑渲染的全流程！！\n\n很多人都想用 Opus 5.5 做动效、做剪辑，却一直受限于 Claude https://t.co/iUcIeQag8u",
+     "url": "https://x.com/Saccc_c/status/2115394950066229329"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115349707069497344"
+      ]
+     },
+     "author_id": "1869683226178146304",
+     "created_at": "2026-10-28T07:49:56.000Z",
+     "edit_history_tweet_ids": [
+      "2115349970178244718",
+      "2115350337179807903"
+     ],
+     "id": "2115350337179807903",
+     "public_metrics": {
+      "bookmark_count": 22,
+      "impression_count": 25084,
+      "like_count": 348,
+      "quote_count": 6,
+      "reply_count": 159,
+      "retweet_count": 6
+     },
+     "text": "很开心能成为 kimi 大使，希望能和 kimi 一起越走越远 ❤️\n\n@Kimi_Moonshot https://t.co/ka9p0nReg0",
+     "url": "https://x.com/Saccc_c/status/2115350337179807903"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115349707069497344"
+      ]
+     },
+     "author_id": "1869683226178146304",
+     "created_at": "2026-10-28T07:48:28.000Z",
+     "edit_history_tweet_ids": [
+      "2115349970178244718",
+      "2115350337179807903"
+     ],
+     "id": "2115349970178244718",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 302,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "很开心能成为 kimi 大使，希望能和 kimi 一起约走越远 ❤️\n\n@Kimi_Moonshot https://t.co/H8NaveiehW",
+     "url": "https://x.com/Saccc_c/status/2115349970178244718"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "duration_ms": 136433,
+      "height": 1080,
+      "media_key": "13_2115392156718542848",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115392156718542848/img/L7LuPVWatWCQxIfa.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115392156718542848/vid/avc1/480x270/xog7OlwSI9ANVhCa.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115392156718542848/pl/MZceZr2zL8XWRDFd.m3u8?v=b61"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115392156718542848/vid/avc1/1280x720/tHCacnIlVIo2eFg9.mp4"
+       },
+       {
+        "bit_rate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115392156718542848/vid/avc1/1920x1080/Jmj_oLlSvjLBqTi7.mp4"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115392156718542848/vid/avc1/640x360/7WpvBd8V5T_oqDaO.mp4"
+       }
+      ],
+      "width": 1920
+     },
+     {
+      "height": 1178,
+      "media_key": "3_2115349707069497344",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVs7WdmaoAAPxSd.jpg",
+      "width": 1768
+     }
+    ],
+    "users": [
+     {
+      "id": "1869683226178146304",
+      "name": "Sac",
+      "username": "Saccc_c"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115468991091347834",
+    "next_token": "b26v89c19zqg8o3juzlxo099o00svaf8ethkaf7lzx3lp",
+    "oldest_id": "2115349970178244718",
+    "result_count": 4
+   }
+  },
+  {
+   "data": [
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:38:38.000Z",
+     "edit_history_tweet_ids": [
+      "2115604184364183672"
+     ],
+     "id": "2115604184364183672",
+     "in_reply_to_user_id": "2022667839212228609",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115447997337158086",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@CyberTotal2026 look at this beauty😘",
+     "url": "https://x.com/nima2qisi2/status/2115604184364183672"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:37:29.000Z",
+     "edit_history_tweet_ids": [
+      "2115603896441999561"
+     ],
+     "id": "2115603896441999561",
+     "in_reply_to_user_id": "2052940182123696128",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115579614294941807",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@afrinxai 🎃万圣节快到了",
+     "url": "https://x.com/nima2qisi2/status/2115603896441999561"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:36:52.000Z",
+     "edit_history_tweet_ids": [
+      "2115603739365253255"
+     ],
+     "id": "2115603739365253255",
+     "in_reply_to_user_id": "2036852789801078784",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115432143534882978",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@KimmyKimOL 女王小心宿醉哦",
+     "url": "https://x.com/nima2qisi2/status/2115603739365253255"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:36:36.000Z",
+     "edit_history_tweet_ids": [
+      "2115603674517143578"
+     ],
+     "id": "2115603674517143578",
+     "in_reply_to_user_id": "2033896416343691268",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115603361361801241",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@sunwei8698 牛瘪汤底？！",
+     "url": "https://x.com/nima2qisi2/status/2115603674517143578"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:36:09.000Z",
+     "edit_history_tweet_ids": [
+      "2115603560507527493"
+     ],
+     "id": "2115603560507527493",
+     "in_reply_to_user_id": "1454322584871325697",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115383083817894233",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@krienknight 没穿",
+     "url": "https://x.com/nima2qisi2/status/2115603560507527493"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:34:46.000Z",
+     "edit_history_tweet_ids": [
+      "2115603211344375823"
+     ],
+     "id": "2115603211344375823",
+     "in_reply_to_user_id": "1784421273793392640",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115600774659199420",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@LiuLoky50572 cool😆",
+     "url": "https://x.com/nima2qisi2/status/2115603211344375823"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:32:17.000Z",
+     "edit_history_tweet_ids": [
+      "2115602588402135532"
+     ],
+     "id": "2115602588402135532",
+     "in_reply_to_user_id": "2091201595128352768",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115495029833920694",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@JokerLiu1119 你爱的太多了",
+     "url": "https://x.com/sandmrk/status/2115602588402135532"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:31:48.000Z",
+     "edit_history_tweet_ids": [
+      "2115602466226254111"
+     ],
+     "id": "2115602466226254111",
+     "in_reply_to_user_id": "1017543612895121410",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115501790020141239",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@peoriarivers @woshiyiziyu 什么什么逼真？",
+     "url": "https://x.com/sandmrk/status/2115602466226254111"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:31:18.000Z",
+     "edit_history_tweet_ids": [
+      "2115602338551656493"
+     ],
+     "id": "2115602338551656493",
+     "in_reply_to_user_id": "2104238221890867200",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115504374432878790",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@KunChuck18 很难吧，两三个月再说吧。",
+     "url": "https://x.com/sandmrk/status/2115602338551656493"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:31:04.000Z",
+     "edit_history_tweet_ids": [
+      "2115602280326250574"
+     ],
+     "id": "2115602280326250574",
+     "in_reply_to_user_id": "1719502434702352384",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115521690012942484",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@ohshie1973 这个厉害了，基本上都还原了呢。这个表情还差一丢丢。",
+     "url": "https://x.com/sandmrk/status/2115602280326250574"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:30:16.000Z",
+     "edit_history_tweet_ids": [
+      "2115602080429953158"
+     ],
+     "id": "2115602080429953158",
+     "in_reply_to_user_id": "1884733260061913088",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115530408435880210",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@antrospike 这语音输入法有点问题，我说是水下的效果是相当的好。",
+     "url": "https://x.com/sandmrk/status/2115602080429953158"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:29:41.000Z",
+     "edit_history_tweet_ids": [
+      "2115601933725839480"
+     ],
+     "id": "2115601933725839480",
+     "in_reply_to_user_id": "1226050760187625473",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115542637050785801",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@FHXY_Stories @Sirilee2026 可能是鳌拜呀。",
+     "url": "https://x.com/sandmrk/status/2115601933725839480"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:29:30.000Z",
+     "edit_history_tweet_ids": [
+      "2115601885835211168"
+     ],
+     "id": "2115601885835211168",
+     "in_reply_to_user_id": "2091201595128352768",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115545540993888296",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@JokerLiu1119 @woshiyiziyu 嘿嘿嘿。开始学老泥鳅，啥都做一做了。",
+     "url": "https://x.com/sandmrk/status/2115601885835211168"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:28:47.000Z",
+     "edit_history_tweet_ids": [
+      "2115601705199182200"
+     ],
+     "id": "2115601705199182200",
+     "in_reply_to_user_id": "1226050760187625473",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115554986944004448",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@FHXY_Stories @woshiyiziyu 这么一说还真是哦。",
+     "url": "https://x.com/sandmrk/status/2115601705199182200"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:28:23.000Z",
+     "edit_history_tweet_ids": [
+      "2115601604993061085"
+     ],
+     "id": "2115601604993061085",
+     "in_reply_to_user_id": "1119091718396080131",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115576713275130129",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@pluviophile987 他这个就是用参考活人视频做的。",
+     "url": "https://x.com/sandmrk/status/2115601604993061085"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:27:44.000Z",
+     "edit_history_tweet_ids": [
+      "2115601442803425295"
+     ],
+     "id": "2115601442803425295",
+     "in_reply_to_user_id": "1869898999274283008",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115599685318779005",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@morganxu45 对啊，多吃年糕身体好，黏黏的，棒棒的。",
+     "url": "https://x.com/sandmrk/status/2115601442803425295"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:26:32.000Z",
+     "edit_history_tweet_ids": [
+      "2115601139257516362"
+     ],
+     "id": "2115601139257516362",
+     "in_reply_to_user_id": "885344424699416577",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115600018409214355",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@jason5819c 对啊，我吃的可好了。",
+     "url": "https://x.com/sandmrk/status/2115601139257516362"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:26:11.000Z",
+     "edit_history_tweet_ids": [
+      "2115601051676234041"
+     ],
+     "id": "2115601051676234041",
+     "in_reply_to_user_id": "1202603841629409280",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115597084175094120",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@chinagt1 秀色可餐，你已经饱了，还吃什么吃？不用吃了。",
+     "url": "https://x.com/sandmrk/status/2115601051676234041"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:25:27.000Z",
+     "edit_history_tweet_ids": [
+      "2115600869140107459"
+     ],
+     "id": "2115600869140107459",
+     "in_reply_to_user_id": "2106993548923150336",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115594319684071453",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Mrmai777777 那就多吃点，午饭都省了。",
+     "url": "https://x.com/sandmrk/status/2115600869140107459"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:25:05.000Z",
+     "edit_history_tweet_ids": [
+      "2115600775430947176"
+     ],
+     "id": "2115600775430947176",
+     "in_reply_to_user_id": "879853935216926720",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115595837611134999",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@pppoeadsl 没问题啊，很简单的呢。",
+     "url": "https://x.com/sandmrk/status/2115600775430947176"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:22:46.000Z",
+     "edit_history_tweet_ids": [
+      "2115600192296845699"
+     ],
+     "id": "2115600192296845699",
+     "in_reply_to_user_id": "2033896416343691268",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115574026882228414",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@sunwei8698 我不能吃太辣鸳鸯锅可以吗",
+     "url": "https://x.com/nima2qisi2/status/2115600192296845699"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:20:04.000Z",
+     "edit_history_tweet_ids": [
+      "2115599513885020206"
+     ],
+     "id": "2115599513885020206",
+     "in_reply_to_user_id": "1925198642987810816",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115468595404956130",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@wenwen11703261 有点小可爱哦😆",
+     "url": "https://x.com/nima2qisi2/status/2115599513885020206"
+    },
+    {
+     "author_id": "2021424181796274176",
+     "created_at": "2026-10-29T00:19:31.000Z",
+     "edit_history_tweet_ids": [
+      "2115599373136691424"
+     ],
+     "id": "2115599373136691424",
+     "in_reply_to_user_id": "1830248605757931520",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115570066318324088",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@CangShengTaGe__ 早啊嘿嘿",
+     "url": "https://x.com/nima2qisi2/status/2115599373136691424"
+    },
+    {
+     "author_id": "1986087438721449984",
+     "created_at": "2026-10-29T00:06:44.000Z",
+     "edit_history_tweet_ids": [
+      "2115596159133823435"
+     ],
+     "id": "2115596159133823435",
+     "in_reply_to_user_id": "2105640403143905280",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 80,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115416427629068479",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@iamtheQwen 我朋友公司专线 2万一个月，账目也走国外",
+     "url": "https://x.com/xiaoxiaodong/status/2115596159133823435"
+    },
+    {
+     "author_id": "141634533",
+     "created_at": "2026-10-29T00:05:39.000Z",
+     "edit_history_tweet_ids": [
+      "2115595884696334783"
+     ],
+     "id": "2115595884696334783",
+     "in_reply_to_user_id": "2109187966317064192",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115577823436083556",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Haosen9527 好专业的点评啊！这么早啊！",
+     "url": "https://x.com/sandmrk/status/2115595884696334783"
+    }
+   ],
+   "includes": {
+    "users": [
+     {
+      "id": "2021424181796274176",
+      "name": "Dmiao豆苗啊",
+      "username": "nima2qisi2"
+     },
+     {
+      "id": "2022667839212228609",
+      "name": "Prompt アトリエ｜AI画像プロンプト",
+      "username": "CyberTotal2026"
+     },
+     {
+      "id": "2052940182123696128",
+      "name": "𝑨𝒇𝒓𝒊𝒏",
+      "username": "afrinxai"
+     },
+     {
+      "id": "2036852789801078784",
+      "name": "职业女王",
+      "username": "KimmyKimOL"
+     },
+     {
+      "id": "2033896416343691268",
+      "name": "Wei Sun",
+      "username": "sunwei8698"
+     },
+     {
+      "id": "1454322584871325697",
+      "name": "cyberkk",
+      "username": "krienknight"
+     },
+     {
+      "id": "1784421273793392640",
+      "name": "Loky Liu",
+      "username": "LiuLoky50572"
+     },
+     {
+      "id": "141634533",
+      "name": "AI art gallery",
+      "username": "sandmrk"
+     },
+     {
+      "id": "2091201595128352768",
+      "name": "老泥鳅",
+      "username": "JokerLiu1119"
+     },
+     {
+      "id": "1017543612895121410",
+      "name": "Eric｜赛博水豚烤显卡",
+      "username": "peoriarivers"
+     },
+     {
+      "id": "2104238221890867200",
+      "name": "Kun Chuck坤哥",
+      "username": "KunChuck18"
+     },
+     {
+      "id": "1719502434702352384",
+      "name": "リド",
+      "username": "ohshie1973"
+     },
+     {
+      "id": "1884733260061913088",
+      "name": "Antrospike",
+      "username": "antrospike"
+     },
+     {
+      "id": "1226050760187625473",
+      "name": "FHXY_Stories",
+      "username": "FHXY_Stories"
+     },
+     {
+      "id": "1119091718396080131",
+      "name": "Pluvio",
+      "username": "pluviophile987"
+     },
+     {
+      "id": "1869898999274283008",
+      "name": "船长AI",
+      "username": "morganxu45"
+     },
+     {
+      "id": "885344424699416577",
+      "name": "Jason || Json",
+      "username": "jason5819c"
+     },
+     {
+      "id": "1202603841629409280",
+      "name": "西域都护府嘟嘟",
+      "username": "chinagt1"
+     },
+     {
+      "id": "2106993548923150336",
+      "name": "Mike",
+      "username": "Mrmai777777"
+     },
+     {
+      "id": "879853935216926720",
+      "name": "云天｜第二人生实验室",
+      "username": "pppoeadsl"
+     },
+     {
+      "id": "1925198642987810816",
+      "name": "wen wen",
+      "username": "wenwen11703261"
+     },
+     {
+      "id": "1830248605757931520",
+      "name": "沧笙踏歌-_",
+      "username": "CangShengTaGe__"
+     },
+     {
+      "id": "1986087438721449984",
+      "name": "小小东",
+      "username": "xiaoxiaodong"
+     },
+     {
+      "id": "2105640403143905280",
+      "name": "我是倩文",
+      "username": "iamtheQwen"
+     },
+     {
+      "id": "2109187966317064192",
+      "name": "Haosen",
+      "username": "Haosen9527"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115604184364183672",
+    "next_token": "b26v89c19zqg8o3juzlxo4k7qq45uq6b22hbkmdtr39ml",
+    "oldest_id": "2115595884696334783",
+    "result_count": 25
+   }
+  }
+ ]
+}
