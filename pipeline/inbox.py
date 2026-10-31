@@ -97,7 +97,8 @@ def normalize(item):
 
 def _is_raw(obj):
     """A raw X API v2 response has data/includes and no normalized tweet_id."""
-    return isinstance(obj, dict) and "tweet_id" not in obj and ("data" in obj or "includes" in obj)
+    # an empty timeline comes back as {"meta": {"result_count": 0}} with no data/includes
+    return isinstance(obj, dict) and "tweet_id" not in obj and ("data" in obj or "includes" in obj or "meta" in obj)
 
 
 def parse(data):
