@@ -1,0 +1,19 @@
+Create one horizontal still image, aspect ratio 16:9, a single continuous scene: a photorealistic extreme close-up portrait of a young Chinese woman in Tang-dynasty palace dress, her face turned to the camera while her eyes glance sideways out of the frame, bright spring backlight, a dreamy soft glow. One subject only, no text, no watermark, no logo.
+
+COMPOSITION AND CAMERA
+Extreme close-up, her face right of center with its center near 62 percent of the width and 47 percent of the height, her face filling about 85 percent of the frame height, the top of her hair bun touching the upper edge and her chin near 85 percent of the height. The left third of the frame is foreground: her own hanging hair ornaments and one large earring, out of focus and close to the lens. The background falls away dark and blurred on the left, bright and blown out on the right. Camera at her eye level, mild telephoto compression, no wide-angle distortion. Do not pull back into a head-and-shoulders shot, do not center her face, do not sharpen the foreground jewelry.
+
+CHARACTER AND FACE
+A young adult woman with an oval face, a soft jaw and a small slightly pointed chin, porcelain fair skin with a luminous satin finish and a faint pink flush on the cheeks. Her eyes are large and brown, with reddish-pink eyeshadow on the lids and along the lower lash line, individually defined lower lashes, and soft straight brows. A silver star-shaped jewel huadian with one tiny red tip sits at the center of her forehead, a fine chain drop hanging from it to between her brows. Iridescent blue-silver crystal decals shaped like a flowering branch sweep from the outer corner of her right eye up onto the cheekbone, with a smaller blue gem cluster at the outer corner of her left eye. Her lips wear a glossy rose-red gradient, fuller and redder at the center, the mouth closed. A few fine flyaway strands cross her forehead, and the loose hair at the right side of her face glows golden where the backlight passes through it. Her expression is one held-back feeling: the face is given to the camera, but both eyes are turned fully toward frame left, pupils at the edge of the iris, head not following them; brows relaxed and unknitted, breath held, lips pressed into the faintest almost-smile — she is looking at someone just out of frame and not saying what she feels.
+
+HAIR AND ORNAMENTS
+Black hair in an elaborate updo with braided sections, dressed with gold filigree hairpins, one set with a red gem at the upper left, long hanging strands of small pearls ending in pale blue teardrop beads, and beside her jaw one large ornate gold earring with a blue center stone, pearl fringe and blue drops. The ornaments on the left hang between the camera and her face, soft and out of focus, framing her without touching her skin.
+
+COSTUME
+Only the barest hint of costume enters the frame at the bottom edge: pale cream fabric of an inner robe and a glimpse of beadwork at her throat. The image is a face portrait; do not invent a full outfit, do not widen the framing to show one.
+
+ENVIRONMENT AND BACKGROUND
+No readable location: behind her on the left, a dark teal-brown blur suggesting a shaded interior or corridor; on the right, open bright air where the daylight floods in. A luminous haze hangs over everything, strongest at the right edge.
+
+LIGHTING AND COLOR GRADING
+Strong backlight from the right rear: loose strands at the right side of her head rim into gold and the highlights bloom and spill. Her face itself is lit by soft frontal fill, even and flattering, skin high-key and glowing with no hard shadow and no dead black anywhere on the face. The left background stays deep and muted so the bright face carries the whole image. Palette: porcelain skin #F6E3D8, deep teal-brown shade #2E2A26, ice blue crystal #9FC8E8, silver #D8DEE6, rose-red lip #D94F4F, warm gold ornament #C9A227, backlight white #FFF6E8.
