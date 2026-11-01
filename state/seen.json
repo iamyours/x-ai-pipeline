@@ -921,6 +921,106 @@
       "status": "skipped_no_prompt",
       "at": "2026-10-31T07:04:52+00:00",
       "reason": "AI视频工作流讨论，未提供实际生成提示词"
+    },
+    "2115317315579613660": {
+      "status": "generated",
+      "at": "2026-11-01T00:42:00+00:00"
+    },
+    "2115312673642705299": {
+      "status": "generated",
+      "at": "2026-11-01T00:42:29+00:00"
+    },
+    "2115268327589433448": {
+      "status": "generated",
+      "at": "2026-11-01T00:42:59+00:00"
+    },
+    "2115249819468050830": {
+      "status": "generated",
+      "at": "2026-11-01T00:43:20+00:00"
+    },
+    "2115408234937000145": {
+      "status": "failed",
+      "at": "2026-11-01T00:43:35+00:00"
+    },
+    "2116552118534598722": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Chit-chat/complaint; no AI work or prompt."
+    },
+    "2116521670341193733": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Likely AI image post but no usable generation prompt."
+    },
+    "2116516404530966850": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Likely AI image post but no prompt text."
+    },
+    "2116504700917039263": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Image work with poetic commentary and prompt discussion, but no complete usable prompt."
+    },
+    "2116493630294909282": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "AI image post, but the prompt is only linked, not included in the text."
+    },
+    "2116491120280478090": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "AI image post discusses changing a prompt phrase, but no usable full generation prompt is provided."
+    },
+    "2116541943404711969": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Discussion of an AI workflow/tool, not an AI image/video work with a generation prompt."
+    },
+    "2116517979970236528": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Post about using Opus5.5 to build a website; not an AI image/video work or prompt."
+    },
+    "2116515710793040082": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Post about Claude Max accounts/KYC; not an AI image/video work or prompt."
+    },
+    "2116494758977962372": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Talk about a poster-prompt collection and GPT-image2.5; no actual prompt or generated work shown."
+    },
+    "2116362303709053105": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Header references an aesthetic prompt series and a VCR link, but body is commentary only; no prompt text."
+    },
+    "2116562057323774006": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Unrelated post about a giffgaff SIM card."
+    },
+    "2116557500506079263": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Complaint about Claude account bans; no artwork or prompt."
+    },
+    "2116494665147130256": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Advertisement for a paid AI-comic prompt pack with a link; no prompt text itself."
+    },
+    "2116492126825718222": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Shows a Muse-generated image ('直出') but gives no prompt; self-reply only says it will be shared tomorrow."
+    },
+    "2116373235034214800": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-01T00:43:35+00:00",
+      "reason": "Post is commentary about a textbook that teaches Sora video generation; no AI artwork by the author and no generation prompt included."
     }
   },
   "processed_inbox": {

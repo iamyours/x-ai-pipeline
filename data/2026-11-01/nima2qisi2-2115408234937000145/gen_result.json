@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"非常抱歉，生成的图片可能违反了关于裸露、色情或情色内容的防护限制。如果你认为此判断有误，请重试或修改提示语。 (request id: 202611010043216422989748268d9d652E5lP93)\",\"type\":\"image_generation_error\",\"param\":\"\",\"code\":\"GPT_IMAGE_UPSTREAM_ERROR\"}}",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}
