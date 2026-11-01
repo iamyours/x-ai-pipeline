@@ -1,0 +1,46 @@
+{
+  "tweet_id": "2115816783043314100",
+  "url": "https://x.com/sandmrk/status/2115816783043314100",
+  "author": "sandmrk",
+  "text": "千年银龙\n挣脱上古封印\n于云海苏醒，\n女侠踏玉台缠斗，\n引雷霆光剑祭刃，\n一剑裂空后银龙化光散尽，\n收剑静立云间。\n\n制作:豆包seeddance2.5\n感谢@liluocheng13老师提供角色提示词 ！ https://t.co/18Cd0w2gc7 https://t.co/4I6PYedOOt",
+  "prompt_text": "",
+  "replies": [],
+  "media": [
+    {
+      "type": "video",
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "content_type": "application/x-mpegURL",
+          "url": "https://video.twimg.com/amplify_video/2115816703057965056/pl/fTjsFc-bx0ZB-pgw.m3u8"
+        },
+        {
+          "bit_rate": 10368000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2115816703057965056/vid/avc1/1920x1080/VwDXJQuWS9Qfcz75.mp4"
+        },
+        {
+          "bit_rate": 256000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2115816703057965056/vid/avc1/480x270/7EQ1l1JRrt4RYxD_.mp4"
+        },
+        {
+          "bit_rate": 832000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2115816703057965056/vid/avc1/640x360/JgKAWi70RqeoagIt.mp4"
+        },
+        {
+          "bit_rate": 2176000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2115816703057965056/vid/avc1/1280x720/E5NHL7nTx8Be1bGP.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2115816703057965056/img/ZgLdpBQ3ttMc_tj5.jpg"
+    }
+  ],
+  "created_at": "2026-10-29T14:43:25.000Z",
+  "source": "inbox",
+  "conversation_id": "2115816783043314100",
+  "author_id": "141634533"
+}

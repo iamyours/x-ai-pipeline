@@ -11,5 +11,16 @@
     "status": "done",
     "note": "/workspace/images/muse-cases/_littlemandarin-2112932227202081217/muse.mp4",
     "updated_at": "2026-10-26T03:11:06+00:00"
+  },
+  {
+    "slug": "sandmrk-2115816783043314100",
+    "ref_image": "data/2026-11-01/sandmrk-2115816783043314100/ref.png",
+    "ref_image_url": "https://raw.githubusercontent.com/iamyours/x-ai-pipeline/main/data/2026-11-01/sandmrk-2115816783043314100/ref.png",
+    "video_prompt": "千年银龙\n挣脱上古封印\n于云海苏醒，\n女侠踏玉台缠斗，\n引雷霆光剑祭刃，\n一剑裂空后银龙化光散尽，\n收剑静立云间。",
+    "source_url": "https://x.com/sandmrk/status/2115816783043314100",
+    "author": "sandmrk",
+    "original_video": "data/2026-11-01/sandmrk-2115816783043314100/orig-video.mp4",
+    "created_at": "2026-11-01T07:27:04+00:00",
+    "status": "pending"
   }
 ]
