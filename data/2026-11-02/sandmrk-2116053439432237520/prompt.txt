@@ -1,0 +1,4 @@
+Format lock: Aspect ratio 16:9 (source 1252x720, 30 fps; generate at 1920x1080, 30 fps) — the output MUST use exactly this 16:9 horizontal ratio; no cropping, no reframing, no letterbox change.
+Total runtime: about 15 seconds in 2 clips.
+
+One hand-drawn doodle

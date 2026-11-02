@@ -1,0 +1,4 @@
+Format lock: Aspect ratio 9:16 (source 720x1280, 30 fps; generate at 1080x1920, 30 fps) — the output MUST use exactly this 9:16 vertical ratio; no cropping, no reframing, no letterbox change.
+Total runtime: about 55 seconds in 6 clips.
+
+A glossy AI palace
