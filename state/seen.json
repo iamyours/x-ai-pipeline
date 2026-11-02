@@ -1046,6 +1046,204 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-01T07:27:21+00:00",
       "reason": "This is a poetic scene description and caption for the image, and it includes an author's note about swapping a word. There is no explicit, usable generation prompt."
+    },
+    "2115781516122816527": {
+      "status": "generated",
+      "at": "2026-11-02T00:44:12+00:00"
+    },
+    "2115778927293792704": {
+      "status": "generated",
+      "at": "2026-11-02T00:44:40+00:00"
+    },
+    "2115769685870522722": {
+      "status": "generated",
+      "at": "2026-11-02T00:44:57+00:00"
+    },
+    "2115707898592694428": {
+      "status": "generated",
+      "at": "2026-11-02T00:45:28+00:00"
+    },
+    "2115695333196083554": {
+      "status": "generated",
+      "at": "2026-11-02T00:45:49+00:00"
+    },
+    "2116104185481674891": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Only format/runtime metadata and a t.co link; no usable prompt text."
+    },
+    "2117028490155614622": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00"
+    },
+    "2116977072346452456": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00"
+    },
+    "2116949138533212460": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Poetic caption for an AI image; no generation prompt."
+    },
+    "2116927709947584841": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI dance video caption; no prompt."
+    },
+    "2116921204082913280": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Poetic fairy image caption; no generation prompt."
+    },
+    "2116898867073491119": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Complaint/commentary, not an AI image/video work with prompt."
+    },
+    "2116893144591835439": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Recommendation/review of an AI short drama; no generation prompt."
+    },
+    "2116874467737805270": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Shares creative media but no prompt text."
+    },
+    "2116868569476829263": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI image caption/poem; no generation prompt."
+    },
+    "2116851140424069566": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Poetic fantasy-art caption; no generation prompt."
+    },
+    "2116843234320138666": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI-image caption; no generation prompt."
+    },
+    "2116827615025832223": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Conversational comment, not an AI work."
+    },
+    "2116823021201859047": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Descriptive caption for AI artwork; no generation prompt."
+    },
+    "2116816107244069127": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI art post made with Mage; no prompt included."
+    },
+    "2116811158275625373": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Poetic caption for AI artwork; no generation prompt."
+    },
+    "2116792728117989467": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "References Muse AI but contains no generation prompt."
+    },
+    "2116774177638346973": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI dance video; no generation prompt included."
+    },
+    "2116913341994348767": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Prompt-sharing post, but actual prompt text is not present in the candidates (only a link)."
+    },
+    "2116851763001364865": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Discussion about Claude accounts, not an AI image/video work."
+    },
+    "2116899800134377890": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Podcast/AI blogging discussion, not an AI image/video work."
+    },
+    "2116865084282822872": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI image post, but the prompt is said to be in comments and is not included."
+    },
+    "2116850739771220317": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Claude-generated interactive webpage/code demo, not an AI image/video prompt post."
+    },
+    "2116769949800706412": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Appreciation comment about an image; no generation prompt."
+    },
+    "2116741155706794147": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI city-poster work, but only title/workflow mention; no usable prompt text."
+    },
+    "2116761189896134792": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Only a share/thanks comment; no AI work details or prompt."
+    },
+    "2116745546450817087": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Commentary on a video work; no generation prompt included."
+    },
+    "2116736904817418373": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI image asking for feedback, but no prompt text."
+    },
+    "2116728450308620792": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Tool/workflow article, not an AI image/video work with prompt."
+    },
+    "2116706800510890328": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Mentions using Muse to replicate a video, but no usable prompt."
+    },
+    "2116701384011928051": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI image post with caption, but no generation prompt."
+    },
+    "2116698245028368601": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI artwork post with themed images, but no generation prompt text included."
+    },
+    "2116692833247826334": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Likely AI image post, but only casual text and a link; no prompt included."
+    },
+    "2116729052421865727": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "Announces an AI workflow template/repository, not an AI image or video work with a prompt."
+    },
+    "2116723733876601208": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI image comparison post, but prompt is said to be in the comments and is not present."
+    },
+    "2116728439483032004": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-02T00:45:49+00:00",
+      "reason": "AI poster work mentioned, but prompt is only referenced via links and not included in the text."
     }
   },
   "processed_inbox": {
