@@ -1264,6 +1264,151 @@
     "2116053439432237520": {
       "status": "generated",
       "at": "2026-11-02T07:38:41+00:00"
+    },
+    "2116038076002861245": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:39:14+00:00",
+      "reason": "Only a truncated 'Muse Video Prompt' format/tempo fragment; no usable scene prompt."
+    },
+    "2116024468053356887": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:39:14+00:00",
+      "reason": "Only a truncated format/runtime fragment; no usable generation prompt."
+    },
+    "2116133010726912433": {
+      "status": "generated",
+      "at": "2026-11-03T00:39:31+00:00"
+    },
+    "2115996145843650858": {
+      "status": "failed",
+      "at": "2026-11-03T00:39:44+00:00"
+    },
+    "2115990684754944342": {
+      "status": "generated",
+      "at": "2026-11-03T00:40:11+00:00"
+    },
+    "2116493818677878793": {
+      "status": "generated",
+      "at": "2026-11-03T00:40:43+00:00"
+    },
+    "2116513014681887193": {
+      "status": "generated",
+      "at": "2026-11-03T00:41:00+00:00"
+    },
+    "2116859571301941453": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "视频提示词被 t.co 链接截断，不完整且不可用。"
+    },
+    "2116800255849288069": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "视频提示词被 t.co 链接截断，不完整且不可用。"
+    },
+    "2116780088972726508": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "仅为预告和诗句，作者称提示词稍后提供。"
+    },
+    "2117385289664717067": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "个人健身/舞蹈动态，不是 AI 作品，也没有提示词。"
+    },
+    "2117286396050436342": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Personal chit-chat about dancing; no AI work stated and no generation prompt."
+    },
+    "2117279326798569878": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Compliment/comment on someone else's work; no prompt."
+    },
+    "2117271235390509196": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Narrative caption for an AI video with mentions and links, but no generation prompt text."
+    },
+    "2117259456463646932": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Talk about network/node issues and interactions; no AI work or prompt."
+    },
+    "2117241227351294321": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Story caption for an AI video with author credit and hashtag; no prompt text."
+    },
+    "2117148666993791406": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Discussion of a Grok subscription purchase; not an AI image/video work with prompt."
+    },
+    "2117088328877244722": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Announcement/theme call for co-creation with workflow link, no generation prompt or specific AI work."
+    },
+    "2117293668097036499": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Text commentary about an AI workflow; no image/video work or prompt included."
+    },
+    "2117292915831836921": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Text commentary about AI skills/workflow; no prompt included."
+    },
+    "2117292166209049027": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "References a double-exposure AI image and says prompt, but the actual prompt is not in the candidate text."
+    },
+    "2117285857472512099": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "AI portrait/poster post, but prompt is said to be in image ALT text, not included in the candidate."
+    },
+    "2117201798486499593": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Discussion of Claude commands; no AI image/video work or prompt."
+    },
+    "2117200113659686973": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "AI poster/image post mentioned with aesthetics prompt, but no actual prompt text appears in the candidate."
+    },
+    "2117099352472891540": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "Text about server/Claude accounts and costs; no AI visual work or prompt."
+    },
+    "2117085414460891218": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "帖子展示了一组使用 GPT-image 生成的图片，并称其包含提示词作图过程，但候选文本中只包含标题、闲聊和链接，没有可以提取的实际提示词。"
+    },
+    "2117144424828243984": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "帖子是在宣传一个用于 AI 漫剧制作流程的 Skill 和工具，不是图像或视频作品，也没有可用的生成提示词。"
+    },
+    "2117110242064626008": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "只有一句评价和链接，没有说明是否由 AI 创作，也没有提示词。"
+    },
+    "2117088936107667593": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "帖子讨论用 Muse 生成视频，但没有提供具体的生成提示词。"
+    },
+    "2117220815418920990": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-03T00:41:00+00:00",
+      "reason": "帖子是在分享一集关于 AI 自媒体方法的播客，不是图像或视频作品，也没有提示词。"
     }
   },
   "processed_inbox": {
@@ -1273,6 +1418,7 @@
     "2026-10-27.json": "a89abd2d5a139369201fe3ea38f2d5d9c05fc456f7af5ebc7c43f0759403d6bd",
     "2026-10-28.json": "903eaf3347e3a9229772b97af30e9eeadecfdaf8bd1ea3b48c27920e847bbda6",
     "2026-10-29.json": "22bf56e74dd1a718c787d5611507ec6f5bacdeb27e75126c8339d7b3a64969ab",
-    "2026-10-30.json": "a662290d4430e3948d71e91d6526b3a1496566729b15c713b2158101da1147ae"
+    "2026-10-30.json": "a662290d4430e3948d71e91d6526b3a1496566729b15c713b2158101da1147ae",
+    "2026-10-31.json": "25a370f7a911b77f3fac20123539dd5b30d7961e89c52d64dd5606977d1f86fe"
   }
 }

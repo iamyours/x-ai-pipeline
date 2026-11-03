@@ -1,0 +1,60 @@
+Muse Video Prompt
+Format lock: Aspect ratio 16:9 (source 3840x2160, 30 fps; generate at 1920x1080, 30 fps) — the output MUST use exactly this 16:9 landscape ratio; no cropping, no reframing, no letterbox change.
+Total runtime: about 58 seconds in 6 clips.
+
+A giant-object healing fantasy in photorealistic CG, shot like a summer daydream: a young woman in pale hanfu drifts through a world where leaves, peaches, grapes and lemons are the size of hills, and she is small among them. Everything moves at the speed of a nap. It is quietly a product film, but the wonder does the selling — the little colored bottles appear only near the end, as if the garden had grown them too.
+Identity — THE GARDENER: A young woman with a clear, fresh, unadorned beauty; long black hair half-bound with a small flower pin and a pale-blue ribbon; a pale green-to-white gradient wide-sleeve hanfu that floats when she moves. Her gestures are few and small — touching, holding up, gazing, tasting — and her expression is one long held breath of contentment.
+World & scenes: (A) a lotus pond under giant lotus leaves, a hammock of white gauze strung between the leaves over the water; (B) a lake of giant peaches, mist on the water, a small wooden boat; (C) a vineyard of giant grape clusters hanging like chandeliers; (D) a grove of giant lemons, several halved, glowing against the sun; (E) a turquoise stream valley under giant leaves, glass orbs resting on the water; (F) a carved stone table under the leaves bearing small colorful drink bottles — pink, purple, yellow — arranged with fresh fruit and ice.
+Scale law (never broken): she stands between one-third and one-fifth the height of the giant fruit around her; every touch has a small physical answer — a fingertip sinks a fraction into peach skin, a grape cluster sways almost imperceptibly, a leaf dips under her palm.
+Music and sound: a soft healing instrumental — piano, light strings, air; water, leaves, and distant summer insects underneath; no voice, no dialogue.
+Camera: slow floating moves throughout — gentle rises, drifts and arcs; hard cuts between gardens; nothing ever hurries.
+
+CLIP 1 of 6 — source 0:00-0:09.7. Scene A: the lotus hammock.
+Sound (this clip): water and leaves; the score at its softest.
+THE RHYTHM & FORCE (this clip): sleep, then the smallest possible waking — a leaf held, eyes opening. If she sits up quickly, it is wrong.
+EMOTION ARC (this clip): she belongs to the afternoon completely; waking is a favor she does it slowly.
+[0.0-4.0s] Shot 1 — framed through leaves into close-up, slow push: the white-gauze hammock hangs between giant lotus leaves over the pond; inside it she sleeps on the gauze, face in close-up, utterly peaceful; her raised hand holds one tiny mint leaf between two fingers, the only normal-sized green in the frame. Avoid: her waking in this shot; the hammock swinging wide; other people.
+[4.0-9.7s] Shot 2 — wide, slow rise and drift: the hammock-boat drifts among the giant leaves; she stirs, sits up slowly among the white fabric, looking around at the green immensity with sleepy wonder, one hand trailing near the water. Avoid: standing; rowing hard; the leaves shrinking to normal size.
+Whole-clip Avoid: no on-screen text or calligraphy overlays, no watermark, no product bottles yet, no modern objects.
+
+CLIP 2 of 6 — source 0:09.7-0:19.4. Scene B: the peach lake.
+Sound (this clip): water against the boat; a slightly warmer string line.
+THE RHYTHM & FORCE (this clip): drifting between soft mountains — the boat's pace is the lake's pace, and the touch on the peach must dent it, barely.
+EMOTION ARC (this clip): quiet awe; she reaches for the fruit the way you reach for a cheek.
+[9.7-14.5s] Shot 3 — wide, slow lateral drift: the small boat carries her across the misty lake between giant peaches, their pink skins catching the sun, reflections doubling them in the water. Avoid: speed; waves; peaches at normal size.
+
+[14.5-19.4s] Shot 4 — medium shot, gentle push-in: she leans from the boat and lays her palm against a giant peach — the skin gives a fraction under her fingers, downy fuzz in macro detail at the contact point — and she gazes up at its curve like at a hillside. Avoid: picking or biting the peach; her palm sinking in deeply; a smile for the camera.
+Whole-clip Avoid: no on-screen text, no watermark, no other boats, no product bottles.
+
+CLIP 3 of 6 — source 0:19.4-0:29.1. Scene C into D: grapes, then lemons.
+Sound (this clip): leaves and a faint crystal brightness as the light changes from green to gold.
+THE RHYTHM & FORCE (this clip): walking under hanging fruit — every cluster sways a breath after she passes, never before.
+EMOTION ARC (this clip): she is a guest in a cathedral of fruit, looking up more than forward.
+[19.4-25.9s] Shot 5 — wide to close profile, slow arc: beneath giant grape clusters hanging like chandeliers, she walks the green shade, lifts her face to them, and touches one grape with a fingertip; the whole cluster sways almost imperceptibly; the shot ends on her profile beside a single grape nearly the size of her head, light coming through its skin. Avoid: eating grapes; clusters bouncing; harsh shadows on her face.
+[25.9-29.1s] Shot 6 — wide, slow rise, scene D begins. Hard cut: the lemon grove — giant lemons and halved lemons glowing backlit like lanterns; she stands small among them, face turned up into the golden light. Avoid: her touching a lemon yet; the light going white and blown.
+Whole-clip Avoid: no on-screen text, no watermark, no people among the vines, no product bottles.
+
+CLIP 4 of 6 — source 0:29.1-0:38.8. Scene D into E: lemons, then the leaf stream.
+Sound (this clip): the score breathes out; stream water comes forward.
+THE RHYTHM & FORCE (this clip): gold gives way to green; the film's pace drops another notch as her hands learn the size of a leaf.
+EMOTION ARC (this clip): from wonder to simple tactile pleasure — the garden is becoming hers.
+[29.1-34.5s] Shot 7 — medium wide, slow drift: she moves between the giant lemons, one sleeve brushing a cut surface that weeps a bead of juice; she raises a hand toward a halved lemon's glowing flesh without quite touching. Avoid: squeezing juice; a comedic reaction; normal-sized lemons anywhere.
+[34.5-38.8s] Shot 8 — hands close-up into wide, scene E. Hard cut: her two hands press gently on a giant leaf by the turquoise stream, the leaf dipping under her palms, veins like roads; glass orbs rest on the water; the camera widens to her standing at the stream's edge, looking down the green valley. Avoid: tearing the leaf; splashing; her face in the close-up.
+Whole-clip Avoid: no on-screen text, no watermark, no animals, no product bottles yet.
+
+CLIP 5 of 6 — source 0:38.8-0:48.5. Scene F: the stone table.
+Sound (this clip): leaf shade quiet; small glass sounds as bottles are touched.
+
+THE RHYTHM & FORCE (this clip): discovery at a table set by nobody — the bottles are small and ordinary and therefore magical: the garden's only human-sized things besides her.
+EMOTION ARC (this clip): curiosity, then choosing — she takes the pink one the way you take the first peach.
+[38.8-44.0s] Shot 9 — wide to medium, slow push: under the giant leaves, the carved stone table holds its arrangement — little colored bottles in pink, purple and yellow among grapes, peach halves, lemon and ice, light dappling through the leaves onto all of it; she comes into frame and stops before the table. Avoid: her grabbing immediately; labels with readable words on the bottles; a shop or market look.
+[44.0-48.5s] Shot 10 — close series, unhurried: she picks up the pink bottle in one hand and turns it slowly, reading it with her eyes, the garden huge and green behind her shoulder. Avoid: opening it in this clip; smiling at the camera; other hands entering.
+Whole-clip Avoid: no readable brand text anywhere, no watermark, no price tags, no other people.
+
+CLIP 6 of 6 — source 0:48.5-0:58.3. Scene F into A: the taste, and the garden keeps the bottles.
+Sound (this clip): the cap, ice, then the score resolving into its warmest phrase; a single contented breath.
+THE RHYTHM & FORCE (this clip): the whole journey narrows to one small taste on her tongue — then opens back out to the garden, which now includes the bottles as if they had always grown there.
+EMOTION ARC (this clip): the pleasure is private: eyes closing, the garden blurring, nothing performed for anyone.
+[48.5-54.0s] Shot 11 — overhead into close-up: from above, her hands open the pink bottle over the table's ice and fruit, a mint candy taken out; the camera comes down to her face as she places it on her tongue — her eyes close slowly, and the satisfaction crosses her face like shade moving. Avoid: chewing visibly; an exaggerated reaction; looking at the lens.
+[54.0-58.3s] Shot 12 — wide, slow retreat, scenes A/F: she reclines in the leaf hammock again, swaying gently, eyes closed; the camera drifts back and settles on the final arrangement — the three little bottles standing on a giant leaf among grape cluster, peach and lemon halves, summer light over everything. THE VIDEO ENDS on this still-life. Avoid: any text or logo appearing; her waving goodbye; a fade to black before the arrangement registers.
+Whole-clip Avoid: no readable brand text or logos anywhere in any shot, no on-screen calligraphy, no watermark, no other people.
