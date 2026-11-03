@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"Lo lamentamos mucho, pero es posible que la solicitud infrinja nuestras políticas de contenido. Si crees que esto es un error, vuelve a intentarlo o edita tu solicitud. (request id: 202611030750051160611868268d9d6rP6KfEGQ)\",\"type\":\"invalid_request_error\",\"param\":\"\",\"code\":\"upstr",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}
