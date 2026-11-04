@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"Purtroppo, l'immagine creata potrebbe violare le nostre misure di protezione relative a nudità, sessualità o contenuti erotici. Se ritieni che si tratti di un errore, riprova o modifica il prompt. (request id: 202611040045252366837348268d9d67Jg2w3Nf)\",\"type\":\"invalid_request_err",
+  "usage": null,
+  "size": "1024x1024",
+  "kind": "image"
+}

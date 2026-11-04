@@ -1434,6 +1434,156 @@
     "2117243590661562547": {
       "status": "failed",
       "at": "2026-11-03T07:50:33+00:00"
+    },
+    "2117217658764746800": {
+      "status": "failed",
+      "at": "2026-11-04T00:45:51+00:00"
+    },
+    "2117233748353917246": {
+      "status": "generated",
+      "at": "2026-11-04T00:46:17+00:00"
+    },
+    "2117108082333618590": {
+      "status": "generated",
+      "at": "2026-11-04T00:46:45+00:00"
+    },
+    "2117750835417682179": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Morning exercise media post; no generation prompt."
+    },
+    "2117699834685632652": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Poetic caption for an AI historical image; no generation prompt."
+    },
+    "2117664854194753623": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Poetic caption for an AI lily portrait; no generation prompt."
+    },
+    "2117651810194432126": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Personal caption with media link; no generation prompt."
+    },
+    "2117643901683257356": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Dance/sleep media post; no generation prompt."
+    },
+    "2117626601844429192": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Poetic caption describing an AI image; no explicit generation prompt."
+    },
+    "2117621359685849296": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:46:45+00:00",
+      "reason": "Relay post listing myth themes; no generation prompt."
+    },
+    "2117610692622868799": {
+      "status": "generated",
+      "at": "2026-11-04T00:47:12+00:00"
+    },
+    "2117610623328747832": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:12+00:00",
+      "reason": "Poetic caption describing an AI image; no generation prompt."
+    },
+    "2117559477260238852": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:12+00:00",
+      "reason": "Casual caption about a new outfit and movement; no generation prompt."
+    },
+    "2117580051122135314": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:12+00:00",
+      "reason": "AI video post states the video prompt is in the comments, not in the candidate text."
+    },
+    "2117541963839005170": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:12+00:00",
+      "reason": "Challenge-style caption; no generation prompt included."
+    },
+    "2117457586505314727": {
+      "status": "generated",
+      "at": "2026-11-04T00:47:43+00:00"
+    },
+    "2117645030949318822": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "AI poster-style image discussion, but no usable generation prompt is included; only references a prompt library/style title."
+    },
+    "2117629999176139048": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Subscription/account discussion, not an AI image/video work."
+    },
+    "2117586971816325491": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Discussion about prompt library and website, not an image/video work with a prompt."
+    },
+    "2117552555681300501": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Commentary about Claude accounts and bans, not an AI artwork."
+    },
+    "2117541178946286006": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Claude account status update, not an AI image/video work."
+    },
+    "2117540885034349000": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Claude account status update, not an AI image/video work."
+    },
+    "2117537219313328254": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "Discussion about using Claude for prompt development, not an AI artwork with a prompt."
+    },
+    "2117430278771859591": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "AI solar-term poster work context, but the post only gives a style/title line and points to an external full prompt; no usable prompt is included."
+    },
+    "2117776433431097635": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "个人情感内容，无AI作品或提示词。"
+    },
+    "2117626976211279997": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "声称用一句话复刻视频，但候选文本未包含该提示词。"
+    },
+    "2117603726013997180": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "AI漫剧课程推广，未提供具体AI作品提示词。"
+    },
+    "2117572906167513472": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "提到提示词在评论区，但候选文本未包含提示词。"
+    },
+    "2117481074091794673": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "AI漫剧教学推广，无具体提示词。"
+    },
+    "2117457202206461974": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "提到Muse一键生成视频，但未包含实际提示词。"
+    },
+    "2117620059392942489": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-04T00:47:43+00:00",
+      "reason": "B站视频聚合网站介绍，非AI图像/视频作品提示词。"
     }
   },
   "processed_inbox": {
@@ -1446,6 +1596,8 @@
     "2026-10-30.json": "a662290d4430e3948d71e91d6526b3a1496566729b15c713b2158101da1147ae",
     "2026-10-31.json": "25a370f7a911b77f3fac20123539dd5b30d7961e89c52d64dd5606977d1f86fe",
     "2026-11-01.json": "5bd99cce836482c4cbaa0125e4144618c43a425ee6a024e6b216c45242e851fe",
-    "2026-11-02.json": "2dada3df771cf86750481475e9ceacab63c1f247fb2eccc55fdfe5ed240f641b"
+    "2026-11-02.json": "2dada3df771cf86750481475e9ceacab63c1f247fb2eccc55fdfe5ed240f641b",
+    "2026-11-03.json": "43ffba1df3b94c76bca5982788a1c61a46a2a1d33e500baea76ab9715bfbac35",
+    "2026-11-04.json": "f8d13ea5d0318b0d326138bd08e0a9010842a4f69e9738f8b041b2b835b842b4"
   }
 }
