@@ -1,0 +1,26 @@
+{
+  "tweet_id": "2117973478234317094",
+  "url": "https://x.com/xiaoxiaodong/status/2117973478234317094",
+  "author": "xiaoxiaodong",
+  "text": "雾色下，这个发光的海报\n让我情绪容易被带入...\n\n简单的一组提示词：\n\n```\nA vertical concept poster whose first blow is one enormous white word spanning the top of a mist-filled landscape, while the person standing in that landscape has already turned into a patch of glowing white: https://t.co/zs0TPYKauX https://t.co/PSCEegzWdu",
+  "prompt_text": "",
+  "replies": [],
+  "media": [
+    {
+      "type": "photo",
+      "width": 1024,
+      "height": 1536,
+      "url": "https://pbs.twimg.com/media/HWSNh5saEAAkxrl.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 1024,
+      "height": 1536,
+      "url": "https://pbs.twimg.com/media/HWSNh5nbsAALzdY.jpg"
+    }
+  ],
+  "created_at": "2026-11-04T13:33:21.000Z",
+  "source": "inbox",
+  "conversation_id": "2117973478234317094",
+  "author_id": "1986087438721449984"
+}
