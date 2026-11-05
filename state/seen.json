@@ -1584,6 +1584,141 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-04T00:47:43+00:00",
       "reason": "B站视频聚合网站介绍，非AI图像/视频作品提示词。"
+    },
+    "2118126935779987717": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:39:59+00:00",
+      "reason": "Dancing caption; likely AI video but no generation prompt."
+    },
+    "2118120057746473470": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:39:59+00:00",
+      "reason": "Chit-chat caption; no generation prompt."
+    },
+    "2118009805508120926": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:39:59+00:00",
+      "reason": "Dance caption; no generation prompt."
+    },
+    "2118004572560224623": {
+      "status": "generated",
+      "at": "2026-11-05T00:40:20+00:00"
+    },
+    "2117997480004690033": {
+      "status": "generated",
+      "at": "2026-11-05T00:40:44+00:00"
+    },
+    "2117997113128919107": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:40:44+00:00",
+      "reason": "Reaction/question about an image; no generation prompt."
+    },
+    "2117978874399334423": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:40:44+00:00",
+      "reason": "Mentions Muse-generated video but does not include the prompt text."
+    },
+    "2117974971003904235": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:40:44+00:00",
+      "reason": "Casual comment about an image; no generation prompt."
+    },
+    "2117969281673760918": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:40:44+00:00",
+      "reason": "Reflective text about creators; no generation prompt."
+    },
+    "2117968204823982569": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:40:44+00:00",
+      "reason": "Thanks/chit-chat; no prompt."
+    },
+    "2117955016619413724": {
+      "status": "generated",
+      "at": "2026-11-05T00:41:05+00:00"
+    },
+    "2117912044460802122": {
+      "status": "generated",
+      "at": "2026-11-05T00:41:28+00:00"
+    },
+    "2117786379543589059": {
+      "status": "queued_video",
+      "at": "2026-11-05T00:42:01+00:00"
+    },
+    "2117974572171739265": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Prompt appears truncated at a t.co link; no usable full prompt."
+    },
+    "2117972457407779231": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Mentions prompts but the actual prompt is not in the text; only a t.co link."
+    },
+    "2117971236181664198": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "AI image workflow discussion; no actual generation prompt text is included in the candidate."
+    },
+    "2117970037504139732": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Post about an image prompt set, but the candidate only contains a label/code fence and links, not the prompt itself."
+    },
+    "2117968846548345184": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Style-transfer AI image discussion; it says the prompt will be open-sourced later and includes no prompt text."
+    },
+    "2117917357498892504": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Account-health/network setup post, not an AI image or video work."
+    },
+    "2117860249306816717": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Illustration-style AI image post; no generation prompt is provided."
+    },
+    "2117855207958958379": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Says it used GPT-image2.5 to make a prompt, but the actual prompt text is absent; only a label/code fence and link appear."
+    },
+    "2117947141469733157": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Promotional post about Seedance2.5, not an AI artwork or prompt."
+    },
+    "2117920288067485774": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Showcases student AI comic-drama works; no generation prompt is included."
+    },
+    "2117894122120130897": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Promotional text about a transformation video article; no AI work or generation prompt shown."
+    },
+    "2117885630772633645": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Mentions generating a version with Muse but provides only links, no prompt text."
+    },
+    "2117841003327770680": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Discusses an AI-generated image, but only a subject label and link; no prompt."
+    },
+    "2117833644454855007": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Personal commentary unrelated to AI art; no prompt."
+    },
+    "2117795674423185590": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-05T00:42:01+00:00",
+      "reason": "Mentions a one-sentence AI video made with Muse but does not include the prompt."
     }
   },
   "processed_inbox": {

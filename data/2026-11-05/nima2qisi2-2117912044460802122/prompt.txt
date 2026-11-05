@@ -1,0 +1,203 @@
+一张高级实验性平面设计海报，融合：
+
+Swiss Typography
++
+Experimental Graphic Design
++
+Oversized Editorial Typography
++
+Dynamic Subject Illustration
++
+Motion Blur
++
+Particle Texture.
+
+画面比例：【3:4 / 2:3 / 9:16】。
+
+【核心构图】
+
+纯黑色背景。
+
+画面后方使用超大型、极粗、极窄的无衬线英文字体，
+排版文字为：
+
+【主标题，例如：
+FLY / FREE / MOVE / DREAM / NIGHT / VOID】
+
+文字采用纯白色，
+字号巨大，几乎超出画面边界，
+部分字母被裁切，
+形成强烈的纵向建筑感与视觉压迫感。
+
+文字不是普通标题，
+而是作为画面的“空间结构”。
+
+文字可分成上下两层或错位排列，
+部分字符被主体遮挡，
+产生：
+
+Typography
+→
+Subject
+→
+Typography
+
+的前后穿插关系。
+
+【主体】
+
+画面中央加入：
+
+【鸟 / 蝴蝶 / 鲸鱼 / 飞机 / 人物 / 花朵 / 产品 / 抽象生物】
+
+主体采用具有强烈运动感的姿态，
+
+例如：
+
+飞翔、
+冲刺、
+跃起、
+旋转、
+展开翅膀、
+横向穿越画面。
+
+主体不能端正居中静止，
+
+而是以：
+
+diagonal composition,
+dynamic movement,
+breaking the frame
+
+形成强烈视觉张力。
+
+主体局部覆盖巨大文字，
+同时部分文字仍从主体后方露出。
+
+【主体视觉风格】
+
+主体主体颜色：
+
+深黑色 / 黑蓝色，
+
+边缘加入高饱和：
+
+【电光蓝 / 荧光红 / 酸性绿 / 紫色 / 橙色】
+
+形成强烈轮廓光。
+
+主体内部不是普通写实纹理，
+
+而是加入：
+
+star particles,
+cosmic dust,
+grain particles,
+tiny glowing dots,
+ink texture,
+speckled texture.
+
+形成类似：
+
+“宇宙 / 星尘 / 夜空”
+
+被封存在主体内部的视觉效果。
+
+【动态效果】
+
+主体运动方向增加明显：
+
+directional motion blur,
+light trails,
+brush streaks,
+speed lines,
+particle trails.
+
+翅膀、尾部、边缘允许产生轻微多重曝光感，
+
+形成：
+
+motion echo,
+ghosting,
+afterimage.
+
+但主体核心轮廓仍然清晰。
+
+【光线】
+
+极高反差视觉：
+
+deep black
++
+pure white
++
+single neon accent color.
+
+主体边缘出现明显霓虹轮廓光，
+
+局部产生：
+
+glow,
+light scattering,
+soft bloom,
+chromatic light diffusion.
+
+不要复杂环境光。
+
+【平面设计质感】
+
+加入轻微：
+
+halftone,
+screen print texture,
+ink bleed,
+rough print edge,
+film grain,
+paper grain,
+spray texture.
+
+巨大白色字体边缘可以存在轻微模糊、颗粒和喷墨扩散，
+
+避免完全数字化、过于干净。
+
+【视觉重点】
+
+主体必须与字体产生明显遮挡关系。
+
+部分翅膀 / 身体 / 产品 / 人物
+跨越多个字母，
+
+形成“主体从文字空间中穿出来”的效果。
+
+整体视觉：
+
+minimal
++
+bold
++
+graphic
++
+dynamic
++
+futuristic
++
+editorial
++
+high contrast.
+
+【负面约束】
+
+不要普通居中Logo海报，
+不要完整显示所有文字，
+不要细小字体作为主体，
+不要彩色复杂背景，
+不要真实自然风景，
+不要传统写实插画，
+不要3D塑料质感，
+不要复杂渐变背景，
+不要多种高饱和颜色同时出现，
+不要让主体与字体完全分离，
+不要对称呆板构图，
+不要主体静止，
+不要文字全部位于最前方遮挡主体，
+不要生成与参考图完全相同的鸟姿态和文字布局。
