@@ -44,5 +44,16 @@
     "original_video": "data/2026-11-05/nima2qisi2-2117786379543589059/orig-video.mp4",
     "created_at": "2026-11-05T00:42:01+00:00",
     "status": "pending"
+  },
+  {
+    "slug": "nima2qisi2-2118295936606798006",
+    "ref_image": "data/2026-11-06/nima2qisi2-2118295936606798006/ref.png",
+    "ref_image_url": "https://raw.githubusercontent.com/iamyours/x-ai-pipeline/main/data/2026-11-06/nima2qisi2-2118295936606798006/ref.png",
+    "video_prompt": "帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif",
+    "source_url": "https://x.com/nima2qisi2/status/2118295936606798006",
+    "author": "nima2qisi2",
+    "original_video": "data/2026-11-06/nima2qisi2-2118295936606798006/orig-video.mp4",
+    "created_at": "2026-11-06T00:40:03+00:00",
+    "status": "pending"
   }
 ]

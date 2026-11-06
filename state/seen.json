@@ -1723,6 +1723,106 @@
     "2117973478234317094": {
       "status": "generated",
       "at": "2026-11-05T07:51:59+00:00"
+    },
+    "2118489930737574251": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Likely traditional-painting image post; no generation prompt in candidates."
+    },
+    "2118487381783478298": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Dancing video caption; no prompt included."
+    },
+    "2118366664572211306": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Dancing video caption; no prompt included."
+    },
+    "2118318958675964203": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Commentary about traffic/works; not an AI artwork and no prompt."
+    },
+    "2118316439145009228": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Image reply to a story; no prompt text included."
+    },
+    "2118301978459766864": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:38:45+00:00",
+      "reason": "Dancing video caption; no prompt included."
+    },
+    "2118282356708737127": {
+      "status": "generated",
+      "at": "2026-11-06T00:39:04+00:00"
+    },
+    "2118282233467572609": {
+      "status": "generated",
+      "at": "2026-11-06T00:39:31+00:00"
+    },
+    "2118162190171808069": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:39:31+00:00",
+      "reason": "Describes an AI sword-array scene but no actual prompt is included."
+    },
+    "2118295936606798006": {
+      "status": "queued_video",
+      "at": "2026-11-06T00:40:03+00:00"
+    },
+    "2118150226330734787": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:03+00:00",
+      "reason": "Mentions ChatGPT Image 2.6 and points to comments for instructions, but gives no prompt."
+    },
+    "2118362651680260268": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:03+00:00",
+      "reason": "About a Ghostty terminal color project, not an AI image/video work with a generation prompt."
+    },
+    "2118336712594407465": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:03+00:00",
+      "reason": "Discusses GPT-image workflow and says prompts will be open-sourced later; no prompt is present."
+    },
+    "2118334535310192761": {
+      "status": "generated",
+      "at": "2026-11-06T00:40:29+00:00"
+    },
+    "2118331471689838833": {
+      "status": "generated",
+      "at": "2026-11-06T00:40:57+00:00"
+    },
+    "2118316069987500396": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Discusses an AI-generated illustration style and says the prompt will be open-sourced later, but no usable prompt is included."
+    },
+    "2118263182028685409": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Account/KYC advice and project FAQ; no AI image/video work or prompt."
+    },
+    "2118335823057932339": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Comments on Muse-generated output, but no generation prompt is provided."
+    },
+    "2118299886403928466": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Mentions Muse generation plus CapCut music/effects, indicating an AI-generated video, but no prompt is included."
+    },
+    "2118255337925206158": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Showcases a student's 54-second fight-scene video with effects; no generation prompt is included."
+    },
+    "2118164852565045330": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-06T00:40:57+00:00",
+      "reason": "Promotes a student's new artwork/video; no usable generation prompt is included."
     }
   },
   "processed_inbox": {

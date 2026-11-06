@@ -1,0 +1,38 @@
+{
+  "tweet_id": "2118331471689838833",
+  "url": "https://x.com/xiaoxiaodong/status/2118331471689838833",
+  "author": "xiaoxiaodong",
+  "text": "GPT2 x 渐变色条 x 美学提示词 x 复古风格 x T恤图案\n\n转绘提示词+1\n轻松把你输出的任何图片\n转换成那种复古一点的，有条纹的风格\n这提示词实有点意思\n\n也是 Opus5.5 调制而来。\n\n我在想一个事情：\n这些skills 如何更好的成为产品呢\n\n这个话题，我也要问问Opus5.5\n\n完整提示词如下：\n\n```\nTurn each photo I upload into its own premium design poster: no multi-image collage, one output per photo. Use a 3:4 vertical format folded like a card into a top half and a bottom half of the same height, the fold falling exactly on the horizontal centre line of the frame; the fold itself is not drawn.\n\nThe top half keeps the original photo, preserving the subject's identity, structure, pose, real texture, natural light and original colour mood, with only a light refined grade so it reads like an art magazine, independent publication or exhibition image. To fit the frame, the surrounding background may be extended naturally, but the subject must never be stretched, distorted or altered; crop the photo as a full shot, leaving headroom above the subject so its top is never cut off. Add no text of any kind to the top half; all lettering belongs to the bottom half. Shop signs, brand marks and printed lettering already in the photo stay in the original photo above; the bottom half never copies them.\n\nThe bottom half extracts only the photo's most recognisable **subject, contour, structure, pose and narrative relationship**, rebuilt as a **Retro Stripe Stack with Flat Icon**. Do not copy the whole photo, so the link to the photo above is read at a glance. **On a pure black ground a stack of equal-height thick horizontal bars must run from the left edge and stop evenly near the right, with equally narrow black gaps between them, the colour brightest and warmest in the top bar and growing deeper and cooler bar by bar; the photo's subject is reduced to one flat icon filled solid in the top bar's colour, its structure picked out only by a few fine black lines, standing above the bars at right.**\n\nThe bottom half needs a fresh artistic judgement. Even if the original is badly composed, cluttered or has a tiny subject, rescue it through **removing surroundings, simplifying and shrinking into an icon**; however detailed the subject, first gather it into a few rounded, recognisable silhouette masses, keeping the photo's most distinctive pose. When the photo is itself a scene, take only its single most representative element as the icon and leave the rest undrawn.\n\nThe form centres on **a small hobby solemnly turned into a retro banner**: almost nothing is drawn beyond the bars; below them sits one large character in a square box with a few lines of short words divided by dots beside it. People, animals, buildings and objects all gather into the same rounded single-colour silhouette icons.\n\nThe material is **a clean, flat pure black ground and flat colour fills**.\n\nThe composition uses **bars in the middle + title and icon above + an information strip below, spread full**. The subject is whole with a little headroom, and nothing touches the central fold. Better a smaller icon than one covering the bars.\n\nTake the most representative set of colours in the photo above and mix them into **a pure black ground, one column of bars grading from warm and bright to cool and deep, and one warm pale type colour**: the whole column leans cool if the photo is cool, and the icon takes the top bar's colour. Avoid colour in the ground and extra decorative colours.\n\nText is only a minimal editorial intervention, in any language, with no fixed preset title. Distil a short title from this photo's subject, action, mood or metaphor, written as **the protagonist's inner voice at this moment as one slogan, with a bilingual title**: the title stacked, the lower part in **heavy sans-serif display type**, the upper part in lighter type in another script; below the bars a few lines of nouns and actions divided by dots, and at lower right one heavy numeral with a small line naming a unit of time, the numeral starting afresh on each picture; the type colour takes the warm pale tone in the picture, the tone earnest and a little funny; any Chinese is always in simplified characters. The line must add to the picture: draw the thought from one visible detail in the photo, so it would not hold for any other photo; the title does not name the things in the picture, does not say \"again\", \"waiting\" or \"not yet\", and writes no clichés or musings.\n\nThe whole reads like a printed T-shirt a fan would wear to a meetup: a pure black ground, gradient bars, a flat icon and a bilingual title together make it retro and earnest.\n\nAvoid a full scene copy and template-poster feel, avoid bars drawn as a full rainbow of hues or an icon keeping photographic detail, and avoid scenery in the ground or text crowding the picture.\n```",
+  "prompt_text": "",
+  "replies": [],
+  "media": [
+    {
+      "type": "photo",
+      "width": 1086,
+      "height": 1448,
+      "url": "https://pbs.twimg.com/media/HWXR0swbQAAJwoE.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 1086,
+      "height": 1448,
+      "url": "https://pbs.twimg.com/media/HWXR0sRbIAAmwN-.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 1086,
+      "height": 1448,
+      "url": "https://pbs.twimg.com/media/HWXR0spa0AEZgJE.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 1086,
+      "height": 1448,
+      "url": "https://pbs.twimg.com/media/HWXR25EaAAAYaiE.jpg"
+    }
+  ],
+  "created_at": "2026-11-05T13:15:54.000Z",
+  "source": "inbox",
+  "conversation_id": "2118331471689838833",
+  "author_id": "1986087438721449984"
+}

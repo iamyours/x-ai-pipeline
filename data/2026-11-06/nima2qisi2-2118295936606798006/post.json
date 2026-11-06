@@ -1,0 +1,53 @@
+{
+  "tweet_id": "2118295936606798006",
+  "url": "https://x.com/nima2qisi2/status/2118295936606798006",
+  "author": "nima2qisi2",
+  "text": "卧槽，Chat GPT Image2.6 还能这样玩360°环绕？\n【建筑】+ 指令提示词 就能做成这样的效果图👇\n\n【白宫外观】360°环绕\n帮我做一个真实白宫外观的360°环绕模仿无人机拍摄，要真实还原建筑环境的实际外观情况，做成gif https://t.co/pEj74JvpV6",
+  "prompt_text": "",
+  "replies": [],
+  "media": [
+    {
+      "type": "animated_gif",
+      "width": 474,
+      "height": 352,
+      "variants": [
+        {
+          "bit_rate": 0,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/tweet_video/HWWyWwcaQAAV8GO.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HWWyWwcaQAAV8GO.jpg"
+    },
+    {
+      "type": "animated_gif",
+      "width": 414,
+      "height": 412,
+      "variants": [
+        {
+          "bit_rate": 0,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/tweet_video/HWWygQnasAAc_MQ.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HWWygQnasAAc_MQ.jpg"
+    },
+    {
+      "type": "animated_gif",
+      "width": 414,
+      "height": 414,
+      "variants": [
+        {
+          "bit_rate": 0,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/tweet_video/HWWyiH3aMAEqOiW.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HWWyiH3aMAEqOiW.jpg"
+    }
+  ],
+  "created_at": "2026-11-05T10:54:41.000Z",
+  "source": "inbox",
+  "conversation_id": "2118295936606798006",
+  "author_id": "2021424181796274176"
+}
