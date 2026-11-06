@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"Understood. Upload your photo(s), and I’ll create **one individual premium poster for each photo**.\\n\\nI’ll follow your specifications:\\n- Exact **1024 × 1536 px**, vertical 3:4 format.\\n- Original photograph preserved in the upper half.\\n- Giant Peeking over the Horizon illustr",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}

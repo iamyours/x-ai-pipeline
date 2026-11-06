@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"Je nám líto, ale námi vytvořený obrázek může porušovat naše pravidla týkající se nahoty, sexuality nebo erotického obsahu. Pokud se domníváš, že se mýlíme, zkus to znovu nebo prompt uprav. (request id: 202611060752299443091068268d9d6NbcuDpCE)\",\"type\":\"invalid_request_error\",\"par",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}
