@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"请上传需要生成或编辑的参考图片，我就可以继续处理。当前会以你提供的唐代仕女设定为准，目标尺寸严格为 **1024 × 1536 px**，竖版 2:3 构图。 (request id: 202611070044137125201278268d9d6aTPSpgfp)\",\"type\":\"invalid_request_error\",\"param\":\"\",\"code\":\"upstream_missing_image_target\"}}",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}

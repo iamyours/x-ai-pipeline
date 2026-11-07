@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"We’re so sorry, but the image we created may violate our guardrails around nudity, sexuality, or erotic content. If you think we got it wrong, please retry or edit your prompt. (request id: 202611070043494106528178268d9d6b1OAzZNW)\",\"type\":\"invalid_request_error\",\"param\":\"\",\"code",
+  "usage": null,
+  "size": "1536x1024",
+  "kind": "image"
+}

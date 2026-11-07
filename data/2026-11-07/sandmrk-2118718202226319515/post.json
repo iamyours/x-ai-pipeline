@@ -1,0 +1,28 @@
+{
+  "tweet_id": "2118718202226319515",
+  "url": "https://x.com/sandmrk/status/2118718202226319515",
+  "author": "sandmrk",
+  "text": "月白褙子绣着桃花纹，\n她四分之三侧面望向你。\n伦勃朗光从45度侧方照射，\n面部形成三角光斑。\n冷蓝阴影笼罩背景，\n远处透出一抹暖光。\n桃花眼清澈天真，\n弯月眉甜美亲和。\n她在等谁？\n\n慢慢调教GPT2.6 https://t.co/zBCABfhe8c",
+  "prompt_text": "",
+  "replies": [
+    "提示词，GPT image Prompt:\n\n0.58:1超竖版，超写实东方玄幻电影级人像，子丹风格。半身近景。\n\n【人物】\n年轻成年东亚女性，约18-20岁，天真烂漫气质。\n人物占画面高度50%，位于画面中央偏上。\n鹅蛋脸（端庄典雅），桃花眼（水润明亮，眼尾微翘，多情妩媚，**两眼间距等于单眼宽度，瞳距适中**），弯月眉（弯曲柔和，甜美亲和），圆唇（饱满圆润，温柔亲和），小巧鼻（精致秀气）。\n五官严格黄金比例（三庭五眼）：三庭（发际线→眉骨 = 眉骨→鼻底 = 鼻底→下巴，各占1/3），五眼（左耳→左眼 = 左眼→右眼 = 右眼→右耳，各占1/5脸宽），鼻翼宽度等于两眼间距，嘴唇宽度等于瞳孔间距，面部中线左右严格对称。\n乌黑长发半挽半散，细碎发丝垂于脸颊。\n头部小巧精致，占全身比例1/7（小头大身），颈部修长。\n\n【服装】\n月白色褙子（宋代文人女性典型），直领对襟。\n绣淡粉色折枝桃花纹（克制不花哨，莫兰迪色系）。\n外罩淡灰色薄纱披帛，半透明。\n服饰细节极致：可见丝线纹理，材质真实（丝绸垂坠感）。\n\n【姿势】\n半身近景，人物占画面50%。\n四分之三侧面，头部微微回转看向镜头。\n桃花眼直视观众，眼神清澈天真。\n一手轻抬，手指触碰脸颊旁的发丝。\n孤独情绪：有故事感，像在回忆什么。\n\n【环境】\n留白30%，背景虚化。\n分层叙事：\n- 前景：虚化的桃花枝（淡粉色调，占10%）\n- 中景：人物（月白色，视觉焦点，占50%）\n- 远景：虚化的溪流/远山（冷蓝阴影#2C3E50，占30%）\n远处透出一抹暖光（#E8C547），与冷蓝阴影形成对比。\n\n【光影】\n伦勃朗光从45度侧方照射，面部形成三角光斑。\n冷蓝阴影（#2C3E50）笼罩背景，远处暖光（#E8C547）透出。\n35mm胶片质感，轻微颗粒感，复古褪色感。\n暗调中的局部亮光，突出人物面部细节（桃花眼、弯月眉、圆唇）。\n\n【质感】\n超写实东方玄幻，电影级人像（子丹风格）。\n皮肤：真实质感，可见毛孔、细纹、肌肤起伏。\n发丝：乌黑浓密，每根发丝清晰可见，带光泽。\n服饰：精细刺绣，可见丝线纹理，材质真实。\n人体结构：黄金比例，解剖学正确。\n\n色板：月白#F5F0E8，淡粉#E8C5C5，银灰#B8C5D6，冷蓝#2C3E50，暖光#E8C547。\n\nNegative: high saturation, oversaturated, gradient colors, bright colors, cartoon, anime, plastic skin, over-smoothing, big head, disproportionate head, asymmetric eyes, uneven facial features, distorted proportions, wrong perspective, deformed face, cross-eyed, mismatched eyes, crooked nose, uneven lips, close-set eyes, wide-set eyes, tear mole, beauty mark.\n\nSignature: Add the exact watermark \"AI art gallery | @sandmrk\" at the bottom center. Montserrat Regular, pure white, slightly expanded letter spacing (+1.5px), medium-small size (2% of image height), maximum 25% image width, positioned 10% above the bottom edge. Crisp, elegant, consistent typography. No shadow, outline, glow or background."
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "width": 955,
+      "height": 1647,
+      "url": "https://pbs.twimg.com/media/HWcy9zKbgAA95Z1.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 955,
+      "height": 1647,
+      "url": "https://pbs.twimg.com/media/HWcy-N3bUAAcY_K.jpg"
+    }
+  ],
+  "created_at": "2026-11-06T14:52:37.000Z",
+  "source": "inbox",
+  "conversation_id": "2118718202226319515",
+  "author_id": "141634533"
+}

@@ -1831,6 +1831,116 @@
     "2118268096079376683": {
       "status": "failed",
       "at": "2026-11-06T07:53:28+00:00"
+    },
+    "2118752886238945299": {
+      "status": "failed",
+      "at": "2026-11-07T00:44:13+00:00"
+    },
+    "2118751648407552380": {
+      "status": "failed",
+      "at": "2026-11-07T00:44:24+00:00"
+    },
+    "2118739696780218747": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:44:24+00:00",
+      "reason": "References AI image versions and prompt tuning, but only links to the prompt; no prompt text is provided."
+    },
+    "2118735165627551790": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:44:24+00:00",
+      "reason": "AI dance video post with caption and link; no generation prompt text."
+    },
+    "2118718202226319515": {
+      "status": "generated",
+      "at": "2026-11-07T00:44:49+00:00"
+    },
+    "2118663566152868294": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:44:49+00:00",
+      "reason": "Mentions prompt in comments and provides only a link; no prompt text."
+    },
+    "2118679791939539077": {
+      "status": "generated",
+      "at": "2026-11-07T00:45:14+00:00"
+    },
+    "2118549181266829510": {
+      "status": "generated",
+      "at": "2026-11-07T00:45:44+00:00"
+    },
+    "2118537981179130172": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Personal complaint, no AI image/video work or prompt."
+    },
+    "2118675622071284209": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Text-only reflection on tools, no AI visual work or prompt."
+    },
+    "2118674858192318898": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Shows AI-generated image example; no generation prompt included."
+    },
+    "2118673743358927205": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "AI illustration style example; prompt not included, says will open-source later."
+    },
+    "2118667562938724660": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Claude account/reset-card discussion, not AI visual work."
+    },
+    "2118650459766538736": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Claude subscription/account discussion, no AI visual work or prompt."
+    },
+    "2118644291774132480": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Account setup/status discussion, no AI visual work or prompt."
+    },
+    "2118630872303771846": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Discusses a prompt library/tool; no AI image/video work or actual generation prompt."
+    },
+    "2118715543327023361": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Tech question about TUN/proxy, not an AI artwork or prompt."
+    },
+    "2118704372100321762": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Praise/comment with link; no AI work or prompt."
+    },
+    "2118703861171175889": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Mentions generating a 40-second Muse video from one sentence, but the prompt text is not included."
+    },
+    "2118681412396364227": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Bookmark/praise comment; no AI work or prompt."
+    },
+    "2118680706859839813": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Tutorial about writing long posts; no AI generation prompt."
+    },
+    "2118654538043523154": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Mentions a Muse-generated 40-second vlog video, but no actual prompt text is provided."
+    },
+    "2118667287310061987": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-07T00:45:44+00:00",
+      "reason": "Project/community announcement; mentions prompts exist but does not include a usable generation prompt."
     }
   },
   "processed_inbox": {
