@@ -1945,6 +1945,74 @@
     "2118523491763024281": {
       "status": "failed",
       "at": "2026-11-07T07:01:19+00:00"
+    },
+    "2119051267599396975": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:44:24+00:00",
+      "reason": "AI artwork implied by the reverse-engineered prompt reply, but no usable prompt text appears in the candidates—only an external link."
+    },
+    "2119227528393171429": {
+      "status": "generated",
+      "at": "2026-11-08T00:44:55+00:00"
+    },
+    "2119200694620336222": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:44:55+00:00",
+      "reason": "A poetic good-morning/sunrise caption with no AI-generation prompt or clear AI-work indication."
+    },
+    "2119081087444172801": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:44:55+00:00",
+      "reason": "Weekend/weather caption about Yangtze scenery; no AI-generation prompt."
+    },
+    "2119218344645759190": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:44:55+00:00",
+      "reason": "A joke/commentary post with no AI image/video prompt."
+    },
+    "2118949001353720210": {
+      "status": "generated",
+      "at": "2026-11-08T00:45:21+00:00"
+    },
+    "2119054908947345588": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "A teaser caption for a Malfoy story episode with no AI-generation prompt or clear AI-work indication."
+    },
+    "2119103805845536874": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "The included prompt is for a webpage design concept, not an AI image/video generation prompt."
+    },
+    "2119086248828805606": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Discussion about OpenAI payments and account bans; no AI artwork or generation prompt."
+    },
+    "2119103904147526080": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Mentions an AI-made 4-minute comic video, but provides no generation prompt."
+    },
+    "2119057477342023875": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Commentary praising an AI-related 'Little Prince' work; no generation prompt included."
+    },
+    "2119041020918902856": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Discussion of Claude Code network setup and smart-contract security; no AI image/video prompt."
+    },
+    "2119042132346540375": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Discussion of ChatGPT bans and smart-contract security research; no AI generation prompt."
+    },
+    "2118935197995745586": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-08T00:45:21+00:00",
+      "reason": "Short greeting with a link; no AI artwork or prompt."
     }
   },
   "processed_inbox": {
@@ -1962,6 +2030,7 @@
     "2026-11-04.json": "f8d13ea5d0318b0d326138bd08e0a9010842a4f69e9738f8b041b2b835b842b4",
     "2026-11-05.json": "69901b21b44fa3e56246292aa805ae0cb772964037a43f03768a247bac4d83bb",
     "2026-11-06.json": "0b666548d1baabb80ee9d9e62ca35b0a23000ca1c61ceac4916184688a7f19ee",
-    "2026-11-07.json": "be3c89b058694f687bd4507a50411d841a80f9b7889390ee4b77232460dcdf1d"
+    "2026-11-07.json": "be3c89b058694f687bd4507a50411d841a80f9b7889390ee4b77232460dcdf1d",
+    "2026-11-08.json": "813821ab201eecd5bccae58fdb9f11636fa329647c44c7e0ad959468f7ab5846"
   }
 }
