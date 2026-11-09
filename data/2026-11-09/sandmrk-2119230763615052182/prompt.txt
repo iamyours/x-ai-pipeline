@@ -1,0 +1,21 @@
+image Prompt:
+
+A high-end 3D hyper-realistic CG portrait, Tang dynasty aesthetics, vertical 9:16, UE5-quality rendering with ray tracing and PBR materials, surreal hyperrealism, luxury artistic boudoir photography.
+
+Composition: Medium close-up from head to thighs, subject at 25%-75% horizontally, 5%-95% vertically. Slightly low-angle shot, body slightly leaning forward and turned to the side, creating S-curve pose. 85mm portrait lens, f/2.0, shallow depth of field, figure in sharp focus, background softly blurred.
+
+Face: Refined oval face with high nose bridge and full cherry lips. Natural brown eyes, half-open with affectionate gaze looking directly at camera. Light yonglai makeup (慵来妆) with subtle blush and nude pink lips. Natural thick eyelashes. Age 22, youthful and alluring. Golden ratio proportions (san ting wu yan). 3D hyper-realistic skin with visible pores, fine subcutaneous blood vessels, realistic skin texture and subtle sweat glow, subsurface scattering creating luminous fair complexion.
+
+Body: Hourglass proportions, height 170cm, extreme hourglass figure with short torso and elongated legs. Very full voluptuous bust with natural gravity and soft tissue flow, deep cleavage. Extremely slender waist, wide hips and rounded buttocks. Full thighs. Flat abdomen. Swan-like slender neck, clear collarbones, narrow shoulders. Arms raised above head with both hands gently touching hair behind head, fingers delicately curved. Body slightly leaning forward and turned to the side, S-curve twist, bust pushed forward, buttocks naturally flaring outward, pose natural and elegant.
+
+Clothing: Tang dynasty qixiong ruqun (齐胸襦裙) in ultra-thin sheer silk gauze. Light ivory-white color with subtle缠枝莲纹 (interlocking lotus pattern) embroidery in pale silver thread. Fine shoulder straps with delicate lace-like silk knots. Central bow tie at chest. Matching translucent silk skirt with high waistband just below bust. Material extremely thin and nearly fully transparent, silk gauze wrinkles and light penetration rendered realistically with physically accurate cloth simulation. Delicate embroidery details with realistic fabric texture.
+
+Hair: Long straight black hair with slight waves, fine strands with lustrous sheen, side-parted bangs. Hair flowing down with some strands falling over shoulders and arms. Elaborate Tang dynasty high bun partially undone, creating romantic disheveled effect. Gold hairpins with dangling pearl chains, small silk flowers.
+
+Background: Ancient Chinese boudoir chamber, light beige silk curtains, carved wooden screen (屏风) with painted landscapes, wooden floor with woven mat. Softly blurred with warm golden bokeh from window light.
+
+Lighting: Strong morning golden sunlight from large window on right side, intense side-backlight creating rim light outlining hair and body contours. Soft highlights and deep shadows sculpting body curves. Dust particles floating in light beams creating atmospheric bokeh. Warm golden color tone. Volumetric lighting with ray-traced global illumination. Classic Rembrandt lighting adapted for artistic boudoir photography.
+
+Rendering: 8K resolution, UE5-quality, ray tracing enabled, subsurface scattering on skin and translucent silk, PBR for all materials, volumetric fog and haze. Rich oil painting quality with fine grain. Subtle film highlight bloom with bright contours softly diffused. Absolutely zero cartoon, zero anime, zero CG look, zero doll-like appearance, zero over-smoothing, zero plastic skin, zero deformities.
+
+Constraints: No modern elements except contemporary camera aesthetic, no text, no watermark, no logos. No tear mole, beauty marks, round eyes, exaggerated makeup. No plastic skin, oversmoothing, excessive saturation. No anime, cartoon, distorted hands, facial distortion, deformed body. No overexposure, harsh shadows. No dislocated shoulder, unnatural shoulder angle, gravity-defying breasts. No thick neck, short neck, long torso, long waist. No overly thin, emaciated, bony, flat chest, small bust, narrow hips, short legs. No cartoon, anime, CG look, doll-like, over-smoothed, plastic skin, deformed.

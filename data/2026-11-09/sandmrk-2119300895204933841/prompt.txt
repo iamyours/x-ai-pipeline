@@ -1,0 +1,44 @@
+Muse Video Prompt
+Format lock: horizontal 16:9, photorealistic cinematic live-action, neon cyberpunk night, teal-and-magenta palette, wet reflective streets, fast fluid camera, shallow depth of field, motion blur on fast moves only.
+
+Priority constraints: P1 EXACTLY TWO WOMEN on screen, no one else. P2 ONE SHIELD, ONE BLADE — the heroine's hexagonal energy shield appears once and stays; the opponent carries a single long straight blade. P3 NO TEXT anywhere — no captions, no logos, no readable signage glyphs (background billboards are abstract neon shapes and light blocks only).
+
+Characters (locked): THE HEROINE — a young woman with short tousled black hair, teal-blue eyes, light freckles across her nose, a tiny dark beauty mark below her left eye, a silver hoop earring; a cropped red-and-navy techwear jacket with a cracked grey scale-textured right shoulder pauldron over a brass core, a translucent violet skirt panel over dark shorts, her left leg a white armored prosthetic with black joint rings, a device on her right forearm that trails red energy filaments. THE OPPONENT — a young woman with long straight black hair and pale skin, thin black geometric crack-lines tattooed along her left cheek and jaw, a dark high-collar long coat with pale grey panels, one long straight silver blade.
+
+Scene: a rain-slick elevated street in a neon megacity at night, glowing billboards and light strips in teal, magenta and amber, light haze, puddle reflections.
+
+Action (one continuous shot, three beats): (1) The heroine power-slides low across the wet street toward camera-left, sparks spraying from her boots, jacket flaring; (2) she rises into a low crouch and snaps her right arm forward — red energy filaments whip out and a large hexagonal-grid energy shield blooms open in front of her, teal cells with a hot-pink rim, and she braces behind it; (3) the opponent leaps in from the upper right and brings her long blade down onto the shield — a burst of sparks, the hex cells rippling from the impact point, the heroine holding her ground as the camera pushes in slightly. End on the held clash.
+
+Camera: low tracking shot following the slide, then a smooth push-in to the shield clash; no cuts.
+
+Sound: street ambience and distant city hum, boot scrape and sparks, a rising electronic whine as the shield opens, a heavy metallic clang with crackling energy on impact. No dialogue, no narration in this segment. Music: a low pulsing synth bass far under the effects.
+
+Avoid: extra people; extra limbs; the shield duplicating or vanishing; the blade bending; readable text or logos; subtitles; daytime; cartoon or anime look.
+
+Muse Video Prompt
+Format lock: horizontal 16:9, photorealistic cinematic live-action, neon cyberpunk night, shallow depth of field.
+Priority constraints: P1 ONE FACE ONLY — a single extreme close-up of the woman in the reference image, nobody else in frame, no cut. P2 HER FACE CARRIES ONLY HER OWN FEATURES — black crack-line tattoos on her cheek and temple; NO earrings, NO freckles, NO beauty mark.
+EXTREME CLOSE-UP: the opponent's face fills the frame — long straight black hair, pale rain-beaded skin, thin black geometric crack-line tattoos along her left cheek and jaw; a furious glare straight into camera, jaw clenched, wet strands of hair stuck to her skin, neon rain light sliding over her face; the camera pushes in very slightly; she does not speak.
+Sound: rain hush, distant city hum, a low synth pulse. No dialogue, no narration, no music melody.
+Avoid: any second person; earrings or jewelry; freckles; readable text or logos; subtitles; daytime; cartoon or anime look.
+
+Muse Video Prompt
+Format lock: horizontal 16:9, photorealistic cinematic live-action, neon cyberpunk night, shallow depth of field.
+Priority constraints: P1 ONE FACE ONLY — a single extreme close-up of the woman in the reference image, nobody else in frame, no cut. P2 HER SKIN IS UNMARKED — freckles and the tiny beauty mark below her left eye only; ABSOLUTELY NO tattoos, NO black lines, NO markings of any kind on her face.
+EXTREME CLOSE-UP: the heroine's face fills the frame — short tousled black hair, teal-blue eyes, light freckles across her nose, a tiny dark beauty mark below her left eye, one silver hoop earring; utterly calm and deadpan, staring straight back into camera, rain beads on her skin, neon light sliding across her face; one slow blink near the end; the camera pushes in very slightly.
+VOICEOVER: she narrates in Mandarin Chinese — a young woman's voice, calm, flat, deadpan, a little tired — speaking exactly this line and nothing else: 「这个动画看着厉害」 Her lips do not move; the voice is a voiceover.
+Sound: rain hush and distant city hum under the voice; a low synth pulse.
+Avoid: any second person; tattoos or face markings; lip movement; readable text or logos; subtitles; daytime; cartoon or anime look.
+
+Muse Video Prompt
+Format lock: horizontal 16:9, photorealistic cinematic live-action, neon cyberpunk night, teal-and-magenta palette, wet reflective streets and glass, shallow depth of field, motion blur on fast moves only.
+Priority constraints: P1 EXACTLY TWO WOMEN. P2 ONE SHIELD, ONE BLADE, no cuts — one continuous shot.
+Characters (locked): THE HEROINE — a young woman with short tousled black hair, teal-blue eyes, light freckles across her nose, a tiny dark beauty mark below her left eye, a silver hoop earring; a cropped red-and-navy techwear jacket with a cracked grey scale-textured right shoulder pauldron over a brass core, a translucent violet skirt panel over dark shorts, a white armored left leg, a device on her right forearm that trails red energy filaments. THE OPPONENT — a young woman with long straight black hair and pale skin, thin black geometric crack-lines tattooed along her left cheek and jaw, a dark high-collar long coat with pale grey panels, one long straight silver blade.
+Medium two-shot on the rain-slick street: the heroine, braced behind her hexagonal teal energy shield with its hot-pink rim, drives forward two heavy steps and SHOVES the opponent backward with the shield; the opponent's boots skid on the wet asphalt as she slides back, then she digs in, recovers her stance and raises her long blade, circling half a step. The heroine lowers the shield a fraction, chest heaving, eyes locked on her.
+VOICEOVER: the heroine narrates in Mandarin Chinese — a young woman's voice, calm, flat, deadpan, a little tired — speaking exactly the given line and nothing else. Line: 「但其实是懒人动画」
+Sound: shield energy hum, boots skidding on wet asphalt, hard breathing, city ambience; a low pulsing synth bass far under.
+Avoid: extra people; extra limbs; readable text or logos; subtitles or captions; daytime; cartoon or anime look.
+
+Muse Video Prompt
+Format lock: horizontal 16:9, photorealistic cinematic live-action, neon cyberpunk night, teal-and-magenta palette, wet reflective streets and glass, shallow depth of field, motion blur on fast moves only.
+Priority constraints: P1 EXACTLY TWO WOMEN. P2 ONE

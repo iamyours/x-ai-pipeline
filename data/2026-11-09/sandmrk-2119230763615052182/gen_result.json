@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"Es tut uns leid, aber das von uns erstellte Bild verstößt möglicherweise gegen unsere Inhaltsrichtlinien. Wenn du denkst, dass wir uns geirrt haben, versuche es erneut oder bearbeite deinen Prompt. (request id: 202611090752302546606968268d9d6pVeU1Liq)\",\"type\":\"invalid_request_er",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}
