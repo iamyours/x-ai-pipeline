@@ -2013,6 +2013,146 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-08T00:45:21+00:00",
       "reason": "Short greeting with a link; no AI artwork or prompt."
+    },
+    "2119568420006146519": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:42:07+00:00",
+      "reason": "Dance-video caption; no generation prompt included."
+    },
+    "2119501959317127462": {
+      "status": "generated",
+      "at": "2026-11-09T00:42:41+00:00"
+    },
+    "2119473773678305295": {
+      "status": "generated",
+      "at": "2026-11-09T00:43:07+00:00"
+    },
+    "2119458125707424112": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:43:07+00:00",
+      "reason": "Character backstory/caption; not a usable generation prompt."
+    },
+    "2119446101749371371": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:43:07+00:00",
+      "reason": "Chatty dance-video caption; no prompt."
+    },
+    "2119438628372029723": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:43:07+00:00",
+      "reason": "Commentary on AI art; no prompt included."
+    },
+    "2119435029667631575": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:43:07+00:00",
+      "reason": "Mentions prompts and images but does not include an actual prompt."
+    },
+    "2119432854212141281": {
+      "status": "generated",
+      "at": "2026-11-09T00:43:28+00:00"
+    },
+    "2119421621694025776": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:43:28+00:00",
+      "reason": "Poetic caption; no generation prompt."
+    },
+    "2119412692905779226": {
+      "status": "generated",
+      "at": "2026-11-09T00:44:07+00:00"
+    },
+    "2119392359599550847": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:07+00:00",
+      "reason": "Poetic dark-fantasy caption; no prompt text."
+    },
+    "2119386550362685824": {
+      "status": "queued_video",
+      "at": "2026-11-09T00:44:48+00:00"
+    },
+    "2119347702446412059": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Fictional news-style caption; no generation prompt."
+    },
+    "2119309667948191756": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Reaction caption to a dance video; no prompt."
+    },
+    "2119253569392214246": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "AI video with '提示词 ↓' but prompt is only in t.co links, no usable text."
+    },
+    "2119454093156704547": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Poster/prompt-library promo with implied AI images, but no standalone usable prompt text."
+    },
+    "2119452423177765138": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "AI poster sample/promo; title gives category tags, not a usable generation prompt."
+    },
+    "2119448198091768033": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "AI poster sample/promo; no exact generation prompt is included in the text."
+    },
+    "2119441537046282524": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Meta post about prompt-library wiki; no AI image/video prompt."
+    },
+    "2119438461539406023": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Claude account status/FAQ post; no AI image/video prompt."
+    },
+    "2119395989262070135": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Discussion about prompting style for Claude; no specific usable prompt."
+    },
+    "2119288894617510004": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Prompt-category title implies an AI image sample, but no actual prompt text is provided."
+    },
+    "2119433236304785499": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Keyboard gift/thank-you post; not an AI image/video work and no prompt."
+    },
+    "2119285007072309326": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Mentions minimax h3 turbo fight-scene generation; no prompt text included."
+    },
+    "2119275441467097328": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Muse-generated cyber battle; says prompt will be posted later, not included."
+    },
+    "2119267683317461112": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Personal reading post; no AI work or prompt."
+    },
+    "2119261069600559301": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Likely AI video vignette; no prompt included."
+    },
+    "2119256351457296507": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "MuseAI referral/ad; not an AI artwork/prompt."
+    },
+    "2119252543566184821": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-09T00:44:48+00:00",
+      "reason": "Likely AI dance video caption; no prompt included."
     }
   },
   "processed_inbox": {

@@ -1,0 +1,4 @@
+Format lock: Aspect ratio 4:3 (source 2880×2160, 30 fps; generate at 1440×1080, 30 fps) — the output MUST use exactly this 4:3 ratio; no cropping, no reframing, no letterbox change.
+
+Master (include with every clip):
+Identity &amp; costume lock: Character A — ELLA,

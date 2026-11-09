@@ -55,5 +55,16 @@
     "original_video": "data/2026-11-06/nima2qisi2-2118295936606798006/orig-video.mp4",
     "created_at": "2026-11-06T00:40:03+00:00",
     "status": "pending"
+  },
+  {
+    "slug": "sandmrk-2119386550362685824",
+    "ref_image": "data/2026-11-09/sandmrk-2119386550362685824/ref.png",
+    "ref_image_url": "https://raw.githubusercontent.com/iamyours/x-ai-pipeline/main/data/2026-11-09/sandmrk-2119386550362685824/ref.png",
+    "video_prompt": "《墨影·夜刺》\n月夜飞檐，刺客墨影潜行入宫。\n短匕映着清辉，露台激战守卫，\n殿内剪影定风波，一击成事，\n事了拂衣隐于茫茫夜色。",
+    "source_url": "https://x.com/sandmrk/status/2119386550362685824",
+    "author": "sandmrk",
+    "original_video": "data/2026-11-09/sandmrk-2119386550362685824/orig-video.mp4",
+    "created_at": "2026-11-09T00:44:48+00:00",
+    "status": "pending"
   }
 ]

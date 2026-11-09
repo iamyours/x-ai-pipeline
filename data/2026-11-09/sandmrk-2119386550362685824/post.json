@@ -1,0 +1,46 @@
+{
+  "tweet_id": "2119386550362685824",
+  "url": "https://x.com/sandmrk/status/2119386550362685824",
+  "author": "sandmrk",
+  "text": "《墨影·夜刺》\n月夜飞檐，刺客墨影潜行入宫。\n短匕映着清辉，露台激战守卫，\n殿内剪影定风波，一击成事，\n事了拂衣隐于茫茫夜色。\n\n图：未降智前的GPT\n豆包:seeddance 2.5 https://t.co/DLBd2JwKQO",
+  "prompt_text": "",
+  "replies": [],
+  "media": [
+    {
+      "type": "video",
+      "width": 2560,
+      "height": 1440,
+      "variants": [
+        {
+          "bit_rate": 10368000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2119386323903791104/vid/avc1/2560x1440/pNYj2fJyDJ0RR5O6.mp4"
+        },
+        {
+          "content_type": "application/x-mpegURL",
+          "url": "https://video.twimg.com/amplify_video/2119386323903791104/pl/UNV74YBZmk2TatYZ.m3u8?v=cfc"
+        },
+        {
+          "bit_rate": 2176000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2119386323903791104/vid/avc1/1280x720/h6P7kWFmtPgyEZOw.mp4"
+        },
+        {
+          "bit_rate": 832000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2119386323903791104/vid/avc1/640x360/nGeI5tB6k0MWnuJK.mp4"
+        },
+        {
+          "bit_rate": 256000,
+          "content_type": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2119386323903791104/vid/avc1/480x270/GEE23H_Iho9qzKK3.mp4"
+        }
+      ],
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2119386323903791104/img/HBumPCZ4hhbancDn.jpg"
+    }
+  ],
+  "created_at": "2026-11-08T11:08:24.000Z",
+  "source": "inbox",
+  "conversation_id": "2119386550362685824",
+  "author_id": "141634533"
+}
