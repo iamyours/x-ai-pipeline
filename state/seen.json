@@ -2165,6 +2165,141 @@
     "2119230763615052182": {
       "status": "failed",
       "at": "2026-11-09T07:52:47+00:00"
+    },
+    "2119949063210832378": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:24+00:00",
+      "reason": "Character bio caption, no usable generation prompt."
+    },
+    "2119937319889494166": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:24+00:00",
+      "reason": "Dance video caption, no generation prompt."
+    },
+    "2119927009229037662": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:24+00:00",
+      "reason": "Story/comic caption with author credit, no prompt."
+    },
+    "2119829618471608421": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:24+00:00",
+      "reason": "Discussion about styles and anatomy, no prompt."
+    },
+    "2119817180263092383": {
+      "status": "generated",
+      "at": "2026-11-10T00:42:52+00:00"
+    },
+    "2119812885002252616": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:52+00:00",
+      "reason": "Dance video caption with audience question, no prompt."
+    },
+    "2119802802012856504": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:42:52+00:00",
+      "reason": "Story/comic reaction caption, no generation prompt."
+    },
+    "2119772044778742210": {
+      "status": "queued_video",
+      "at": "2026-11-10T00:43:21+00:00"
+    },
+    "2119748565404971337": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:43:21+00:00",
+      "reason": "AI video showcase; the prompt is only referenced via a t.co link, not included in the candidate text."
+    },
+    "2119730612869157130": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:43:21+00:00",
+      "reason": "AI visual/video post with poetic caption and a reply, but no generation prompt text."
+    },
+    "2119642146064220189": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:43:21+00:00",
+      "reason": "Mentions a controlling prompt but does not include the prompt text; only links/replies."
+    },
+    "2119668604241387613": {
+      "status": "generated",
+      "at": "2026-11-10T00:44:00+00:00"
+    },
+    "2119655140919775580": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:44:00+00:00",
+      "reason": "AI video-style scene description, but no generation prompt text."
+    },
+    "2119593506943754324": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:44:00+00:00",
+      "reason": "Poetic AI visual scene caption; no prompt text included."
+    },
+    "2119747711847268808": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:44:00+00:00",
+      "reason": "Showcases GPT image-generation capability, but no prompt text is included."
+    },
+    "2119633580926337262": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:44:00+00:00",
+      "reason": "Showcases GPT image-generation output, but no prompt text is included."
+    },
+    "2119949328051847654": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:44:00+00:00",
+      "reason": "Discussion about Claude quota cards; no AI image/video generation prompt."
+    },
+    "2119817196482461952": {
+      "status": "generated",
+      "at": "2026-11-10T00:44:37+00:00"
+    },
+    "2119810390855184826": {
+      "status": "generated",
+      "at": "2026-11-10T00:45:10+00:00"
+    },
+    "2119800801648644112": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Mentions AI image generation and links to a record, but no actual prompt text."
+    },
+    "2119793406675407266": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Discusses using models for image prompts and shows a sample, but does not include the prompt text."
+    },
+    "2119745842827624655": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Account/status and usage advice; no AI image/video generation prompt."
+    },
+    "2119624981277712839": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Post is about upgrading a Claude subscription and payment methods, not an AI image or video work."
+    },
+    "2119729485121753130": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Post discusses AI video commission business and contracts; no work or prompt."
+    },
+    "2119679646908506341": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Author shares another version of a popular AI character image but gives no prompt."
+    },
+    "2119785236720685119": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Commentary about someone else's short film and AI agents; no generated work or prompt by author."
+    },
+    "2119746838450356673": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Post about an AI-built 3D interactive website; no image/video generation prompt provided."
+    },
+    "2119941935322554397": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-10T00:45:10+00:00",
+      "reason": "Post just asks what Claude 'fable reset cards' are; no AI-generated image/video or generation prompt."
     }
   },
   "processed_inbox": {

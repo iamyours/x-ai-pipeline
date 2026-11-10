@@ -1,0 +1,5 @@
+Muse Video Prompt
+Format lock: Aspect ratio 16:9 (source 3840×2160, 30 fps; generate at 1920×1080, 30 fps) — the output MUST use exactly this 16:9 ratio; no cropping, no reframing, no letterbox change.
+
+Master (include with every clip):
+Identity &amp; creature lock: Character A — THE
