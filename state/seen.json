@@ -2300,6 +2300,26 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-10T00:45:10+00:00",
       "reason": "Post just asks what Claude 'fable reset cards' are; no AI-generated image/video or generation prompt."
+    },
+    "2119723903472075078": {
+      "status": "generated",
+      "at": "2026-11-10T08:16:54+00:00"
+    },
+    "2119714857121611854": {
+      "status": "generated",
+      "at": "2026-11-10T08:17:26+00:00"
+    },
+    "2119616397802414316": {
+      "status": "generated",
+      "at": "2026-11-10T08:18:00+00:00"
+    },
+    "2119746836256973161": {
+      "status": "generated",
+      "at": "2026-11-10T08:18:38+00:00"
+    },
+    "2119018020765110523": {
+      "status": "generated",
+      "at": "2026-11-10T08:19:09+00:00"
     }
   },
   "processed_inbox": {
@@ -2319,6 +2339,7 @@
     "2026-11-06.json": "0b666548d1baabb80ee9d9e62ca35b0a23000ca1c61ceac4916184688a7f19ee",
     "2026-11-07.json": "be3c89b058694f687bd4507a50411d841a80f9b7889390ee4b77232460dcdf1d",
     "2026-11-08.json": "813821ab201eecd5bccae58fdb9f11636fa329647c44c7e0ad959468f7ab5846",
-    "2026-11-09.json": "e44e2da3045bdad5d521d938c56779dd1c3799f8ef8ad5804698b4e5357a8587"
+    "2026-11-09.json": "e44e2da3045bdad5d521d938c56779dd1c3799f8ef8ad5804698b4e5357a8587",
+    "2026-11-10.json": "e6a00c037a8298236bbe76ef248165417b4a6ae19d30acacee006f2a3b0e638f"
   }
 }
