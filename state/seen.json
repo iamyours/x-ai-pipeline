@@ -2320,6 +2320,170 @@
     "2119018020765110523": {
       "status": "generated",
       "at": "2026-11-10T08:19:09+00:00"
+    },
+    "2120294072502165731": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Caption comments on Grok; no generation prompt present."
+    },
+    "2120285934872904158": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Poetic caption about a qipao dance; not a usable generation prompt."
+    },
+    "2120179859364433974": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Roleplay-style caption only; no generation prompt."
+    },
+    "2120175578355748919": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Commentary about GPT/Grok; no generation prompt."
+    },
+    "2120174120990376242": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Caption asks about a背影 image; no generation prompt."
+    },
+    "2120172913529892944": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Caption about a mermaid/dragon pairing; no generation prompt."
+    },
+    "2120146936875671787": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Narrative action-scene caption; no explicit usable generation prompt."
+    },
+    "2120144980031483912": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Casual caption only; no generation prompt."
+    },
+    "2120117635799281727": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Complaint about traffic/payout; no AI image/video or prompt."
+    },
+    "2120114790945153484": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Slice-of-life caption likely accompanying an AI visual; no generation prompt."
+    },
+    "2120100937960399113": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Media caption likely accompanying an AI visual; no generation prompt."
+    },
+    "2120069318453215620": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Describes an AI short-film concept, but provides no usable generation prompt."
+    },
+    "2120065464944488945": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Likely AI Chinese-painting-style visual; no generation prompt."
+    },
+    "2120046083510505590": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Slice-of-life caption likely accompanying an AI visual; no generation prompt."
+    },
+    "2120017941878235183": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Mentions AI video replication with Muse; no generation prompt."
+    },
+    "2119996001964687497": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Mentions AI/Muse video replication; no usable generation prompt."
+    },
+    "2119960090522399046": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Only a question asking which version people like, plus links; no generation prompt text."
+    },
+    "2120115250548662354": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Commentary about ChatGPT's future; no prompt."
+    },
+    "2120004772694560788": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Story-like caption with a link; no prompt."
+    },
+    "2119985798112330080": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:25+00:00",
+      "reason": "Praise comment only; no prompt."
+    },
+    "2119983938383106432": {
+      "status": "failed",
+      "at": "2026-11-11T00:21:44+00:00"
+    },
+    "2120305324859273439": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Talk about Claude credits and an application process; no prompt."
+    },
+    "2120174457629426095": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Discussion of a dev workflow tool; no generation prompt."
+    },
+    "2120159404557541464": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Announcement about an open-source e-commerce prompt library; no actual prompt text."
+    },
+    "2120146314990133611": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Commentary about exploring image prompts and courses; no actual generation prompt included."
+    },
+    "2120099239279972430": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Post about Claude account stability, not an AI image/video work or prompt."
+    },
+    "2120080836251066455": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Text LLM conversation about life advice; no image/video generation prompt."
+    },
+    "2120023134472683933": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Post about Claude account quotas/resets; no AI image/video prompt."
+    },
+    "2119956900393648245": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Discusses GPT-image2.6 wallpaper generation, but no usable generation prompt is included."
+    },
+    "2120205895057764722": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "References a Muse result and explicitly says no prompt was used; no prompt to extract."
+    },
+    "2119983981244674457": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Complaint about Claude renewal; not an AI image/video work or prompt."
+    },
+    "2120152336350036100": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Describes an AI 3D/video creation method and output, but no generation prompt is provided."
+    },
+    "2120033772334981358": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-11T00:21:44+00:00",
+      "reason": "Promotional post for an API relay/proxy service (Sidrune AI) with an invite link; no AI-generated image or video work and no generation prompt."
     }
   },
   "processed_inbox": {
@@ -2340,6 +2504,7 @@
     "2026-11-07.json": "be3c89b058694f687bd4507a50411d841a80f9b7889390ee4b77232460dcdf1d",
     "2026-11-08.json": "813821ab201eecd5bccae58fdb9f11636fa329647c44c7e0ad959468f7ab5846",
     "2026-11-09.json": "e44e2da3045bdad5d521d938c56779dd1c3799f8ef8ad5804698b4e5357a8587",
-    "2026-11-10.json": "e6a00c037a8298236bbe76ef248165417b4a6ae19d30acacee006f2a3b0e638f"
+    "2026-11-10.json": "e6a00c037a8298236bbe76ef248165417b4a6ae19d30acacee006f2a3b0e638f",
+    "2026-11-11.json": "c359f0c21bb9a3141d314c78ef9969f68dbc40404d8afffa24e98fd94007ab4b"
   }
 }
