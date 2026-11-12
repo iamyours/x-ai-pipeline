@@ -2484,6 +2484,196 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-11T00:21:44+00:00",
       "reason": "Promotional post for an API relay/proxy service (Sidrune AI) with an invite link; no AI-generated image or video work and no generation prompt."
+    },
+    "2120653257047671190": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:25:50+00:00",
+      "reason": "AI video post with a poetic caption; no generation prompt provided."
+    },
+    "2120649514394812620": {
+      "status": "failed",
+      "at": "2026-11-12T00:26:04+00:00"
+    },
+    "2120642155488420278": {
+      "status": "generated",
+      "at": "2026-11-12T00:26:28+00:00"
+    },
+    "2120550490132079102": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "AI artwork caption with no generation prompt."
+    },
+    "2120544979680641346": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "AI video post with a poetic caption; no generation prompt provided."
+    },
+    "2120539735211065798": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Poetic caption describing an AI image, but no explicit generation prompt."
+    },
+    "2120532570584854956": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Comment about Muse voice output; not an AI image/video work with a prompt."
+    },
+    "2120507241749197310": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Conversational text with no AI image/video generation prompt."
+    },
+    "2120496689358487708": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Meta post about copying/pasting a GIF; no AI generation prompt."
+    },
+    "2120491041916952846": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Meme/GIF sharing chatter; no prompt."
+    },
+    "2120489151455973418": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Dance/ghost video post; no prompt text provided."
+    },
+    "2120465120375525561": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Tutorial about copying GIF links; no AI work prompt."
+    },
+    "2120453133256286684": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Test post with links only; no prompt."
+    },
+    "2120448270359265436": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Character dialogue post likely with AI media, but no prompt."
+    },
+    "2120433793030836728": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Character dialogue post likely with AI media, but no prompt."
+    },
+    "2120430133714850105": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Cinematic AI video post says prompt is in comments, but no prompt candidate is included."
+    },
+    "2120421094561829250": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Personal chit-chat about traffic numbers and mood; no AI artwork or prompt."
+    },
+    "2120404693277143543": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Outfit showcase with images only; caption contains no generation prompt."
+    },
+    "2120389850872643627": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Narrative episode text for a character series; no generation prompt text included."
+    },
+    "2120354486711714010": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:28+00:00",
+      "reason": "Commentary on X's recommendation algorithm; not an AI artwork."
+    },
+    "2120318254900199531": {
+      "status": "generated",
+      "at": "2026-11-12T00:26:53+00:00"
+    },
+    "2120315575503290514": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:26:53+00:00",
+      "reason": "Teaser about a Muse-generated video; the prompt is promised in the comments, not present here."
+    },
+    "2120479153505943929": {
+      "status": "generated",
+      "at": "2026-11-12T00:27:14+00:00"
+    },
+    "2120478645118730509": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Render/test-version showcase with images; caption has no prompt, only a version filename."
+    },
+    "2120393355364643117": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "GIF usage tutorial, not an AI image/video work and no prompt."
+    },
+    "2120373754308317360": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "AI image model comparison, but no generation prompt included."
+    },
+    "2120542247179731087": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Discussion of a prompt library; no actual prompt text included."
+    },
+    "2120529294057468349": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Claude policy commentary, not an AI image/video work and no prompt."
+    },
+    "2120521423567589448": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Mentions an image prompt for hotel marketing, but the prompt text is absent."
+    },
+    "2120493395923947529": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Prompt-sharing announcement; no usable prompt text included."
+    },
+    "2120492174240604166": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Service/status update, not an AI image/video work and no prompt."
+    },
+    "2120434182392537364": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Learning/tools commentary, not an AI image/video work and no prompt."
+    },
+    "2120359701200412886": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Text commentary about AI tools; no usable image/video generation prompt in the post body."
+    },
+    "2120524698836734100": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:14+00:00",
+      "reason": "Describes a code-rendered ink short video, but provides no generation prompt."
+    },
+    "2120508633448657140": {
+      "status": "generated",
+      "at": "2026-11-12T00:27:41+00:00"
+    },
+    "2120462673477546387": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:41+00:00",
+      "reason": "Casual post about Claude subscription; no image/video generation prompt."
+    },
+    "2120610332901249193": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:41+00:00",
+      "reason": "Short commentary; no AI image/video or prompt."
+    },
+    "2120396608936505837": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:41+00:00",
+      "reason": "Includes a security-audit prompt, not an AI image/video generation prompt."
+    },
+    "2120367108332867674": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-12T00:27:41+00:00",
+      "reason": "News/commentary about a company; no generation prompt."
     }
   },
   "processed_inbox": {
@@ -2505,6 +2695,7 @@
     "2026-11-08.json": "813821ab201eecd5bccae58fdb9f11636fa329647c44c7e0ad959468f7ab5846",
     "2026-11-09.json": "e44e2da3045bdad5d521d938c56779dd1c3799f8ef8ad5804698b4e5357a8587",
     "2026-11-10.json": "e6a00c037a8298236bbe76ef248165417b4a6ae19d30acacee006f2a3b0e638f",
-    "2026-11-11.json": "c359f0c21bb9a3141d314c78ef9969f68dbc40404d8afffa24e98fd94007ab4b"
+    "2026-11-11.json": "c359f0c21bb9a3141d314c78ef9969f68dbc40404d8afffa24e98fd94007ab4b",
+    "2026-11-12.json": "f7e6e8333122747b3230d3e4ac4884b51d03036242f7ff3ec7ea75e614e6bd1d"
   }
 }
