@@ -2999,6 +2999,22 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-13T00:34:10+00:00",
       "reason": "Promotion of short drama niche with a link; no AI artwork or prompt."
+    },
+    "2120840230433632752": {
+      "status": "failed",
+      "at": "2026-11-13T07:47:17+00:00"
+    },
+    "2120546025186443475": {
+      "status": "failed",
+      "at": "2026-11-13T07:48:16+00:00"
+    },
+    "2120877372983640348": {
+      "status": "generated",
+      "at": "2026-11-13T07:48:41+00:00"
+    },
+    "2120876175656710416": {
+      "status": "generated",
+      "at": "2026-11-13T07:49:05+00:00"
     }
   },
   "processed_inbox": {
@@ -3021,6 +3037,7 @@
     "2026-11-09.json": "e44e2da3045bdad5d521d938c56779dd1c3799f8ef8ad5804698b4e5357a8587",
     "2026-11-10.json": "e6a00c037a8298236bbe76ef248165417b4a6ae19d30acacee006f2a3b0e638f",
     "2026-11-11.json": "c359f0c21bb9a3141d314c78ef9969f68dbc40404d8afffa24e98fd94007ab4b",
-    "2026-11-12.json": "f7e6e8333122747b3230d3e4ac4884b51d03036242f7ff3ec7ea75e614e6bd1d"
+    "2026-11-12.json": "f7e6e8333122747b3230d3e4ac4884b51d03036242f7ff3ec7ea75e614e6bd1d",
+    "2026-11-13.json": "d801cd411f8e60b9aae7eb43001290f4fdb09160340b0b8a74531d4ae6e3bec9"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "error": "HTTP 400: {\"error\":{\"message\":\"图片请求无效，请检查请求参数后重试。 (request id: 202611130747011968046438268d9d6xtzaZomW)\",\"type\":\"image_generation_error\",\"param\":\"\",\"code\":\"UPSTREAM_HTTP_400\"}}",
+  "usage": null,
+  "size": "1024x1536",
+  "kind": "image"
+}
