@@ -2674,6 +2674,331 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-12T00:27:41+00:00",
       "reason": "News/commentary about a company; no generation prompt."
+    },
+    "2121012872805593193": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:20+00:00",
+      "reason": "Poetic caption about an AI dance clip with hashtags only; no generation prompt given."
+    },
+    "2120898989184975294": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:20+00:00",
+      "reason": "Character backstory narrative with a single hashtag; no prompt text."
+    },
+    "2120887950548348945": {
+      "status": "generated",
+      "at": "2026-11-13T00:32:44+00:00"
+    },
+    "2120886352745308226": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Poetic caption for an AI dance clip with hashtags; no prompt."
+    },
+    "2120880905321636015": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Casual AI-persona chit-chat post with a link; no generation prompt."
+    },
+    "2120879803519918514": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Poetic caption with hashtags and a share link; no prompt text included."
+    },
+    "2120871352681054673": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "One-line teaser question with a link; no prompt."
+    },
+    "2120862618361676002": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Animated short-film episode with story text, credits and hashtags; no generation prompt."
+    },
+    "2120913860463149057": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Only a shortened link; no AI work or generation prompt is provided."
+    },
+    "2120580803851678005": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "AI-art caption and hashtags are present, but no generation prompt is included."
+    },
+    "2120713885624029348": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Text about earnings and fan support; no AI image/video work or prompt."
+    },
+    "2120905505241739334": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Good-night message with a link; no AI work or generation prompt."
+    },
+    "2120896897577886137": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Commentary about experiments and models; no image/video prompt."
+    },
+    "2120818886815723922": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Music-related caption and hashtags; no AI generation prompt."
+    },
+    "2120714449430479041": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Brief reaction to a Latin dance video; no AI generation prompt."
+    },
+    "2120862392188076403": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:32:44+00:00",
+      "reason": "Short caption with a link; no usable generation prompt."
+    },
+    "2120534262235484188": {
+      "status": "failed",
+      "at": "2026-11-13T00:33:02+00:00"
+    },
+    "2120850424936993019": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:02+00:00",
+      "reason": "Crypto/video commentary; no AI work or prompt."
+    },
+    "2120863307204845915": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:02+00:00",
+      "reason": "AI art hashtags and poetic caption, but no generation prompt."
+    },
+    "2120855476284141576": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:02+00:00",
+      "reason": "Likely AI dance video post; no prompt included."
+    },
+    "2120842105736331756": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:02+00:00",
+      "reason": "Short dance video post; no prompt included."
+    },
+    "2120830896152645976": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:02+00:00",
+      "reason": "AI dance/ballet video post; no prompt included."
+    },
+    "2120005987486822608": {
+      "status": "generated",
+      "at": "2026-11-13T00:33:24+00:00"
+    },
+    "2120810833793994790": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "Mentions Grok-made AI images and a prompt, but does not include the prompt text."
+    },
+    "2120444801699230131": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "AI image work referencing Grok and an elf warrior; prompt is said to be in comments but is not present in the provided candidates."
+    },
+    "2120812312424833417": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "Likely AI video performance caption; no generation prompt included."
+    },
+    "2120802683074527320": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "References GPT generating something, but no prompt text is provided."
+    },
+    "2120797918949188073": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "Likely AI video clip caption; no usable generation prompt present."
+    },
+    "2120747442631282795": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "Slice-of-life AI image caption; no generation prompt included."
+    },
+    "2120690312700146032": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:24+00:00",
+      "reason": "Short caption only; no generation prompt included."
+    },
+    "2120674905792659461": {
+      "status": "generated",
+      "at": "2026-11-13T00:33:48+00:00"
+    },
+    "2120852779686359363": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:33:48+00:00",
+      "reason": "Commentary about graphic design and a skill/tool, not an AI image/video work with a prompt."
+    },
+    "2120839020015992848": {
+      "status": "failed",
+      "at": "2026-11-13T00:34:10+00:00"
+    },
+    "2120654554198929455": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Joke post with a link, no generation prompt or AI-work details."
+    },
+    "2120853898806341887": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Personal travel post about Shanghai; no prompt."
+    },
+    "2120851005453824309": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Only a short poetic caption and link; no prompt text."
+    },
+    "2120833992614146290": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Reflective text about '会いたい'; no prompt."
+    },
+    "2120730297800990788": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Announcement of an ElevenLabs ambassador role; no generation prompt."
+    },
+    "2120496885178015873": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "AI image post describing MiniMax H3-Image portrait tuning, but the actual prompt is only in an attached image, no prompt text in the candidates."
+    },
+    "2120543230504890377": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "分享 MiniMax-H3-Image 的对比渲染结果，但未给出实际提示词文本（仅提及“同一提示词同种子”）。"
+    },
+    "2120698094576935040": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "内容是关于租用云 GPU 来加速渲染的讨论，并非 AI 作品发布。"
+    },
+    "2120751601581474126": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "内容是关于 Unity 的 3D 材质作品，并非基于提示词的 AI 生成。"
+    },
+    "2120419275966210067": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "内容是关于代理节点设置和 Google 账号风控的技术讨论。"
+    },
+    "2120743716248043552": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "是用 Google Omni AI 制作的 AI 视频，但文字只是诗意的文案/说明，不是可用的生成提示词。"
+    },
+    "2120735841832026557": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "这是一条关于喝咖啡的轻松文字，没有 AI 图像/视频，也没有提示词。"
+    },
+    "2120642387253072049": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "这是一个音乐短视频帖子，介绍陈奕迅的一首歌，没有 AI 生成提示词。"
+    },
+    "2120705575109394657": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "武侠短篇连载宣传，未明确为AI作品，且无提示词"
+    },
+    "2120719285966528999": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "提到用GPT做效果展示，但正文没有生成提示词"
+    },
+    "2120708956050141477": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "生活随笔，无AI作品或提示词"
+    },
+    "2120719482121261078": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "提及GPT设计工作流，但无具体生成提示词"
+    },
+    "2121028351993545108": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "提到作图记录提示词，但提示词仅在链接中，正文无可用提示词"
+    },
+    "2120909975673557393": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "关于会员邮件和提示词库的说明，无AI作品或提示词"
+    },
+    "2120832910907568423": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Discusses Claude account stability; no AI image/video generation prompt."
+    },
+    "2120813095035748533": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Comment about using a skill and token consumption; no generation prompt."
+    },
+    "2120866634219020551": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "KYC/account discussion; no AI image/video prompt."
+    },
+    "2120893215863955558": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Account ban complaint; no generation prompt."
+    },
+    "2120879774222647516": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Claude account status report; no generation prompt."
+    },
+    "2120835812879446245": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Discussion of KYC behavior; no generation prompt."
+    },
+    "2120823853882434025": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Only a link; no prompt."
+    },
+    "2120737850639740972": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Mentions aesthetic prompts but provides no actual generation prompt."
+    },
+    "2120888125937598953": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Commentary about Nvidia/Jensen Huang resigning; no AI image/video work or generation prompt."
+    },
+    "2120804513712054572": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Short remark about KYC with a link; no artwork or prompt."
+    },
+    "2120875507147530417": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Recommendation of a media workflow with links; no generation prompt."
+    },
+    "2120837741256781875": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Discussion of Doubao AI harness and model switching; no image/video prompt."
+    },
+    "2120743495032041731": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Comment about AI-assisted 3A game creation with links; no prompt."
+    },
+    "2120694010989924363": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-13T00:34:10+00:00",
+      "reason": "Promotion of short drama niche with a link; no AI artwork or prompt."
     }
   },
   "processed_inbox": {
