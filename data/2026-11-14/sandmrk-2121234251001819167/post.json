@@ -1,0 +1,29 @@
+{
+  "tweet_id": "2121234251001819167",
+  "url": "https://x.com/sandmrk/status/2121234251001819167",
+  "author": "sandmrk",
+  "text": "谁家的妹子？ https://t.co/Yr71DzwYP9",
+  "prompt_text": "",
+  "replies": [
+    "喜欢的自己回家生一个吧\n\nImage generation prompt:\nA photorealistic full-body fashion snapshot of one adult East Asian woman standing in a metro car, leaning against the sliding door and looking down at her phone — shot straight-on at her chest height, camera level, mild telephoto, all verticals straight, natural colors, clean modern photography with no painterly effect.\nvertical frame; her figure spans x33-68%, y7-97%; head x41-65%, y7.5-21%; the phone x49-56%, y24-28%; her shoulder bag hangs at x30-40%, y36-42%; her crossed feet occupy x47-64%, y84-97%; the metro door fills the background behind her from x22% to the right edge; a stainless grab pole stands in the left foreground at x5-14%; grey speckled floor across the bottom y86-100%.\nher shoulders and upper back lean against the door, weight settled; head tilted DOWN about 20 degrees; both elbows bent and tucked close to her torso, forearms raised so both hands cradle a silver smartphone at chest height — thumbs resting on the phone's lower front corners, fingers wrapped behind it with only the fingertips showing at its edges; her legs descend long and straight: the supporting leg vertical, the other leg crossing IN FRONT of it at the lower shin, ankles crossed, the front foot planted flat at bottom center x53-63%, the rear foot just behind at x47-55%, both pointed toes angled slightly outward.\nher eyes are cast down about 35 degrees onto the phone screen, upper lids lowered, long lashes, no eye contact with the camera; brows relaxed; soft red lips closed in a calm neutral line; three layers — surface: lowered lids, still lips, chin down; inner: the quiet detachment of a commute, the carriage politely ignored; leakage: her thumb rests motionless on the phone's edge, mid-scroll, forgotten.\nadult woman, mid-twenties; fair smooth skin, delicate oval face, three equal thirds, five eye-widths; long black wavy hair with a center part falling over both shoulders to her waist; tall slender fashion-model proportions: narrow shoulders about two head-widths, long neck, waist softly tapered, bust line naturally full, hips slightly narrow; legs long and lean — each thigh only about 13-15% of the frame width in span, slim straight thighs with a clean narrow gap line, long slim calves, the hip line set high so the legs read elongated all the way to the ankles; healthy and realistic, never gaunt.\nall black: a tailored single-breasted blazer with notch lapels and flap pockets worn open; beneath it a SHORT black turtleneck knit top whose hem ends high at the UPPER-HIP line, about 45% of the frame height; from that hem downward there are ONLY opaque matte black leggings — no skirt, no dress, no shorts, no second clothing layer at the hips; the open blazer panels fall a little lower than the top's hem at the sides, framing the leggings between them; black patent pointed-toe pumps each with one small silver rectangular buckle on the vamp; a small glossy black shoulder bag on a thin strap at her side.\nwhite sliding doors with dark windows behind her, fluorescent tube reflections and one blurred seated passenger silhouette in the glass; a yellow-and-black diagonal hazard stripe running vertically along the door's left edge at x21-27%; two small yellow triangular warning pictograms on the left door frame; two red circular prohibition pictograms on the right door panel (graphic symbols only); at the far-left edge a route map poster rendered as abstract colored lines with NO readable words; brushed-metal kick plates along the door base; even cool fluorescent light, soft shadows, slight sheen on the floor.\ntrue photographic rendering: real skin texture with pores, fabric weave on the blazer, matte nylon surface on the leggings, patent reflections on the shoes, glass and metal behaving like real materials; palette ruled by black and white with the yellow hazard stripe and red pictograms as the only color accents.",
+    "Negative: no skirt, no dress, no shorts, no long top, no top hem below the upper hip, no wider hips, no fuller thighs, no shorter legs, no readable text, no letters, no words, no logo, no extra people in focus, no looking at the camera, no raised head, no uncrossed legs, no extra arms, no extra hands, no extra or fused fingers, no distorted joints, no anime, no cartoon, no painterly effect, no plastic skin, no oversmoothing, no vacant stare.\nSignature: \"AI art gallery | @sandmrk\" exactly once, bottom center, Montserrat Regular, pure white, +1.5px letter spacing, 2% image height, max width 25% of image width, 10% above bottom edge, no shadow, outline, glow or background."
+  ],
+  "media": [
+    {
+      "type": "photo",
+      "width": 941,
+      "height": 1672,
+      "url": "https://pbs.twimg.com/media/HXApf3YakAE5EN2.jpg"
+    },
+    {
+      "type": "photo",
+      "width": 941,
+      "height": 1672,
+      "url": "https://pbs.twimg.com/media/HXApg5paQAAEf-9.jpg"
+    }
+  ],
+  "created_at": "2026-11-13T13:30:30.000Z",
+  "source": "inbox",
+  "conversation_id": "2121234251001819167",
+  "author_id": "141634533"
+}
