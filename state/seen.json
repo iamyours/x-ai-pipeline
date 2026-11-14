@@ -3880,6 +3880,36 @@
       "status": "skipped_no_prompt",
       "at": "2026-11-14T00:38:49+00:00",
       "reason": "转发推文，内容为投资经历与用 AI 研究美股，与 AI 图像/视频创作及提示词无关。"
+    },
+    "2121146908324601943": {
+      "status": "generated",
+      "at": "2026-11-14T07:32:21+00:00"
+    },
+    "2121100826894590435": {
+      "status": "generated",
+      "at": "2026-11-14T07:32:46+00:00"
+    },
+    "2120682103247413446": {
+      "status": "generated",
+      "at": "2026-11-14T07:33:09+00:00"
+    },
+    "2121037578321489966": {
+      "status": "generated",
+      "at": "2026-11-14T07:33:34+00:00"
+    },
+    "2120863420799218140": {
+      "status": "generated",
+      "at": "2026-11-14T07:33:59+00:00"
+    },
+    "2120843801086545954": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-14T07:33:59+00:00",
+      "reason": "Only a short scenic caption with a t.co link; no generation prompt provided."
+    },
+    "2121098731164487949": {
+      "status": "skipped_no_prompt",
+      "at": "2026-11-14T07:33:59+00:00",
+      "reason": "Only a poetic caption with a t.co link; no generation prompt."
     }
   },
   "processed_inbox": {
